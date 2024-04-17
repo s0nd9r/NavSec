@@ -366,7 +366,7 @@
       logo: https://api.iowen.cn/favicon/security.dbappsecurity.com.cn.png
       url: https://security.dbappsecurity.com.cn/index
       description: ''
-    - title: 安全应急响应中心
+    - title: 苏宁安全应急响应中心
       logo: https://api.iowen.cn/favicon/security.suning.com.png
       url: https://security.suning.com/ssrc-web/index.jsp
       description: ''
@@ -385,10 +385,6 @@
     - title: 大疆安全应急响应中心
       logo: https://api.iowen.cn/favicon/security.dji.com.png
       url: https://security.dji.com/
-      description: ''
-    - title: 大疆安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.dji.com.png
-      url: https://security.dji.com/?lang=zh_CN
       description: ''
     - title: 滴滴出行安全应急响应中心
       logo: https://api.iowen.cn/favicon/sec.didichuxing.com.png
@@ -697,6 +693,10 @@
     logo: https://api.iowen.cn/favicon/grep.app.png
     url: https://grep.app/
     description: ''
+  - title: DayDayMap
+    logo: https://api.iowen.cn/favicon/www.daydaymap.com.png
+    url: https://www.daydaymap.com/home
+    description: ''
 - taxonomy: 信息搜集
   icon: fas fa-shield-alt fa-lg icon-fw icon-lg mr-2
   list:
@@ -737,6 +737,10 @@
     - title: whois查询 - 爱站网
       logo: https://api.iowen.cn/favicon/whois.aizhan.com.png
       url: https://whois.aizhan.com/
+      description: ''
+    - title: Whois IP & Domain Lookup | Whois.com
+      logo: https://api.iowen.cn/favicon/www.whois.com.png
+      url: https://www.whois.com/whois/
       description: ''
   - term: ICP备案查询
     links:
@@ -789,6 +793,10 @@
     - title: RapidDNS
       logo: https://api.iowen.cn/favicon/rapiddns.io.png
       url: https://rapiddns.io/
+      description: ''
+    - title: Reverse IP Lookup - Find All Hosts Sharing An IP Address
+      logo: https://api.iowen.cn/favicon/www.ipaddress.com.png
+      url: https://www.ipaddress.com/reverse-ip-lookup
       description: ''
   - term: 子域名查询
     links:
@@ -845,6 +853,22 @@
     - title: Reverse IP Lookup - ViewDNS.info
       logo: https://api.iowen.cn/favicon/viewdns.info.png
       url: https://viewdns.info/reverseip/
+      description: ''
+    - title: DNS Lookup - WhatIsMyIP.com®
+      logo: https://api.iowen.cn/favicon/www.whatismyip.com.png
+      url: https://www.whatismyip.com/dns-lookup/
+      description: ''
+    - title: DNS Checker -  KeyCDN Tools
+      logo: https://api.iowen.cn/favicon/tools.keycdn.com.png
+      url: https://tools.keycdn.com/dig
+      description: ''
+    - title: DNS Checker
+      logo: https://api.iowen.cn/favicon/dnschecker.org.png
+      url: https://dnschecker.org/
+      description: ''
+    - title: DNS Lookup - IPAddress
+      logo: https://api.iowen.cn/favicon/www.ipaddress.com.png
+      url: https://www.ipaddress.com/dns-lookup
       description: ''
   - term: 证书查询
     links:
