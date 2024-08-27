@@ -1,22 +1,3 @@
-- taxonomy: 安全动态
-  icon: fas fa-shield-alt fa-lg icon-fw icon-lg mr-2
-  links:
-  - title: Hacking8安全信息流
-    logo: https://api.iowen.cn/favicon/i.hacking8.com.png
-    url: https://i.hacking8.com/forums/
-    description: ''
-  - title: 洞见微信AI聚合
-    logo: https://api.iowen.cn/favicon/wechat.doonsec.com.png
-    url: http://wechat.doonsec.com/
-    description: ''
-  - title: unSafe
-    logo: https://api.iowen.cn/favicon/unsafe.sh.png
-    url: https://unsafe.sh/
-    description: ''
-  - title: 全网文章 - 风炫安全
-    logo: https://api.iowen.cn/favicon/evalshell.com.png
-    url: https://evalshell.com/articles
-    description: ''
 - taxonomy: 安全门户
   icon: fas fa-shield-alt fa-lg icon-fw icon-lg mr-2
   links:
@@ -614,7 +595,7 @@
       logo: https://api.iowen.cn/favicon/security.vivo.com.cn.png
       url: https://security.vivo.com.cn/#/home
       description: ''
-- taxonomy: 空间测绘
+- taxonomy: 资产测绘
   icon: fas fa-shield-alt fa-lg icon-fw icon-lg mr-2
   links:
   - title: FOFA
@@ -697,6 +678,14 @@
     logo: https://api.iowen.cn/favicon/www.daydaymap.com.png
     url: https://www.daydaymap.com/home
     description: ''
+  - title: Hunter Search Engine
+    logo: https://api.iowen.cn/favicon/hunter.how.png
+    url: https://hunter.how/
+    description: ''
+  - title: Netlas.io
+    logo: https://api.iowen.cn/favicon/app.netlas.io.png
+    url: https://app.netlas.io/host/
+    description: ''
 - taxonomy: 信息搜集
   icon: fas fa-shield-alt fa-lg icon-fw icon-lg mr-2
   list:
@@ -741,6 +730,22 @@
     - title: Whois IP & Domain Lookup | Whois.com
       logo: https://api.iowen.cn/favicon/www.whois.com.png
       url: https://www.whois.com/whois/
+      description: ''
+    - title: WHO.CX - Whois查询
+      logo: https://api.iowen.cn/favicon/who.cx.png
+      url: https://who.cx/
+      description: ''
+    - title: 全球WHOIS查询 | WHOIS.SL
+      logo: https://api.iowen.cn/favicon/whois.sl.png
+      url: https://whois.sl/
+      description: ''
+    - title: 猫咪whois全球查询
+      logo: https://api.iowen.cn/favicon/mao.cx.png
+      url: https://mao.cx/
+      description: ''
+    - title: Next Whois Lookup
+      logo: https://api.iowen.cn/favicon/who.zmh.me.png
+      url: https://who.zmh.me/
       description: ''
   - term: ICP备案查询
     links:
@@ -824,6 +829,10 @@
       logo: https://api.iowen.cn/favicon/tool.chinaz.com.png
       url: https://tool.chinaz.com/subdomain/
       description: ''
+    - title: ⚡️ ReconSage | Subdomain Scanner
+      logo: https://api.iowen.cn/favicon/www.reconsage.com.png
+      url: https://www.reconsage.com/tools/scan-subdomain
+      description: ''
   - term: DNS查询
     links:
     - title: 阿里云网站运维检测平台
@@ -869,6 +878,10 @@
     - title: DNS Lookup - IPAddress
       logo: https://api.iowen.cn/favicon/www.ipaddress.com.png
       url: https://www.ipaddress.com/dns-lookup
+      description: ''
+    - title: DNS Lookup
+      logo: https://api.iowen.cn/favicon/www.nslookup.io.png
+      url: https://www.nslookup.io/
       description: ''
   - term: 证书查询
     links:
@@ -1444,6 +1457,10 @@
     logo: https://api.iowen.cn/favicon/wiki.wgpsec.org.png
     url: https://wiki.wgpsec.org/knowledge/
     description: ''
+  - title: wy876漏洞文库
+    logo: https://api.iowen.cn/favicon/wiki.wy876.cn.png
+    url: https://wiki.wy876.cn/#/
+    description: ''
 - taxonomy: 测试靶场
   icon: fas fa-shield-alt fa-lg icon-fw icon-lg mr-2
   links:
@@ -1637,10 +1654,6 @@
     logo: https://api.iowen.cn/favicon/uutool.cn.png
     url: https://uutool.cn/domain-ip/
     description: ''
-  - title: Netlas.io
-    logo: https://api.iowen.cn/favicon/app.netlas.io.png
-    url: https://app.netlas.io/host/
-    description: ''
   - title: LeakIX
     logo: https://api.iowen.cn/favicon/leakix.net.png
     url: https://leakix.net/
@@ -1664,4 +1677,12 @@
   - title: 百川在线工具箱
     logo: https://api.iowen.cn/favicon/rivers.chaitin.cn.png
     url: https://rivers.chaitin.cn/tools/
+    description: ''
+  - title: Cross-Site Scripting (XSS) Cheat Sheet
+    logo: https://api.iowen.cn/favicon/portswigger.net.png
+    url: https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
+    description: ''
+  - title: The BBC Africa Eye /Forensics Dashboard - start.me
+    logo: https://api.iowen.cn/favicon/start.me.png
+    url: https://start.me/p/m6OJgv/the-bbc-africa-eye-forensics-dashboard
     description: ''
