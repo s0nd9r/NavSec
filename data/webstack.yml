@@ -78,7 +78,7 @@
     description: ''
   - title: IOTsec-Zone物联网安全社区
     logo: https://api.iowen.cn/favicon/www.iotsec-zone.com.png
-    url: https://www.iotsec-zone.com/vullist?ref=8.217.124.199
+    url: https://www.iotsec-zone.com/
     description: ''
 - taxonomy: 漏洞情报
   icon: fas fa-shield-alt fa-lg icon-fw icon-lg mr-2
@@ -565,7 +565,7 @@
       description: ''
     - title: 自如安全应急响应中心
       logo: https://api.iowen.cn/favicon/zrsecurity.ziroom.com.png
-      url: https://zrsecurity.ziroom.com/index.php?m=&c=index&a=index
+      url: https://zrsecurity.ziroom.com/
       description: ''
     - title: BIGO 安全响应中心
       logo: https://api.iowen.cn/favicon/security.bigo.sg.png
@@ -685,6 +685,10 @@
   - title: Netlas.io
     logo: https://api.iowen.cn/favicon/app.netlas.io.png
     url: https://app.netlas.io/host/
+    description: ''
+  - title: Asset Search | Criminal IP
+    logo: https://api.iowen.cn/favicon/www.criminalip.io.png
+    url: https://www.criminalip.io/asset
     description: ''
 - taxonomy: 信息搜集
   icon: fas fa-shield-alt fa-lg icon-fw icon-lg mr-2
@@ -1685,4 +1689,9 @@
   - title: The BBC Africa Eye /Forensics Dashboard - start.me
     logo: https://api.iowen.cn/favicon/start.me.png
     url: https://start.me/p/m6OJgv/the-bbc-africa-eye-forensics-dashboard
+    description: ''
+  - title: 'Internet Archive: Digital Library of Free & Borrowable Books, Movies,
+      Music & Wayback Machine'
+    logo: https://api.iowen.cn/favicon/archive.org.png
+    url: https://archive.org/
     description: ''
