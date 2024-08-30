@@ -600,7 +600,7 @@
       url: https://security.focuschina.com
       description: ''
 - taxonomy: 资产测绘
-  icon: fab fa-searchengin fa-lg icon-fw icon-lg mr-2
+  icon: fab fa-searchengin
   links:
   - title: FOFA
     logo: https://api.iowen.cn/favicon/fofa.info.png
@@ -1052,60 +1052,60 @@
       logo: https://api.iowen.cn/favicon/stack.chaitin.com.png
       url: https://stack.chaitin.com/security-challenge/webshell/index
       description: ''
-- term: 病毒木马分析
-  links:
-  - title: 可疑文件分析云
-    logo: https://api.iowen.cn/favicon/cloud.vdnel.cn.png
-    url: https://cloud.vdnel.cn/
-    description: ''
-  - title: 阿里云恶意文件检测平台
-    logo: https://api.iowen.cn/favicon/ti.aliyun.com.png
-    url: https://ti.aliyun.com/#/sastiFile
-    description: ''
-  - title: 微步在线云沙箱
-    logo: https://api.iowen.cn/favicon/s.threatbook.com.png
-    url: https://s.threatbook.com/
-    description: ''
-  - title: 360沙箱云
-    logo: https://api.iowen.cn/favicon/ata.360.net.png
-    url: https://ata.360.net/
-    description: ''
-  - title: 深信服云沙箱
-    logo: https://api.iowen.cn/favicon/ti.sangfor.com.cn.png
-    url: https://ti.sangfor.com.cn/sandbox-dashboard
-    description: ''
-  - title: 奇安信情报沙箱
-    logo: https://api.iowen.cn/favicon/sandbox.ti.qianxin.com.png
-    url: https://sandbox.ti.qianxin.com/sandbox/page
-    description: ''
-  - title: 腾讯哈勃分析系统
-    logo: https://api.iowen.cn/favicon/habo.qq.com.png
-    url: https://habo.qq.com/
-    description: ''
-  - title: 大圣云沙箱检测系统
-    logo: https://api.iowen.cn/favicon/mac-cloud.riskivy.com.png
-    url: https://mac-cloud.riskivy.com/detect
-    description: ''
-  - title: VirusTotal
-    logo: https://api.iowen.cn/favicon/www.virustotal.com.png
-    url: https://www.virustotal.com/gui/home/upload
-    description: ''
-  - title: VirScan
-    logo: https://api.iowen.cn/favicon/www.virscan.org.png
-    url: https://www.virscan.org/
-    description: ''
-  - title: DynamiteLab
-    logo: https://api.iowen.cn/favicon/lab.dynamite.ai.png
-    url: https://lab.dynamite.ai/
-    description: ''
-  - title: ANY.RUN
-    logo: https://api.iowen.cn/favicon/app.any.run.png
-    url: https://app.any.run/
-    description: ''
-  - title: Joe Sandbox
-    logo: https://api.iowen.cn/favicon/www.joesandbox.com.png
-    url: https://www.joesandbox.com/analysispaged/0
-    description: ''
+  - term: 病毒木马分析
+    links:
+    - title: 可疑文件分析云
+      logo: https://api.iowen.cn/favicon/cloud.vdnel.cn.png
+      url: https://cloud.vdnel.cn/
+      description: ''
+    - title: 阿里云恶意文件检测平台
+      logo: https://api.iowen.cn/favicon/ti.aliyun.com.png
+      url: https://ti.aliyun.com/#/sastiFile
+      description: ''
+    - title: 微步在线云沙箱
+      logo: https://api.iowen.cn/favicon/s.threatbook.com.png
+      url: https://s.threatbook.com/
+      description: ''
+    - title: 360沙箱云
+      logo: https://api.iowen.cn/favicon/ata.360.net.png
+      url: https://ata.360.net/
+      description: ''
+    - title: 深信服云沙箱
+      logo: https://api.iowen.cn/favicon/ti.sangfor.com.cn.png
+      url: https://ti.sangfor.com.cn/sandbox-dashboard
+      description: ''
+    - title: 奇安信情报沙箱
+      logo: https://api.iowen.cn/favicon/sandbox.ti.qianxin.com.png
+      url: https://sandbox.ti.qianxin.com/sandbox/page
+      description: ''
+    - title: 腾讯哈勃分析系统
+      logo: https://api.iowen.cn/favicon/habo.qq.com.png
+      url: https://habo.qq.com/
+      description: ''
+    - title: 大圣云沙箱检测系统
+      logo: https://api.iowen.cn/favicon/mac-cloud.riskivy.com.png
+      url: https://mac-cloud.riskivy.com/detect
+      description: ''
+    - title: VirusTotal
+      logo: https://api.iowen.cn/favicon/www.virustotal.com.png
+      url: https://www.virustotal.com/gui/home/upload
+      description: ''
+    - title: VirScan
+      logo: https://api.iowen.cn/favicon/www.virscan.org.png
+      url: https://www.virscan.org/
+      description: ''
+    - title: DynamiteLab
+      logo: https://api.iowen.cn/favicon/lab.dynamite.ai.png
+      url: https://lab.dynamite.ai/
+      description: ''
+    - title: ANY.RUN
+      logo: https://api.iowen.cn/favicon/app.any.run.png
+      url: https://app.any.run/
+      description: ''
+    - title: Joe Sandbox
+      logo: https://api.iowen.cn/favicon/www.joesandbox.com.png
+      url: https://www.joesandbox.com/analysispaged/0
+      description: ''
   - term: 勒索病毒解密
     links:
     - title: 360勒索病毒解密
@@ -1499,7 +1499,7 @@
       url: https://av.aabyss.cn/
       description: ''
 - taxonomy: 安全文库
-  icon: fas fa-shield-alt fa-lg icon-fw icon-lg mr-2
+  icon: fas fa-book-open
   links:
   - title: PeiQi文库
     logo: https://api.iowen.cn/favicon/peiqi.wgpsec.org.png
