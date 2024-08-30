@@ -200,7 +200,7 @@ a>i.sidebar-more{transform:scale(.8)}
 .url-card .url-info{overflow:hidden;padding-right:5px}
 .url-card .url-goto-after{height:24px;border-top:1px solid rgba(136,136,136,.2)}
 .url-card .url-goto{position:absolute;bottom:0;left:0px;right:0}
-.url-card .card-body{padding:.938rem}
+.url-card .card-body{padding:.938rem;border:''}
 .url-card .url-img{width:40px;height:40px;-webkit-box-flex:0;-ms-flex:none;flex:none;background:rgba(255, 255, 255, 0);overflow:hidden}
 .url-card .url-img>img{max-height:100%;vertical-align:unset}
 .url-card .max .url-img{width:60px;height:60px}

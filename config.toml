@@ -1,4 +1,4 @@
-baseURL               = "https://nav.llkk.cc/"
+baseURL               = "https://nav.whoopscs.com"
 languageCode          = "zh-CN"
 title                 = "网络安全导航 - Cybersecurity"
 theme                 = "WebStack-Hugo"
@@ -11,9 +11,9 @@ publishDir            = "public"					        # 站点静态文件保存目录
 [params]
     author        = "Cybersecurity"
     description   = "Cybersecurity Navigation"
-    upload        = "https://nav.llkk.cc/"                 # 左侧导航栏的"网站提交"
-    about         = "https://nav.llkk.cc/"	                # 左侧导航栏的"关于导航"页面(./about)
-    repository    = "https://nav.llkk.cc/"
+    upload        = "https://github.com/whoopscs/navsec/issues"                  # 左侧导航栏的"网站提交"
+    about         = "https://github.com/whoopscs"	                # 左侧导航栏的"关于导航"页面(./about)
+    repository    = "https://github.com/whoopscs"
     enablePreLoad = false					                # 网站完全打开前预加载动画
     textPreLoad   = "Cybersecurity..."		                # 预加载的动画文字, 只有当enablePreLoad=true时生效
     expandSidebar = true					                # 默认展开左侧边导航栏
@@ -45,4 +45,4 @@ publishDir            = "public"					        # 站点静态文件保存目录
     unsafe = true
 
 [params.footer]
-    copyright = 'Copyright © 2018-2024 [Cybersecurity](https://nav.llkk.cc/)   Theme [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo/)<br/>'
+    copyright = 'Copyright © 2018-2024 [Cybersecurity](https://nav.whoopscs.com)   Theme [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo/)<br/>'
