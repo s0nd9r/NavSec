@@ -1,5 +1,5 @@
 - taxonomy: 安全门户
-  icon: fas fa-shield-alt fa-lg icon-fw icon-lg mr-2
+  icon: fas fa-warehouse fa-lg fa-lg icon-fw icon-lg mr-2
   links:
   - title: FreeBuf
     logo: https://api.iowen.cn/favicon/www.freebuf.com.png
@@ -30,7 +30,7 @@
     url: https://www.sec-wiki.com/
     description: ''
 - taxonomy: 社区论坛
-  icon: fas fa-shield-alt fa-lg icon-fw icon-lg mr-2
+  icon: fas fa-comments fa-lg fa-lg icon-fw icon-lg mr-2
   links:
   - title: T00ls
     logo: https://api.iowen.cn/favicon/www.t00ls.com.png
@@ -81,7 +81,7 @@
     url: https://www.iotsec-zone.com/
     description: ''
 - taxonomy: 漏洞情报
-  icon: fas fa-shield-alt fa-lg icon-fw icon-lg mr-2
+  icon: fas fa-bug fa-lg fa-lg icon-fw icon-lg mr-2
   list:
   - term: 国内漏洞情报
     links:
@@ -200,7 +200,7 @@
       url: https://msrc.microsoft.com/update-guide/vulnerability
       description: ''
 - taxonomy: 威胁情报
-  icon: fas fa-shield-alt fa-lg icon-fw icon-lg mr-2
+  icon: fas fa-theater-masks fa-lg fa-lg icon-fw icon-lg mr-2
   links:
   - title: 微步X情报社区
     logo: https://api.iowen.cn/favicon/x.threatbook.com.png
@@ -271,7 +271,7 @@
     url: http://www.cntd.org.cn/
     description: ''
 - taxonomy: 漏洞平台
-  icon: fas fa-shield-alt fa-lg icon-fw icon-lg mr-2
+  icon: fas fa-yen-sign fa-lg fa-lg icon-fw icon-lg mr-2
   list:
   - term: 国内漏洞平台
     links:
@@ -296,7 +296,7 @@
       url: https://zhongce.360.net/
       description: ''
     - title: 教育漏洞报告平台
-      logo: https://api.iowen.cn/favicon/src.sjtu.edu.cn.png
+      logo: https://src.sjtu.edu.cn/static/img/main.ico
       url: https://src.sjtu.edu.cn/
       description: ''
   - term: 国外漏洞平台
@@ -376,7 +376,7 @@
       url: https://security.eastmoney.com/
       description: ''
     - title: 斗鱼安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.douyu.com.png
+      logo: https://security.douyu.com/favicon.ico
       url: https://security.douyu.com/#/welcome
       description: ''
     - title: 多点安全应急响应中心
@@ -595,103 +595,111 @@
       logo: https://api.iowen.cn/favicon/security.vivo.com.cn.png
       url: https://security.vivo.com.cn/#/home
       description: ''
+    - title: 焦点安全应急响应中心
+      logo: https://api.iowen.cn/favicon/security.focuschina.com.png
+      url: https://security.focuschina.com
+      description: ''
 - taxonomy: 资产测绘
-  icon: fas fa-shield-alt fa-lg icon-fw icon-lg mr-2
+  icon: fab fa-searchengin fa-lg icon-fw icon-lg mr-2
   links:
   - title: FOFA
     logo: https://api.iowen.cn/favicon/fofa.info.png
     url: https://fofa.info/
-    description: ''
+    description: '华顺信安网络空间资产搜索引擎'
   - title: Quake
     logo: https://api.iowen.cn/favicon/quake.360.net.png
     url: https://quake.360.net/quake/#/index
-    description: ''
+    description: '360网络空间测绘'
   - title: Hunter
     logo: https://api.iowen.cn/favicon/hunter.qianxin.com.png
     url: https://hunter.qianxin.com/
-    description: ''
+    description: '奇安信全球鹰全球互联网资产搜集平台'
   - title: ZoomEye
     logo: https://api.iowen.cn/favicon/www.zoomeye.org.png
     url: https://www.zoomeye.org/
-    description: ''
-  - title: Shodan
-    logo: https://api.iowen.cn/favicon/www.shodan.io.png
-    url: https://www.shodan.io/
-    description: ''
-  - title: 谛听 - 专注工控安全的搜索引擎
+    description: '知道创宇网络空间搜索引擎'
+  - title: 谛听
     logo: https://api.iowen.cn/favicon/www.ditecting.com.png
     url: https://www.ditecting.com/
-    description: ''
-  - title: 知风-互联网联网工控资产与企业分析系统
+    description: '专注工控安全的搜索引擎'
+  - title: 知风
     logo: https://api.iowen.cn/favicon/zhifeng.io.png
     url: https://zhifeng.io/web/new/
-    description: ''
-  - title: RiskIQ
-    logo: https://api.iowen.cn/favicon/community.riskiq.com.png
-    url: https://community.riskiq.com/home
-    description: ''
-  - title: 'WiGLE: Wireless Network Mapping'
-    logo: https://api.iowen.cn/favicon/wigle.net.png
-    url: https://wigle.net/
-    description: ''
-  - title: ONYPHE
-    logo: https://api.iowen.cn/favicon/www.onyphe.io.png
-    url: https://www.onyphe.io/
-    description: ''
-  - title: sumap
-    logo: https://api.iowen.cn/favicon/sumap.dbappsecurity.com.cn.png
-    url: https://sumap.dbappsecurity.com.cn/
-    description: ''
-  - title: DNSDB
-    logo: https://api.iowen.cn/favicon/www.dnsdb.io.png
-    url: https://www.dnsdb.io/zh-cn/
-    description: ''
+    description: '互联网联网工控资产与企业分析系统'
   - title: 零零信安
     logo: https://api.iowen.cn/favicon/0.zone.png
     url: https://0.zone/
-    description: ''
-  - title: PublicWWW
-    logo: https://api.iowen.cn/favicon/publicwww.com.png
-    url: https://publicwww.com/
-    description: ''
-  - title: GreyNoise
-    logo: https://api.iowen.cn/favicon/viz.greynoise.io.png
-    url: https://viz.greynoise.io/
-    description: ''
-  - title: Hunter (Email Hunter)
-    logo: https://api.iowen.cn/favicon/hunter.io.png
-    url: https://hunter.io/
-    description: ''
-  - title: BinaryEdge
-    logo: https://api.iowen.cn/favicon/www.binaryedge.io.png
-    url: https://www.binaryedge.io/
-    description: ''
-  - title: searchcode | code search
-    logo: https://api.iowen.cn/favicon/searchcode.com.png
-    url: https://searchcode.com/
-    description: ''
-  - title: grep.app | code search
-    logo: https://api.iowen.cn/favicon/grep.app.png
-    url: https://grep.app/
-    description: ''
+    description: '零零信安攻击面管理平台'
+  - title: sumap
+    logo: https://api.iowen.cn/favicon/sumap.dbappsecurity.com.cn.png
+    url: https://sumap.dbappsecurity.com.cn/
+    description: '安恒全球网络空间超级雷达'
   - title: DayDayMap
     logo: https://api.iowen.cn/favicon/www.daydaymap.com.png
     url: https://www.daydaymap.com/home
-    description: ''
-  - title: Hunter Search Engine
-    logo: https://api.iowen.cn/favicon/hunter.how.png
-    url: https://hunter.how/
-    description: ''
+    description: '盛邦安全全球网络空间资产测绘平台'
+  - title: Shodan
+    logo: https://api.iowen.cn/favicon/www.shodan.io.png
+    url: https://www.shodan.io/
+    description: '互联网资产 OSINT 搜索引擎'
+  - title: RiskIQ
+    logo: https://api.iowen.cn/favicon/community.riskiq.com.png
+    url: https://community.riskiq.com/home
+    description: '互联网资产 OSINT 搜索引擎'
+  - title: ONYPHE
+    logo: https://api.iowen.cn/favicon/www.onyphe.io.png
+    url: https://www.onyphe.io/
+    description: '互联网资产 OSINT 搜索引擎'
   - title: Netlas.io
     logo: https://api.iowen.cn/favicon/app.netlas.io.png
     url: https://app.netlas.io/host/
-    description: ''
-  - title: Asset Search | Criminal IP
+    description: '互联网资产 OSINT 搜索引擎'
+  - title: BinaryEdge
+    logo: https://api.iowen.cn/favicon/www.binaryedge.io.png
+    url: https://www.binaryedge.io/
+    description: '互联网资产 OSINT 搜索引擎'
+  - title: Criminal IP
     logo: https://api.iowen.cn/favicon/www.criminalip.io.png
-    url: https://www.criminalip.io/asset
-    description: ''
+    url: https://www.criminalip.io
+    description: '一个专门用于攻击面评估和威胁搜寻的 OSINT 搜索引擎'
+  - title: Hunter Search Engine
+    logo: https://api.iowen.cn/favicon/hunter.how.png
+    url: https://hunter.how/
+    description: '互联网资产搜索引擎'
+  - title: DNSDB
+    logo: https://api.iowen.cn/favicon/www.dnsdb.io.png
+    url: https://www.dnsdb.io/zh-cn/
+    description: '全球最大DNS数据库'
+  - title: searchcode
+    logo: https://searchcode.com/static/favicon.ico
+    url: https://searchcode.com/
+    description: '源代码搜索引擎，从 4000 万个项目中搜索 750 亿行代码'
+  - title: grep.app
+    logo: https://api.iowen.cn/favicon/grep.app.png
+    url: https://grep.app/
+    description: '源代码搜索引擎，从GitHub上超过50万个公共存储库中搜索代码'
+  - title: PublicWWW
+    logo: https://api.iowen.cn/favicon/publicwww.com.png
+    url: https://publicwww.com/
+    description: '源代码搜索引擎，在网页源码中查找特定代码片段'
+  - title: Hunter (Email Hunter)
+    logo: https://api.iowen.cn/favicon/hunter.io.png
+    url: https://hunter.io/
+    description: '查找特定域名下相关的电子邮件地址'
+  - title: GreyNoise
+    logo: https://viz.greynoise.io/favicon.ico
+    url: https://viz.greynoise.io
+    description: '可视化互联网背景噪声和恶意网络活动'
+  - title: 'WiGLE: Wireless Network Mapping'
+    logo: https://api.iowen.cn/favicon/wigle.net.png
+    url: https://wigle.net/
+    description: '包含802.11无线网络的地图和数据库'
+  - title: FullHunt
+    logo: https://fullhunt.io/static/theme/images/logo/favicon.ico
+    url: https://fullhunt.io/
+    description: '互联网攻击面管理平台'
 - taxonomy: 信息搜集
-  icon: fas fa-shield-alt fa-lg icon-fw icon-lg mr-2
+  icon: fas fa-search
   list:
   - term: Whois查询
     links:
@@ -1019,31 +1027,32 @@
       logo: https://api.iowen.cn/favicon/www.metools.info.png
       url: http://www.metools.info/master/m38.html
       description: ''
-- taxonomy: WebSell查杀
-  icon: fas fa-shield-alt fa-lg icon-fw icon-lg mr-2
-  links:
-  - title: 阿里云WebShell检测平台
-    logo: https://api.iowen.cn/favicon/ti.aliyun.com.png
-    url: https://ti.aliyun.com/#/webshell
-    description: ''
-  - title: 河马查杀
-    logo: https://api.iowen.cn/favicon/www.shellpub.com.png
-    url: https://www.shellpub.com/
-    description: ''
-  - title: D盾防火墙
-    logo: https://api.iowen.cn/favicon/www.d99net.net.png
-    url: https://www.d99net.net/index.asp
-    description: ''
-  - title: WEBDIR+
-    logo: https://api.iowen.cn/favicon/scanner.baidu.com.png
-    url: https://scanner.baidu.com/#/pages/intro
-    description: ''
-  - title: CloudWalker
-    logo: https://api.iowen.cn/favicon/stack.chaitin.com.png
-    url: https://stack.chaitin.com/security-challenge/webshell/index
-    description: ''
-- taxonomy: 病毒木马分析
-  icon: fas fa-shield-alt fa-lg icon-fw icon-lg mr-2
+- taxonomy: 文件查杀分析
+  icon: fas fa-virus-slash fa-lg fa-lg icon-fw icon-lg mr-2
+  list:
+  - term: WebSell查杀
+    links:
+    - title: 阿里云WebShell检测平台
+      logo: https://api.iowen.cn/favicon/ti.aliyun.com.png
+      url: https://ti.aliyun.com/#/webshell
+      description: ''
+    - title: 河马查杀
+      logo: https://api.iowen.cn/favicon/www.shellpub.com.png
+      url: https://www.shellpub.com/
+      description: ''
+    - title: D盾防火墙
+      logo: https://api.iowen.cn/favicon/www.d99net.net.png
+      url: https://www.d99net.net/index.asp
+      description: ''
+    - title: WEBDIR+
+      logo: https://api.iowen.cn/favicon/scanner.baidu.com.png
+      url: https://scanner.baidu.com/#/pages/intro
+      description: ''
+    - title: CloudWalker
+      logo: https://api.iowen.cn/favicon/stack.chaitin.com.png
+      url: https://stack.chaitin.com/security-challenge/webshell/index
+      description: ''
+- term: 病毒木马分析
   links:
   - title: 可疑文件分析云
     logo: https://api.iowen.cn/favicon/cloud.vdnel.cn.png
@@ -1097,71 +1106,70 @@
     logo: https://api.iowen.cn/favicon/www.joesandbox.com.png
     url: https://www.joesandbox.com/analysispaged/0
     description: ''
-- taxonomy: 勒索病毒解密
-  icon: fas fa-shield-alt fa-lg icon-fw icon-lg mr-2
-  links:
-  - title: 360勒索病毒解密
-    logo: https://api.iowen.cn/favicon/lesuobingdu.360.cn.png
-    url: https://lesuobingdu.360.cn/
-    description: ''
-  - title: 奇安信勒索病毒搜索引擎
-    logo: https://api.iowen.cn/favicon/lesuobingdu.qianxin.com.png
-    url: https://lesuobingdu.qianxin.com/
-    description: ''
-  - title: 深信服勒索病毒搜索引擎
-    logo: https://api.iowen.cn/favicon/edr.sangfor.com.cn.png
-    url: https://edr.sangfor.com.cn/#/information/ransom_search
-    description: ''
-  - title: 电脑管家勒索病毒搜索引擎
-    logo: https://api.iowen.cn/favicon/guanjia.qq.com.png
-    url: https://guanjia.qq.com/pr/ls/
-    description: ''
-  - title: 鹰眼勒索病毒检测
-    logo: https://api.iowen.cn/favicon/ti.duba.net.png
-    url: https://ti.duba.net/ransom
-    description: ''
-  - title: VenusEye勒索病毒搜索引擎
-    logo: https://api.iowen.cn/favicon/lesuo.venuseye.com.cn.png
-    url: https://lesuo.venuseye.com.cn/
-    description: ''
-  - title: 免费的勒索软件解密器 - 卡巴斯基实验室
-    logo: https://api.iowen.cn/favicon/noransom.kaspersky.com.png
-    url: https://noransom.kaspersky.com/zh/
-    description: ''
-  - title: The No More Ransom Project
-    logo: https://api.iowen.cn/favicon/www.nomoreransom.org.png
-    url: https://www.nomoreransom.org/zh/index.html
-    description: ''
-  - title: ID Ransomware
-    logo: https://api.iowen.cn/favicon/id-ransomware.malwarehunterteam.com.png
-    url: https://id-ransomware.malwarehunterteam.com/
-    description: ''
-  - title: DECRYPTION TOOLS – Maureen Data Systems
-    logo: https://api.iowen.cn/favicon/mdsny.com.png
-    url: https://mdsny.com/decryption-tools/
-    description: ''
-  - title: Using the Trend Micro Ransomware File Decryptor Tool
-    logo: https://api.iowen.cn/favicon/success.trendmicro.com.png
-    url: https://success.trendmicro.com/dcx/s/solution/1114221-downloading-and-using-the-trend-micro-ransomware-file-decryptor?language=en_US
-    description: ''
-  - title: Free Ransomware Decryption Tool
-    logo: https://api.iowen.cn/favicon/www.quickheal.com.png
-    url: https://www.quickheal.com/free-ransomware-decryption-tool/
-    description: ''
-  - title: 免费勒索软件解密工具 - Avast
-    logo: https://api.iowen.cn/favicon/www.avast.com.png
-    url: https://www.avast.com/zh-cn/ransomware-decryption-tools#pc
-    description: ''
-  - title: 'Emsisoft: Free Ransomware Decryption Tools'
-    logo: https://api.iowen.cn/favicon/www.emsisoft.com.png
-    url: https://www.emsisoft.com/en/ransomware-decryption/
-    description: ''
-  - title: www.avg.com
-    logo: https://api.iowen.cn/favicon/www.avg.com.png
-    url: https://www.avg.com/zh-tw/ransomware-decryption-tools#pc
-    description: ''
+  - term: 勒索病毒解密
+    links:
+    - title: 360勒索病毒解密
+      logo: https://api.iowen.cn/favicon/lesuobingdu.360.cn.png
+      url: https://lesuobingdu.360.cn/
+      description: ''
+    - title: 奇安信勒索病毒搜索引擎
+      logo: https://api.iowen.cn/favicon/lesuobingdu.qianxin.com.png
+      url: https://lesuobingdu.qianxin.com/
+      description: ''
+    - title: 深信服勒索病毒搜索引擎
+      logo: https://api.iowen.cn/favicon/edr.sangfor.com.cn.png
+      url: https://edr.sangfor.com.cn/#/information/ransom_search
+      description: ''
+    - title: 电脑管家勒索病毒搜索引擎
+      logo: https://api.iowen.cn/favicon/guanjia.qq.com.png
+      url: https://guanjia.qq.com/pr/ls/
+      description: ''
+    - title: 鹰眼勒索病毒检测
+      logo: https://api.iowen.cn/favicon/ti.duba.net.png
+      url: https://ti.duba.net/ransom
+      description: ''
+    - title: VenusEye勒索病毒搜索引擎
+      logo: https://api.iowen.cn/favicon/lesuo.venuseye.com.cn.png
+      url: https://lesuo.venuseye.com.cn/
+      description: ''
+    - title: 免费的勒索软件解密器 - 卡巴斯基实验室
+      logo: https://api.iowen.cn/favicon/noransom.kaspersky.com.png
+      url: https://noransom.kaspersky.com/zh/
+      description: ''
+    - title: The No More Ransom Project
+      logo: https://api.iowen.cn/favicon/www.nomoreransom.org.png
+      url: https://www.nomoreransom.org/zh/index.html
+      description: ''
+    - title: ID Ransomware
+      logo: https://api.iowen.cn/favicon/id-ransomware.malwarehunterteam.com.png
+      url: https://id-ransomware.malwarehunterteam.com/
+      description: ''
+    - title: DECRYPTION TOOLS – Maureen Data Systems
+      logo: https://api.iowen.cn/favicon/mdsny.com.png
+      url: https://mdsny.com/decryption-tools/
+      description: ''
+    - title: Using the Trend Micro Ransomware File Decryptor Tool
+      logo: https://api.iowen.cn/favicon/success.trendmicro.com.png
+      url: https://success.trendmicro.com/dcx/s/solution/1114221-downloading-and-using-the-trend-micro-ransomware-file-decryptor?language=en_US
+      description: ''
+    - title: Free Ransomware Decryption Tool
+      logo: https://api.iowen.cn/favicon/www.quickheal.com.png
+      url: https://www.quickheal.com/free-ransomware-decryption-tool/
+      description: ''
+    - title: 免费勒索软件解密工具 - Avast
+      logo: https://api.iowen.cn/favicon/www.avast.com.png
+      url: https://www.avast.com/zh-cn/ransomware-decryption-tools#pc
+      description: ''
+    - title: 'Emsisoft: Free Ransomware Decryption Tools'
+      logo: https://api.iowen.cn/favicon/www.emsisoft.com.png
+      url: https://www.emsisoft.com/en/ransomware-decryption/
+      description: ''
+    - title: www.avg.com
+      logo: https://api.iowen.cn/favicon/www.avg.com.png
+      url: https://www.avg.com/zh-tw/ransomware-decryption-tools#pc
+      description: ''
 - taxonomy: 在线加解密
-  icon: fas fa-shield-alt fa-lg icon-fw icon-lg mr-2
+  icon: fa fa-key
   list:
   - term: Base64 编码
     links:
@@ -1294,9 +1302,9 @@
       url: https://www.toolhelper.cn/AsymmetricEncryption/RsaEncrypt
       description: ''
 - taxonomy: 安全工具
-  icon: fas fa-shield-alt fa-lg icon-fw icon-lg mr-2
+  icon: fa fa-wrench
   list:
-  - term: 安全软件
+  - term: 工具官网
     links:
     - title: Kali
       logo: https://api.iowen.cn/favicon/www.kali.org.png
@@ -1350,6 +1358,74 @@
       logo: https://api.iowen.cn/favicon/www.colasoft.com.cn.png
       url: https://www.colasoft.com.cn/download/capsa.php
       description: ''
+  - term: 浏览器插件
+    links:
+    - title: Shodan
+      logo: https://api.iowen.cn/favicon/chromewebstore.google.com.png
+      url: https://chromewebstore.google.com/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap
+      description: ''
+    - title: Wappalyzer
+      logo: https://api.iowen.cn/favicon/chromewebstore.google.com.png
+      url: https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg
+      description: ''
+    - title: Hack-Tools
+      logo: https://api.iowen.cn/favicon/chromewebstore.google.com.png
+      url: https://chromewebstore.google.com/detail/hack-tools/cmbndhnoonmghfofefkcccljbkdpamhi
+      description: ''
+    - title: Vue.js devtools
+      logo: https://api.iowen.cn/favicon/chromewebstore.google.com.png
+      url: https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd
+      description: ''
+    - title: HackBar
+      logo: https://api.iowen.cn/favicon/chromewebstore.google.com.png
+      url: https://chromewebstore.google.com/detail/hackbar/ginpbkfigcoaokgflihfhhmglmbchinc
+      description: ''
+    - title: FindSomething
+      logo: https://api.iowen.cn/favicon/chromewebstore.google.com.png
+      url: https://chromewebstore.google.com/detail/findsomething/kfhniponecokdefffkpagipffdefeldb
+      description: ''
+    - title: FeHelper(前端助手)
+      logo: https://api.iowen.cn/favicon/chromewebstore.google.com.png
+      url: https://chromewebstore.google.com/detail/fehelper%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8B/pkgccpejnmalmdinmhkkfafefagiiiad
+      description: ''
+    - title: CyberChef
+      logo: https://api.iowen.cn/favicon/chromewebstore.google.com.png
+      url: https://chromewebstore.google.com/detail/cyberchef/nohdddnojpoohngaacepdbpajiamblfp
+      description: ''
+  - term: DNSLog
+    links:
+    - title: dnslog.cn
+      logo: https://api.iowen.cn/favicon/dnslog.cn.png
+      url: http://dnslog.cn/
+      description: ''
+    - title: dnslog.org
+      logo: https://api.iowen.cn/favicon/dnslog.org.png
+      url: https://dnslog.org/
+      description: ''
+    - title: dig.pm
+      logo: https://api.iowen.cn/favicon/dig.pm.png
+      url: https://dig.pm/
+      description: ''
+    - title: eyes.sh
+      logo: https://api.iowen.cn/favicon/eyes.sh.png
+      url: http://eyes.sh/login
+      description: ''
+    - title: dnslog.pw
+      logo: https://api.iowen.cn/favicon/dnslog.pw.png
+      url: http://dnslog.pw/login
+      description: ''
+    - title: Hyuga
+      logo: https://api.iowen.cn/favicon/dnslog.ink.png
+      url: http://dnslog.ink/
+      description: ''
+    - title: CEYE
+      logo: https://api.iowen.cn/favicon/ceye.io.png
+      url: http://ceye.io/
+      description: ''
+    - title: Interactsh | Web Client
+      logo: https://api.iowen.cn/favicon/app.interactsh.com.png
+      url: https://app.interactsh.com/#/
+      description: ''
   - term: 安全工具
     links:
     - title: 潮影在线免杀平台
@@ -1367,14 +1443,6 @@
     - title: XSS平台
       logo: https://api.iowen.cn/favicon/xss.sb.png
       url: https://xss.sb/login/
-      description: ''
-    - title: 反弹shell
-      logo: https://api.iowen.cn/favicon/forum.ywhack.com.png
-      url: https://forum.ywhack.com/shell.php
-      description: ''
-    - title: Reverse Shell Generator
-      logo: https://api.iowen.cn/favicon/www.revshells.com.png
-      url: https://www.revshells.com/
       description: ''
     - title: 长亭百川云平台
       logo: https://api.iowen.cn/favicon/rivers.chaitin.cn.png
@@ -1412,39 +1480,23 @@
       logo: https://api.iowen.cn/favicon/editor.swagger.io.png
       url: https://editor.swagger.io/
       description: ''
-  - term: 浏览器插件
+  - term: 提权辅助
     links:
-    - title: Shodan
-      logo: https://api.iowen.cn/favicon/chromewebstore.google.com.png
-      url: https://chromewebstore.google.com/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap
+    - title: 反弹shell
+      logo: https://api.iowen.cn/favicon/forum.ywhack.com.png
+      url: https://forum.ywhack.com/shell.php
       description: ''
-    - title: Wappalyzer
-      logo: https://api.iowen.cn/favicon/chromewebstore.google.com.png
-      url: https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg
+    - title: Reverse Shell Generator
+      logo: https://api.iowen.cn/favicon/www.revshells.com.png
+      url: https://www.revshells.com/
       description: ''
-    - title: Hack-Tools
-      logo: https://api.iowen.cn/favicon/chromewebstore.google.com.png
-      url: https://chromewebstore.google.com/detail/hack-tools/cmbndhnoonmghfofefkcccljbkdpamhi
+    - title: Reverse shell cheatsheet
+      logo: https://api.iowen.cn/favicon/www.shentoushi.top.png
+      url: https://www.shentoushi.top/tools/misc/reverse_shell.php
       description: ''
-    - title: Vue.js devtools
-      logo: https://api.iowen.cn/favicon/chromewebstore.google.com.png
-      url: https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd
-      description: ''
-    - title: HackBar
-      logo: https://api.iowen.cn/favicon/chromewebstore.google.com.png
-      url: https://chromewebstore.google.com/detail/hackbar/ginpbkfigcoaokgflihfhhmglmbchinc
-      description: ''
-    - title: FindSomething
-      logo: https://api.iowen.cn/favicon/chromewebstore.google.com.png
-      url: https://chromewebstore.google.com/detail/findsomething/kfhniponecokdefffkpagipffdefeldb
-      description: ''
-    - title: FeHelper(前端助手)
-      logo: https://api.iowen.cn/favicon/chromewebstore.google.com.png
-      url: https://chromewebstore.google.com/detail/fehelper%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8B/pkgccpejnmalmdinmhkkfafefagiiiad
-      description: ''
-    - title: CyberChef
-      logo: https://api.iowen.cn/favicon/chromewebstore.google.com.png
-      url: https://chromewebstore.google.com/detail/cyberchef/nohdddnojpoohngaacepdbpajiamblfp
+    - title: 杀软在线识别-渊龙Sec安全团队
+      logo: https://av.aabyss.cn/favicon.ico
+      url: https://av.aabyss.cn/
       description: ''
 - taxonomy: 安全文库
   icon: fas fa-shield-alt fa-lg icon-fw icon-lg mr-2
@@ -1466,7 +1518,7 @@
     url: https://wiki.wy876.cn/#/
     description: ''
 - taxonomy: 测试靶场
-  icon: fas fa-shield-alt fa-lg icon-fw icon-lg mr-2
+  icon: fa fa-flag
   links:
   - title: Acunetix
     logo: https://api.iowen.cn/favicon/testphp.vulnweb.com.png
@@ -1484,6 +1536,14 @@
     logo: https://api.iowen.cn/favicon/www.ctfhub.com.png
     url: https://www.ctfhub.com/#/user/login
     description: ''
+  - title: WgpSec CTF
+    logo: https://ctf.wgpsec.org/files/4aecfc78e9fe458cbd934aacc69ffd94/favicon.ico
+    url: https://ctf.wgpsec.org/
+    description: ''
+  - title: CTFtime
+    logo: https://ctftime.org/favicon.png
+    url: https://ctftime.org/
+    description: '国际CTF平台'
   - title: vulfocus
     logo: https://api.iowen.cn/favicon/vulfocus.cn.png
     url: https://vulfocus.cn/#/login?redirect=%2Fnotices%2Fall
@@ -1509,42 +1569,8 @@
     url: https://hack.zkaq.cn/
     description: ''
 - taxonomy: 在线工具
-  icon: fas fa-shield-alt fa-lg icon-fw icon-lg mr-2
+  icon: fas fa-tools
   list:
-  - term: DNSLog
-    links:
-    - title: dnslog.cn
-      logo: https://api.iowen.cn/favicon/dnslog.cn.png
-      url: http://dnslog.cn/
-      description: ''
-    - title: dnslog.org
-      logo: https://api.iowen.cn/favicon/dnslog.org.png
-      url: https://dnslog.org/
-      description: ''
-    - title: dig.pm
-      logo: https://api.iowen.cn/favicon/dig.pm.png
-      url: https://dig.pm/
-      description: ''
-    - title: eyes.sh
-      logo: https://api.iowen.cn/favicon/eyes.sh.png
-      url: http://eyes.sh/login
-      description: ''
-    - title: dnslog.pw
-      logo: https://api.iowen.cn/favicon/dnslog.pw.png
-      url: http://dnslog.pw/login
-      description: ''
-    - title: Hyuga
-      logo: https://api.iowen.cn/favicon/dnslog.ink.png
-      url: http://dnslog.ink/
-      description: ''
-    - title: CEYE
-      logo: https://api.iowen.cn/favicon/ceye.io.png
-      url: http://ceye.io/
-      description: ''
-    - title: Interactsh | Web Client
-      logo: https://api.iowen.cn/favicon/app.interactsh.com.png
-      url: https://app.interactsh.com/#/
-      description: ''
   - term: IP地址查询
     links:
     - title: iP地址查询 - ip138
