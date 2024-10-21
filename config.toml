@@ -1,6 +1,6 @@
 baseURL               = "https://nav.whoopscs.com"
 languageCode          = "zh-CN"
-title                 = "网络安全导航 - Cybersecurity"
+title                 = "网络安全资源导航"
 theme                 = "WebStack-Hugo"
 preserveTaxonomyNames = true
 disablePathToLower    = true

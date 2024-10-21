@@ -7,9 +7,33 @@
     <meta name="viewport"
         content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <meta name="theme-color" content="#f9f9f9" />
-    <title>{{ .Site.Title }}</title>
+    <!-- <title>{{ .Site.Title }}</title>
     <link rel="shortcut icon" href="{{ relURL $.Site.Params.images.favicon }}" />
-    <meta name="keywords" content="{{ .Site.Title }}" />
+    <meta name="keywords" content="{{ .Site.Title }}" /> -->
+    <!-- Primary Meta Tags -->
+	<title>网络安全导航 - Cybersecurity</title>
+	<meta name="title" content="网络安全导航" />
+	<meta name="description" content="网络安全资源导航" />
+	<link rel="shortcut icon" href="assets/images/favicon.png">
+	<link rel="apple-touch-icon" href="assets/images/favicon.png">
+	
+	<!-- Open Graph / Facebook -->
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://nav.whoopscs.com/" />
+	<meta property="og:title" content="网络安全导航" />
+	<meta property="og:description" content="网络安全资源导航" />
+	<meta property="og:image" content="assets/images/meta-tags.png" />
+
+	<!-- Twitter -->
+	<meta property="twitter:card" content="summary_large_image" />
+	<meta property="twitter:url" content="https://nav.whoopscs.com/" />
+	<meta property="twitter:title" content="网络安全导航" />
+	<meta property="twitter:description" content="网络安全资源导航" />
+	<meta property="twitter:image" content="assets/images/meta-tags.png" />
+    <meta name="keywords" content="安全导航,网络安全,渗透测试,SRC,CTF,靶场,漏洞,情报,安全社区,安全论坛,安全团队,众测平台,安全工具,编码解密" />
+    <meta name="description" content="网络安全资源导航" />
+    <!-- Meta END -->
+    
     {{ if $.Site.Params.seo.baiduSiteVer }}
     <meta name="baidu-site-verification" content="{{ $.Site.Params.seo.baiduSiteVer }}" />
     {{ end }}
