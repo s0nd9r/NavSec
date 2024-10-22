@@ -1782,9 +1782,13 @@
   - term: 正则测试
     links:
     - title: RegExr
+      logo: https://api.iowen.cn/favicon/regexr.com.png
+      url: https://regexr.com/
+      description: ''
+    - title: RegExr中文
       logo: https://api.iowen.cn/favicon/regexr-cn.com.png
       url: https://regexr-cn.com/
-      description: ''
+      description: 'RegExr中文翻译版'
     - title: regex101
       logo: https://api.iowen.cn/favicon/regex101.com.png
       url: https://regex101.com/
