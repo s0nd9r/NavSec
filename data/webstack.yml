@@ -2,82 +2,82 @@
   icon: fas fa-warehouse fa-lg fa-lg icon-fw icon-lg mr-2
   links:
   - title: FreeBuf
-    logo: https://api.iowen.cn/favicon/www.freebuf.com.png
+    logo: https://toolb.cn/favicon/www.freebuf.com.png
     url: https://www.freebuf.com/
     description: ''
   - title: 安全脉搏
-    logo: https://api.iowen.cn/favicon/www.secpulse.com.png
+    logo: https://toolb.cn/favicon/www.secpulse.com.png
     url: https://www.secpulse.com/
     description: ''
   - title: 安全客
-    logo: https://api.iowen.cn/favicon/www.anquanke.com.png
+    logo: https://toolb.cn/favicon/www.anquanke.com.png
     url: https://www.anquanke.com/
     description: ''
   - title: 安全牛
-    logo: https://api.iowen.cn/favicon/www.aqniu.com.png
+    logo: https://toolb.cn/favicon/www.aqniu.com.png
     url: https://www.aqniu.com/
     description: ''
   - title: 嘶吼
-    logo: https://api.iowen.cn/favicon/www.4hou.com.png
+    logo: https://toolb.cn/favicon/www.4hou.com.png
     url: https://www.4hou.com/
     description: ''
   - title: 看雪
-    logo: https://api.iowen.cn/favicon/www.kanxue.com.png
+    logo: https://toolb.cn/favicon/www.kanxue.com.png
     url: https://www.kanxue.com/
     description: ''
   - title: SecWiki
-    logo: https://api.iowen.cn/favicon/www.sec-wiki.com.png
+    logo: https://toolb.cn/favicon/www.sec-wiki.com.png
     url: https://www.sec-wiki.com/
     description: ''
 - taxonomy: 社区论坛
   icon: fas fa-comments fa-lg fa-lg icon-fw icon-lg mr-2
   links:
   - title: T00ls
-    logo: https://api.iowen.cn/favicon/www.t00ls.com.png
+    logo: https://toolb.cn/favicon/www.t00ls.com.png
     url: https://www.t00ls.com/
     description: ''
   - title: 先知社区
-    logo: https://api.iowen.cn/favicon/xz.aliyun.com.png
+    logo: https://toolb.cn/favicon/xz.aliyun.com.png
     url: https://xz.aliyun.com/
     description: ''
   - title: 奇安信攻防社区
-    logo: https://api.iowen.cn/favicon/forum.butian.net.png
+    logo: https://toolb.cn/favicon/forum.butian.net.png
     url: https://forum.butian.net/
     description: ''
   - title: 火线 Zone
-    logo: https://api.iowen.cn/favicon/zone.huoxian.cn.png
+    logo: https://toolb.cn/favicon/zone.huoxian.cn.png
     url: https://zone.huoxian.cn/
     description: ''
   - title: 跳跳糖
-    logo: https://api.iowen.cn/favicon/tttang.com.png
+    logo: https://toolb.cn/favicon/tttang.com.png
     url: https://tttang.com/
     description: ''
   - title: 棱角社区
-    logo: https://api.iowen.cn/favicon/forum.ywhack.com.png
+    logo: https://toolb.cn/favicon/forum.ywhack.com.png
     url: https://forum.ywhack.com/
     description: ''
   - title: SecQuan
-    logo: https://api.iowen.cn/favicon/secquan.org.png
+    logo: https://toolb.cn/favicon/secquan.org.png
     url: https://secquan.org/
     description: ''
   - title: i春秋论坛
-    logo: https://api.iowen.cn/favicon/bbs.ichunqiu.com.png
+    logo: https://toolb.cn/favicon/bbs.ichunqiu.com.png
     url: https://bbs.ichunqiu.com/portal.php
     description: ''
   - title: 看雪
-    logo: https://api.iowen.cn/favicon/bbs.kanxue.com.png
+    logo: https://toolb.cn/favicon/bbs.kanxue.com.png
     url: https://bbs.kanxue.com/
     description: ''
   - title: 安全文摘
-    logo: https://api.iowen.cn/favicon/govuln.com.png
+    logo: https://toolb.cn/favicon/govuln.com.png
     url: https://govuln.com/news/
     description: ''
   - title: SecIN信息安全技术社区
-    logo: https://api.iowen.cn/favicon/www.sec-in.com.png
+    logo: https://toolb.cn/favicon/www.sec-in.com.png
     url: https://www.sec-in.com/
     description: ''
   - title: IOTsec-Zone物联网安全社区
-    logo: https://api.iowen.cn/favicon/www.iotsec-zone.com.png
+    logo: https://toolb.cn/favicon/www.iotsec-zone.com.png
     url: https://www.iotsec-zone.com/
     description: ''
 - taxonomy: 漏洞情报
@@ -86,204 +86,204 @@
   - term: 国内漏洞情报
     links:
     - title: CNVD
-      logo: https://api.iowen.cn/favicon/www.cnvd.org.cn.png
+      logo: https://toolb.cn/favicon/www.cnvd.org.cn.png
       url: https://www.cnvd.org.cn/webinfo/list?type=14
       description: ''
     - title: CNNVD
-      logo: https://api.iowen.cn/favicon/www.cnnvd.org.cn.png
+      logo: https://toolb.cn/favicon/www.cnnvd.org.cn.png
       url: https://www.cnnvd.org.cn/home/loophole
       description: ''
     - title: CICSVD
-      logo: https://api.iowen.cn/favicon/www.cics-vd.org.cn.png
+      logo: https://toolb.cn/favicon/www.cics-vd.org.cn.png
       url: https://www.cics-vd.org.cn/home/homePage
       description: ''
     - title: HKCERT
-      logo: https://api.iowen.cn/favicon/www.hkcert.org.png
+      logo: https://toolb.cn/favicon/www.hkcert.org.png
       url: https://www.hkcert.org/security-bulletin
       description: ''
     - title: 绿盟科技
-      logo: https://api.iowen.cn/favicon/www.nsfocus.net.png
+      logo: https://toolb.cn/favicon/www.nsfocus.net.png
       url: http://www.nsfocus.net/index.php?act=sec_bug
       description: ''
     - title: 奇安信
-      logo: https://api.iowen.cn/favicon/nox.qianxin.com.png
+      logo: https://toolb.cn/favicon/nox.qianxin.com.png
       url: https://nox.qianxin.com/RealTime
       description: ''
     - title: 启明星辰
-      logo: https://api.iowen.cn/favicon/www.venustech.com.cn.png
+      logo: https://toolb.cn/favicon/www.venustech.com.cn.png
       url: https://www.venustech.com.cn/new_type/aqtg/
       description: ''
     - title: 知道创宇
-      logo: https://api.iowen.cn/favicon/www.seebug.org.png
+      logo: https://toolb.cn/favicon/www.seebug.org.png
       url: https://www.seebug.org/
       description: ''
     - title: 阿里云漏洞库
-      logo: https://api.iowen.cn/favicon/avd.aliyun.com.png
+      logo: https://toolb.cn/favicon/avd.aliyun.com.png
       url: https://avd.aliyun.com/
       description: ''
     - title: 360CERT
-      logo: https://api.iowen.cn/favicon/cert.360.cn.png
+      logo: https://toolb.cn/favicon/cert.360.cn.png
       url: https://cert.360.cn/warning
       description: ''
     - title: 斗象漏洞情报中心
-      logo: https://api.iowen.cn/favicon/vip.riskivy.com.png
+      logo: https://toolb.cn/favicon/vip.riskivy.com.png
       url: https://vip.riskivy.com/
       description: ''
     - title: 长亭漏洞库
-      logo: https://api.iowen.cn/favicon/stack.chaitin.com.png
+      logo: https://toolb.cn/favicon/stack.chaitin.com.png
       url: https://stack.chaitin.com/vuldb/index
       description: ''
     - title: 墨菲漏洞库
-      logo: https://api.iowen.cn/favicon/www.oscs1024.com.png
+      logo: https://toolb.cn/favicon/www.oscs1024.com.png
       url: https://www.oscs1024.com/hl
       description: ''
     - title: 数字观星漏洞库
-      logo: https://api.iowen.cn/favicon/poc.shuziguanxing.com.png
+      logo: https://toolb.cn/favicon/poc.shuziguanxing.com.png
       url: https://poc.shuziguanxing.com/#/issueList
       description: ''
     - title: 网安漏洞库
-      logo: https://api.iowen.cn/favicon/vul.wangan.com.png
+      logo: https://toolb.cn/favicon/vul.wangan.com.png
       url: https://vul.wangan.com/
       description: ''
     - title: DayDayPoc
-      logo: https://api.iowen.cn/favicon/www.ddpoc.com.png
+      logo: https://toolb.cn/favicon/www.ddpoc.com.png
       url: https://www.ddpoc.com/
       description: ''
     - title: 绿盟 M-SEC 漏洞社区
-      logo: https://api.iowen.cn/favicon/msec.nsfocus.com.png
+      logo: https://toolb.cn/favicon/msec.nsfocus.com.png
       url: https://msec.nsfocus.com/
       description: ''
   - term: 国外漏洞情报
     links:
     - title: NVD
-      logo: https://api.iowen.cn/favicon/nvd.nist.gov.png
+      logo: https://toolb.cn/favicon/nvd.nist.gov.png
       url: https://nvd.nist.gov/vuln/search
       description: ''
     - title: CVEs | Tenable®
-      logo: https://api.iowen.cn/favicon/www.tenable.com.png
+      logo: https://toolb.cn/favicon/www.tenable.com.png
       url: https://www.tenable.com/cve/updated
       description: ''
     - title: Vulnerabilities - Acunetix
-      logo: https://api.iowen.cn/favicon/www.acunetix.com.png
+      logo: https://toolb.cn/favicon/www.acunetix.com.png
       url: https://www.acunetix.com/vulnerabilities/web/
       description: ''
     - title: Aqua Security
-      logo: https://api.iowen.cn/favicon/avd.aquasec.com.png
+      logo: https://toolb.cn/favicon/avd.aquasec.com.png
       url: https://avd.aquasec.com/
       description: ''
     - title: Vulners
-      logo: https://api.iowen.cn/favicon/vulners.com.png
+      logo: https://toolb.cn/favicon/vulners.com.png
       url: https://vulners.com/
       description: ''
     - title: CVEdetails
-      logo: https://api.iowen.cn/favicon/www.cvedetails.com.png
+      logo: https://toolb.cn/favicon/www.cvedetails.com.png
       url: https://www.cvedetails.com/
       description: ''
     - title: CVE.report
-      logo: https://api.iowen.cn/favicon/cve.report.png
+      logo: https://toolb.cn/favicon/cve.report.png
       url: https://cve.report/
       description: ''
     - title: OpenCVE
-      logo: https://api.iowen.cn/favicon/www.opencve.io.png
+      logo: https://toolb.cn/favicon/www.opencve.io.png
       url: https://www.opencve.io/cve
       description: ''
     - title: Security Database
-      logo: https://api.iowen.cn/favicon/www.security-database.com.png
+      logo: https://toolb.cn/favicon/www.security-database.com.png
       url: https://www.security-database.com/view-all.php?date=All&sev=All&type=cve
       description: ''
     - title: Exploit Database
-      logo: https://api.iowen.cn/favicon/www.exploit-db.com.png
+      logo: https://toolb.cn/favicon/www.exploit-db.com.png
       url: https://www.exploit-db.com/
       description: ''
     - title: Microsoft 漏洞库
-      logo: https://api.iowen.cn/favicon/msrc.microsoft.com.png
+      logo: https://toolb.cn/favicon/msrc.microsoft.com.png
       url: https://msrc.microsoft.com/update-guide/vulnerability
       description: ''
 - taxonomy: 威胁情报
   icon: fas fa-theater-masks fa-lg fa-lg icon-fw icon-lg mr-2
   links:
   - title: 微步X情报社区
-    logo: https://api.iowen.cn/favicon/x.threatbook.com.png
+    logo: https://toolb.cn/favicon/x.threatbook.com.png
     url: https://x.threatbook.com/
     description: ''
   - title: 奇安信威胁情报中心
-    logo: https://api.iowen.cn/favicon/ti.qianxin.com.png
+    logo: https://toolb.cn/favicon/ti.qianxin.com.png
     url: https://ti.qianxin.com/
     description: ''
   - title: 360安全大脑
-    logo: https://api.iowen.cn/favicon/ti.360.cn.png
+    logo: https://toolb.cn/favicon/ti.360.cn.png
     url: https://ti.360.cn/#/homepage
     description: ''
   - title: 绿盟威胁情报中心
-    logo: https://api.iowen.cn/favicon/ti.nsfocus.com.png
+    logo: https://toolb.cn/favicon/ti.nsfocus.com.png
     url: https://ti.nsfocus.com/
     description: ''
   - title: 深信服威胁情报中心
-    logo: https://api.iowen.cn/favicon/ti.sangfor.com.cn.png
+    logo: https://toolb.cn/favicon/ti.sangfor.com.cn.png
     url: https://ti.sangfor.com.cn/analysis-platform
     description: ''
   - title: 安恒微信情报中心
-    logo: https://api.iowen.cn/favicon/ti.dbappsecurity.com.cn.png
+    logo: https://toolb.cn/favicon/ti.dbappsecurity.com.cn.png
     url: https://ti.dbappsecurity.com.cn/
     description: ''
   - title: 启明星辰威胁情报中心
-    logo: https://api.iowen.cn/favicon/www.venuseye.com.cn.png
+    logo: https://toolb.cn/favicon/www.venuseye.com.cn.png
     url: https://www.venuseye.com.cn/
     description: ''
   - title: 安天威胁情报中心
-    logo: https://api.iowen.cn/favicon/www.antiycloud.com.png
+    logo: https://toolb.cn/favicon/www.antiycloud.com.png
     url: https://www.antiycloud.com/#/antiy/index
     description: ''
   - title: 金山毒霸威胁情报
-    logo: https://api.iowen.cn/favicon/ti.duba.net.png
+    logo: https://toolb.cn/favicon/ti.duba.net.png
     url: https://ti.duba.net/
     description: ''
   - title: 华为安全中心平台
-    logo: https://api.iowen.cn/favicon/isecurity.huawei.com.png
+    logo: https://toolb.cn/favicon/isecurity.huawei.com.png
     url: https://isecurity.huawei.com/sec/web/intelligencePortal.do
     description: ''
   - title: 漏洞盒子情报星球
-    logo: https://api.iowen.cn/favicon/planet.vulbox.com.png
+    logo: https://toolb.cn/favicon/planet.vulbox.com.png
     url: https://planet.vulbox.com/
     description: ''
   - title: 山石云瞻威胁情报中心
-    logo: https://api.iowen.cn/favicon/ti.hillstonenet.com.cn.png
+    logo: https://toolb.cn/favicon/ti.hillstonenet.com.cn.png
     url: https://ti.hillstonenet.com.cn/main
     description: ''
   - title: 创宇安全智脑
-    logo: https://api.iowen.cn/favicon/gac.yunaq.com.png
+    logo: https://toolb.cn/favicon/gac.yunaq.com.png
     url: https://gac.yunaq.com/login?next=%2F
     description: ''
   - title: ThreatMiner
-    logo: https://api.iowen.cn/favicon/www.threatminer.org.png
+    logo: https://toolb.cn/favicon/www.threatminer.org.png
     url: https://www.threatminer.org/
     description: ''
   - title: IBM X-Force
-    logo: https://api.iowen.cn/favicon/exchange.xforce.ibmcloud.com.png
+    logo: https://toolb.cn/favicon/exchange.xforce.ibmcloud.com.png
     url: https://exchange.xforce.ibmcloud.com/
     description: ''
   - title: SANS
-    logo: https://api.iowen.cn/favicon/isc.sans.edu.png
+    logo: https://toolb.cn/favicon/isc.sans.edu.png
     url: https://isc.sans.edu/
     description: ''
   - title: CNTD网络安全威胁情报共享平台
-    logo: https://api.iowen.cn/favicon/www.cntd.org.cn.png
+    logo: https://toolb.cn/favicon/www.cntd.org.cn.png
     url: http://www.cntd.org.cn/
     description: ''
   - title: 天际友盟威胁情报中心-RedQueen
-    logo: https://api.iowen.cn/favicon/redqueen.tj-un.com.png
+    logo: https://toolb.cn/favicon/redqueen.tj-un.com.png
     url: https://redqueen.tj-un.com/home/index
     description: ''
   - title: 瑞星威胁情报中心
-    logo: https://api.iowen.cn/favicon/ti.rising.com.cn.png
+    logo: https://toolb.cn/favicon/ti.rising.com.cn.png
     url: https://ti.rising.com.cn/home
     description: ''
   - title: 腾讯安全威胁情报中心
-    logo: https://api.iowen.cn/favicon/tix.qq.com.png
+    logo: https://toolb.cn/favicon/tix.qq.com.png
     url: https://tix.qq.com/
     description: ''
   - title: 华为安全威胁情报
-    logo: https://api.iowen.cn/favicon/isecurity.huawei.com.png
+    logo: https://toolb.cn/favicon/isecurity.huawei.com.png
     url: https://isecurity.huawei.com/security/service/intelligence
     description: ''
 - taxonomy: 漏洞平台
@@ -292,27 +292,27 @@
   - term: 国内漏洞平台
     links:
     - title: 补天
-      logo: https://api.iowen.cn/favicon/www.butian.net.png
+      logo: https://toolb.cn/favicon/www.butian.net.png
       url: https://www.butian.net/
       description: ''
     - title: 火线
-      logo: https://api.iowen.cn/favicon/www.huoxian.cn.png
+      logo: https://toolb.cn/favicon/www.huoxian.cn.png
       url: https://www.huoxian.cn/
       description: ''
     - title: 漏洞盒子
-      logo: https://api.iowen.cn/favicon/www.vulbox.com.png
+      logo: https://toolb.cn/favicon/www.vulbox.com.png
       url: https://www.vulbox.com/
       description: ''
     - title: 漏洞银行
-      logo: https://api.iowen.cn/favicon/www.bugbank.cn.png
+      logo: https://toolb.cn/favicon/www.bugbank.cn.png
       url: https://www.bugbank.cn/
       description: ''
     - title: 360众测平台
-      logo: https://api.iowen.cn/favicon/zhongce.360.net.png
+      logo: https://toolb.cn/favicon/zhongce.360.net.png
       url: https://zhongce.360.net/
       description: ''
     - title: 雷神众测 - BountyTeam
-      logo: https://api.iowen.cn/favicon/www.bountyteam.com.png
+      logo: https://toolb.cn/favicon/www.bountyteam.com.png
       url: https://www.bountyteam.com/
       description: ''
     - title: 教育漏洞报告平台
@@ -322,73 +322,73 @@
   - term: 国外漏洞平台
     links:
     - title: HackerOne
-      logo: https://api.iowen.cn/favicon/www.hackerone.com.png
+      logo: https://toolb.cn/favicon/www.hackerone.com.png
       url: https://www.hackerone.com/
       description: ''
     - title: Bugcrowd
-      logo: https://api.iowen.cn/favicon/www.bugcrowd.com.png
+      logo: https://toolb.cn/favicon/www.bugcrowd.com.png
       url: https://www.bugcrowd.com/bug-bounty-list/
       description: ''
     - title: Open Bug Bounty
-      logo: https://api.iowen.cn/favicon/www.openbugbounty.org.png
+      logo: https://toolb.cn/favicon/www.openbugbounty.org.png
       url: https://www.openbugbounty.org/
       description: ''
     - title: Microsoft Security Response Center
-      logo: https://api.iowen.cn/favicon/www.microsoft.com.png
+      logo: https://toolb.cn/favicon/www.microsoft.com.png
       url: https://www.microsoft.com/en-us/msrc?rtc=2
       description: ''
     - title: Google Bug Hunters
-      logo: https://api.iowen.cn/favicon/bughunters.google.com.png
+      logo: https://toolb.cn/favicon/bughunters.google.com.png
       url: https://bughunters.google.com/
       description: ''
     - title: Apple Security Research
-      logo: https://api.iowen.cn/favicon/security.apple.com.png
+      logo: https://toolb.cn/favicon/security.apple.com.png
       url: https://security.apple.com/
       description: ''
   - term: 国内SRC平台
     links:
     - title: 百度安全应急响应中心
-      logo: https://api.iowen.cn/favicon/bsrc.baidu.com.png
+      logo: https://toolb.cn/favicon/bsrc.baidu.com.png
       url: https://bsrc.baidu.com/v2/#/home
       description: ''
     - title: 阿里安全响应中心
-      logo: https://api.iowen.cn/favicon/security.alibaba.com.png
+      logo: https://toolb.cn/favicon/security.alibaba.com.png
       url: https://security.alibaba.com/
       description: ''
     - title: 腾讯安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.tencent.com.png
+      logo: https://toolb.cn/favicon/security.tencent.com.png
       url: https://security.tencent.com/
       description: ''
     - title: 360安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.360.cn.png
+      logo: https://toolb.cn/favicon/security.360.cn.png
       url: https://security.360.cn/
       description: ''
     - title: 58安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.58.com.png
+      logo: https://toolb.cn/favicon/security.58.com.png
       url: https://security.58.com/
       description: ''
     - title: 爱奇艺安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.iqiyi.com.png
+      logo: https://toolb.cn/favicon/security.iqiyi.com.png
       url: https://security.iqiyi.com/
       description: ''
     - title: 苏宁安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.suning.com.png
+      logo: https://toolb.cn/favicon/security.suning.com.png
       url: https://security.suning.com/ssrc-web/index.jsp
       description: ''
     - title: 贝壳安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.ke.com.png
+      logo: https://toolb.cn/favicon/security.ke.com.png
       url: https://security.ke.com/
       description: ''
     - title: 哔哩哔哩安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.bilibili.com.png
+      logo: https://toolb.cn/favicon/security.bilibili.com.png
       url: https://security.bilibili.com/
       description: ''
     - title: 大疆安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.dji.com.png
+      logo: https://toolb.cn/favicon/security.dji.com.png
       url: https://security.dji.com/
       description: ''
     - title: 东方财富安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.eastmoney.com.png
+      logo: https://toolb.cn/favicon/security.eastmoney.com.png
       url: https://security.eastmoney.com/
       description: ''
     - title: 斗鱼安全应急响应中心
@@ -396,402 +396,402 @@
       url: https://security.douyu.com/#/welcome
       description: ''
     - title: 多点安全应急响应中心
-      logo: https://api.iowen.cn/favicon/src.dmall.com.png
+      logo: https://toolb.cn/favicon/src.dmall.com.png
       url: https://src.dmall.com/
       description: ''
     - title: 富友安全应急响应中心
-      logo: https://api.iowen.cn/favicon/fsrc.fuiou.com.png
+      logo: https://toolb.cn/favicon/fsrc.fuiou.com.png
       url: https://fsrc.fuiou.com/
       description: ''
     - title: 瓜子安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.guazi.com.png
+      logo: https://toolb.cn/favicon/security.guazi.com.png
       url: https://security.guazi.com/home
       description: ''
     - title: 虎牙安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.huya.com.png
+      logo: https://toolb.cn/favicon/security.huya.com.png
       url: https://security.huya.com/#/home
       description: ''
     - title: 华为安全奖励计划
-      logo: https://api.iowen.cn/favicon/bugbounty.huawei.com.png
+      logo: https://toolb.cn/favicon/bugbounty.huawei.com.png
       url: https://bugbounty.huawei.com/hbp/#/home
       description: ''
     - title: 华住安全响应中心
-      logo: https://api.iowen.cn/favicon/sec.huazhu.com.png
+      logo: https://toolb.cn/favicon/sec.huazhu.com.png
       url: https://sec.huazhu.com/index.php?m=&c=index&a=index
       description: ''
     - title: 货拉拉安全应急响应中心
-      logo: https://api.iowen.cn/favicon/llsrc.huolala.cn.png
+      logo: https://toolb.cn/favicon/llsrc.huolala.cn.png
       url: https://llsrc.huolala.cn/#/home
       description: ''
     - title: 金山办公安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.wps.cn.png
+      logo: https://toolb.cn/favicon/security.wps.cn.png
       url: https://security.wps.cn/
       description: ''
     - title: 京东安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.jd.com.png
+      logo: https://toolb.cn/favicon/security.jd.com.png
       url: https://security.jd.com/#/
       description: ''
     - title: 快手安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.kuaishou.com.png
+      logo: https://toolb.cn/favicon/security.kuaishou.com.png
       url: https://security.kuaishou.com/
       description: ''
     - title: 蚂蚁集团安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.alipay.com.png
+      logo: https://toolb.cn/favicon/security.alipay.com.png
       url: https://security.alipay.com/
       description: ''
     - title: 美团安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.meituan.com.png
+      logo: https://toolb.cn/favicon/security.meituan.com.png
       url: https://security.meituan.com/#/home
       description: ''
     - title: 陌陌安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.immomo.com.png
+      logo: https://toolb.cn/favicon/security.immomo.com.png
       url: https://security.immomo.com/
       description: ''
     - title: 平安安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.pingan.com.png
+      logo: https://toolb.cn/favicon/security.pingan.com.png
       url: https://security.pingan.com/homePage/index
       description: ''
     - title: 荣耀安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.hihonor.com.png
+      logo: https://toolb.cn/favicon/security.hihonor.com.png
       url: https://security.hihonor.com/src/#/home
       description: ''
     - title: 深信服安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.sangfor.com.cn.png
+      logo: https://toolb.cn/favicon/security.sangfor.com.cn.png
       url: https://security.sangfor.com.cn/
       description: ''
     - title: 天融信安全漏洞响应中心
-      logo: https://api.iowen.cn/favicon/src.topsec.com.cn.png
+      logo: https://toolb.cn/favicon/src.topsec.com.cn.png
       url: https://src.topsec.com.cn/index.php?m=&c=index&a=index
       description: ''
     - title: 安恒安全响应中心
-      logo: https://api.iowen.cn/favicon/security.dbappsecurity.com.cn.png
+      logo: https://toolb.cn/favicon/security.dbappsecurity.com.cn.png
       url: https://security.dbappsecurity.com.cn/index
       description: ''
     - title: 同程旅行安全应急响应中心
-      logo: https://api.iowen.cn/favicon/sec.ly.com.png
+      logo: https://toolb.cn/favicon/sec.ly.com.png
       url: https://sec.ly.com/
       description: ''
     - title: 统信安全应急响应中心
-      logo: https://api.iowen.cn/favicon/src.uniontech.com.png
+      logo: https://toolb.cn/favicon/src.uniontech.com.png
       url: https://src.uniontech.com/
       description: ''
     - title: 途牛安全应急响应中心
-      logo: https://api.iowen.cn/favicon/sec.tuniu.com.png
+      logo: https://toolb.cn/favicon/sec.tuniu.com.png
       url: http://sec.tuniu.com/
       description: ''
     - title: 完美安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.wanmei.com.png
+      logo: https://toolb.cn/favicon/security.wanmei.com.png
       url: http://security.wanmei.com/
       description: ''
     - title: 网易安全中心
-      logo: https://api.iowen.cn/favicon/aq.163.com.png
+      logo: https://toolb.cn/favicon/aq.163.com.png
       url: https://aq.163.com/
       description: ''
     - title: 微博安全应急响应中心
-      logo: https://api.iowen.cn/favicon/wsrc.weibo.com.png
+      logo: https://toolb.cn/favicon/wsrc.weibo.com.png
       url: https://wsrc.weibo.com/
       description: ''
     - title: 唯品会信息安全中心
-      logo: https://api.iowen.cn/favicon/sec.vip.com.png
+      logo: https://toolb.cn/favicon/sec.vip.com.png
       url: https://sec.vip.com/
       description: ''
     - title: 喜马拉雅安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.ximalaya.com.png
+      logo: https://toolb.cn/favicon/security.ximalaya.com.png
       url: https://security.ximalaya.com/
       description: ''
     - title: 小红书安全响应中心
-      logo: https://api.iowen.cn/favicon/security.xiaohongshu.com.png
+      logo: https://toolb.cn/favicon/security.xiaohongshu.com.png
       url: https://security.xiaohongshu.com/
       description: ''
     - title: 小米安全中心
-      logo: https://api.iowen.cn/favicon/sec.xiaomi.com.png
+      logo: https://toolb.cn/favicon/sec.xiaomi.com.png
       url: https://sec.xiaomi.com/#/
       description: ''
     - title: 小赢安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.xiaoying.com.png
+      logo: https://toolb.cn/favicon/security.xiaoying.com.png
       url: https://security.xiaoying.com/
       description: ''
     - title: 携程安全应急响应中心
-      logo: https://api.iowen.cn/favicon/sec.ctrip.com.png
+      logo: https://toolb.cn/favicon/sec.ctrip.com.png
       url: https://sec.ctrip.com/
       description: ''
     - title: 讯飞安全响应中心
-      logo: https://api.iowen.cn/favicon/security.iflytek.com.png
+      logo: https://toolb.cn/favicon/security.iflytek.com.png
       url: https://security.iflytek.com/index.php
       description: ''
     - title: 迅雷安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.xunlei.com.png
+      logo: https://toolb.cn/favicon/security.xunlei.com.png
       url: https://security.xunlei.com/
       description: ''
     - title: 银联安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.unionpay.com.png
+      logo: https://toolb.cn/favicon/security.unionpay.com.png
       url: https://security.unionpay.com/
       description: ''
     - title: 萤石应急响应中心
-      logo: https://api.iowen.cn/favicon/ysrc.ys7.com.png
+      logo: https://toolb.cn/favicon/ysrc.ys7.com.png
       url: https://ysrc.ys7.com/#/home
       description: ''
     - title: 有赞安全应急响应中心
-      logo: https://api.iowen.cn/favicon/src.youzan.com.png
+      logo: https://toolb.cn/favicon/src.youzan.com.png
       url: https://src.youzan.com/
       description: ''
     - title: 知识星球安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.zsxq.com.png
+      logo: https://toolb.cn/favicon/security.zsxq.com.png
       url: https://security.zsxq.com/
       description: ''
     - title: 智联招聘安全应急响应中心
-      logo: https://api.iowen.cn/favicon/src.zhaopin.com.png
+      logo: https://toolb.cn/favicon/src.zhaopin.com.png
       url: https://src.zhaopin.com/
       description: ''
     - title: 顺丰安全应急响应中心
-      logo: https://api.iowen.cn/favicon/sfsrc.sf-express.com.png
+      logo: https://toolb.cn/favicon/sfsrc.sf-express.com.png
       url: https://sfsrc.sf-express.com/home
       description: ''
     - title: 中通安全应急响应中心
-      logo: https://api.iowen.cn/favicon/sec.zto.com.png
+      logo: https://toolb.cn/favicon/sec.zto.com.png
       url: https://sec.zto.com/home
       description: ''
     - title: 众安安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.zhongan.com.png
+      logo: https://toolb.cn/favicon/security.zhongan.com.png
       url: https://security.zhongan.com/#/
       description: ''
     - title: 字节跳动安全响应中心
-      logo: https://api.iowen.cn/favicon/src.bytedance.com.png
+      logo: https://toolb.cn/favicon/src.bytedance.com.png
       url: https://src.bytedance.com/home
       description: ''
     - title: 自如安全应急响应中心
-      logo: https://api.iowen.cn/favicon/zrsecurity.ziroom.com.png
+      logo: https://toolb.cn/favicon/zrsecurity.ziroom.com.png
       url: https://zrsecurity.ziroom.com/
       description: ''
     - title: BIGO 安全响应中心
-      logo: https://api.iowen.cn/favicon/security.bigo.sg.png
+      logo: https://toolb.cn/favicon/security.bigo.sg.png
       url: https://security.bigo.sg/#/
       description: ''
     - title: BOSS直聘安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.zhipin.com.png
+      logo: https://toolb.cn/favicon/security.zhipin.com.png
       url: https://security.zhipin.com/
       description: ''
     - title: OPPO安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.oppo.com.png
+      logo: https://toolb.cn/favicon/security.oppo.com.png
       url: https://security.oppo.com/cn/
       description: ''
     - title: vivo 安全应急响应平台
-      logo: https://api.iowen.cn/favicon/security.vivo.com.cn.png
+      logo: https://toolb.cn/favicon/security.vivo.com.cn.png
       url: https://security.vivo.com.cn/#/home
       description: ''
     - title: 滴滴出行安全应急响应中心
-      logo: https://api.iowen.cn/favicon/sec.didichuxing.com.png
+      logo: https://toolb.cn/favicon/sec.didichuxing.com.png
       url: http://sec.didichuxing.com/
       description: ''
     - title: 享道出行SRC
-      logo: https://api.iowen.cn/favicon/src.saicmobility.com.png
+      logo: https://toolb.cn/favicon/src.saicmobility.com.png
       url: https://src.saicmobility.com/
       description: ''
     - title: T3出行安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.t3go.cn.png
+      logo: https://toolb.cn/favicon/security.t3go.cn.png
       url: https://security.t3go.cn/#/home
       description: ''
     - title: TCL安全应急响应中心
-      logo: https://api.iowen.cn/favicon/src.tcl.com.png
+      logo: https://toolb.cn/favicon/src.tcl.com.png
       url: https://src.tcl.com/zh/index
       description: ''
     - title: UCloud安全应急响应中心
-      logo: https://api.iowen.cn/favicon/src.ucloud.cn.png
+      logo: https://toolb.cn/favicon/src.ucloud.cn.png
       url: https://src.ucloud.cn/
       description: ''
     - title: 焦点安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.focuschina.com.png
+      logo: https://toolb.cn/favicon/security.focuschina.com.png
       url: https://security.focuschina.com/
       description: ''
     - title: NIO蔚来安全应急响应中心
-      logo: https://api.iowen.cn/favicon/niosrc.bugbank.cn.png
+      logo: https://toolb.cn/favicon/niosrc.bugbank.cn.png
       url: https://niosrc.bugbank.cn/
       description: ''
     - title: 小鹏安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.xiaopeng.com.png
+      logo: https://toolb.cn/favicon/security.xiaopeng.com.png
       url: https://security.xiaopeng.com/
       description: ''
     - title: 理想安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.lixiang.com.png
+      logo: https://toolb.cn/favicon/security.lixiang.com.png
       url: https://security.lixiang.com/index
       description: ''
     - title: 极氪安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.zeekrlife.com.png
+      logo: https://toolb.cn/favicon/security.zeekrlife.com.png
       url: https://security.zeekrlife.com/
       description: ''
     - title: 吉利汽车安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.geely.com.png
+      logo: https://toolb.cn/favicon/security.geely.com.png
       url: https://security.geely.com/
       description: ''
     - title: 快看安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.kuaikanmanhua.com.png
+      logo: https://toolb.cn/favicon/security.kuaikanmanhua.com.png
       url: https://security.kuaikanmanhua.com/
       description: ''
     - title: 看云安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.kanyun.com.png
+      logo: https://toolb.cn/favicon/security.kanyun.com.png
       url: https://security.kanyun.com/
       description: ''
     - title: 麦当劳中国安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.mcd.cn.png
+      logo: https://toolb.cn/favicon/security.mcd.cn.png
       url: https://security.mcd.cn/index.php?m=&c=index&a=index
       description: ''
     - title: HashKey安全应急响应中心
-      logo: https://api.iowen.cn/favicon/src.hashkey.com.png
+      logo: https://toolb.cn/favicon/src.hashkey.com.png
       url: https://src.hashkey.com/
       description: ''
     - title: 猎聘安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.liepin.com.png
+      logo: https://toolb.cn/favicon/security.liepin.com.png
       url: https://security.liepin.com/
       description: ''
     - title: 新东方安全应急响应中心
-      logo: https://api.iowen.cn/favicon/src.xdf.cn.png
+      logo: https://toolb.cn/favicon/src.xdf.cn.png
       url: https://src.xdf.cn/
       description: ''
     - title: 东航网络安全应急响应中心
-      logo: https://api.iowen.cn/favicon/src.ceair.com.png
+      logo: https://toolb.cn/favicon/src.ceair.com.png
       url: https://src.ceair.com/
       description: ''
     - title: 易安联安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.enlink.top.png
+      logo: https://toolb.cn/favicon/security.enlink.top.png
       url: https://security.enlink.top/
       description: ''
     - title: 老虎国际安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.itigerup.com.png
+      logo: https://toolb.cn/favicon/security.itigerup.com.png
       url: https://security.itigerup.com/
       description: ''
     - title: Tuya SRC
-      logo: https://api.iowen.cn/favicon/src.tuya.com.png
+      logo: https://toolb.cn/favicon/src.tuya.com.png
       url: https://src.tuya.com/
       description: ''
     - title: 魅族安全中心
-      logo: https://api.iowen.cn/favicon/sec.meizu.com.png
+      logo: https://toolb.cn/favicon/sec.meizu.com.png
       url: https://sec.meizu.com/
       description: ''
     - title: 斗米安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.doumi.com.png
+      logo: https://toolb.cn/favicon/security.doumi.com.png
       url: https://security.doumi.com/
       description: ''
     - title: 悟空租车安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.wkzuche.com.png
+      logo: https://toolb.cn/favicon/security.wkzuche.com.png
       url: https://security.wkzuche.com/
       description: ''
     - title: YY安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.yy.com.png
+      logo: https://toolb.cn/favicon/security.yy.com.png
       url: https://security.yy.com/index.jsp
       description: ''
     - title: 去哪儿安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.qunar.com.png
+      logo: https://toolb.cn/favicon/security.qunar.com.png
       url: https://security.qunar.com/
       description: ''
     - title: 竞技世界安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.jj.cn.png
+      logo: https://toolb.cn/favicon/security.jj.cn.png
       url: https://security.jj.cn/
       description: ''
     - title: 好未来安全应急响应中心
-      logo: https://api.iowen.cn/favicon/src.100tal.com.png
+      logo: https://toolb.cn/favicon/src.100tal.com.png
       url: https://src.100tal.com/
       description: ''
     - title: 微众银行安全响应中心
-      logo: https://api.iowen.cn/favicon/security.webank.com.png
+      logo: https://toolb.cn/favicon/security.webank.com.png
       url: https://security.webank.com/
       description: ''
     - title: 你我贷安全响应中心
-      logo: https://api.iowen.cn/favicon/www.niwodai.com.png
+      logo: https://toolb.cn/favicon/www.niwodai.com.png
       url: https://www.niwodai.com/sec/index.do
       description: ''
     - title: 挖财安全应急响应中心
-      logo: https://api.iowen.cn/favicon/sec.wacai.com.png
+      logo: https://toolb.cn/favicon/sec.wacai.com.png
       url: https://sec.wacai.com/
       description: ''
     - title: 法大大安全应急响应中心
-      logo: https://api.iowen.cn/favicon/sec.fadada.com.png
+      logo: https://toolb.cn/favicon/sec.fadada.com.png
       url: https://sec.fadada.com/#/index
       description: ''
     - title: 途虎安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.tuhu.cn.png
+      logo: https://toolb.cn/favicon/security.tuhu.cn.png
       url: https://security.tuhu.cn/
       description: ''
     - title: 贝锐安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.oray.com.png
+      logo: https://toolb.cn/favicon/security.oray.com.png
       url: https://security.oray.com/
       description: ''
     - title: Soul安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.soulapp.cn.png
+      logo: https://toolb.cn/favicon/security.soulapp.cn.png
       url: https://security.soulapp.cn/
       description: ''
     - title: 掌门教育安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.zhangmen.com.png
+      logo: https://toolb.cn/favicon/security.zhangmen.com.png
       url: https://security.zhangmen.com/#/
       description: ''
     - title: 度小满安全应急响应中心
-      logo: https://api.iowen.cn/favicon/security.duxiaoman.com.png
+      logo: https://toolb.cn/favicon/security.duxiaoman.com.png
       url: https://security.duxiaoman.com/index.html#/main
       description: ''
 - taxonomy: 搜索引擎
   icon: fab fa-searchengin
   links:
   - title: FOFA
-    logo: https://api.iowen.cn/favicon/fofa.info.png
+    logo: https://toolb.cn/favicon/fofa.info.png
     url: https://fofa.info/
     description: '华顺信安网络空间资产搜索引擎'
   - title: Quake
-    logo: https://api.iowen.cn/favicon/quake.360.net.png
+    logo: https://toolb.cn/favicon/quake.360.net.png
     url: https://quake.360.net/quake/#/index
     description: '360网络空间测绘'
   - title: Hunter
-    logo: https://api.iowen.cn/favicon/hunter.qianxin.com.png
+    logo: https://toolb.cn/favicon/hunter.qianxin.com.png
     url: https://hunter.qianxin.com/
     description: '奇安信全球鹰全球互联网资产搜集平台'
   - title: ZoomEye
-    logo: https://api.iowen.cn/favicon/www.zoomeye.org.png
+    logo: https://toolb.cn/favicon/www.zoomeye.org.png
     url: https://www.zoomeye.org/
     description: '知道创宇网络空间搜索引擎'
   - title: 谛听
-    logo: https://api.iowen.cn/favicon/www.ditecting.com.png
+    logo: https://toolb.cn/favicon/www.ditecting.com.png
     url: https://www.ditecting.com/
     description: '专注工控安全的搜索引擎'
   - title: 知风
-    logo: https://api.iowen.cn/favicon/zhifeng.io.png
+    logo: https://toolb.cn/favicon/zhifeng.io.png
     url: https://zhifeng.io/web/new/
     description: '互联网联网工控资产与企业分析系统'
   - title: 零零信安
-    logo: https://api.iowen.cn/favicon/0.zone.png
+    logo: https://toolb.cn/favicon/0.zone.png
     url: https://0.zone/
     description: '零零信安攻击面管理平台'
   - title: sumap
-    logo: https://api.iowen.cn/favicon/sumap.dbappsecurity.com.cn.png
+    logo: https://toolb.cn/favicon/sumap.dbappsecurity.com.cn.png
     url: https://sumap.dbappsecurity.com.cn/
     description: '安恒全球网络空间超级雷达'
   - title: DayDayMap
-    logo: https://api.iowen.cn/favicon/www.daydaymap.com.png
+    logo: https://toolb.cn/favicon/www.daydaymap.com.png
     url: https://www.daydaymap.com/home
     description: '盛邦安全全球网络空间资产测绘平台'
   - title: Shodan
-    logo: https://api.iowen.cn/favicon/www.shodan.io.png
+    logo: https://toolb.cn/favicon/www.shodan.io.png
     url: https://www.shodan.io/
     description: '互联网资产 OSINT 搜索引擎'
   - title: RiskIQ
-    logo: https://api.iowen.cn/favicon/community.riskiq.com.png
+    logo: https://toolb.cn/favicon/community.riskiq.com.png
     url: https://community.riskiq.com/home
     description: '互联网资产 OSINT 搜索引擎'
   - title: ONYPHE
-    logo: https://api.iowen.cn/favicon/www.onyphe.io.png
+    logo: https://toolb.cn/favicon/www.onyphe.io.png
     url: https://www.onyphe.io/
     description: '互联网资产 OSINT 搜索引擎'
   - title: Netlas.io
-    logo: https://api.iowen.cn/favicon/app.netlas.io.png
+    logo: https://toolb.cn/favicon/app.netlas.io.png
     url: https://app.netlas.io/host/
     description: '互联网资产 OSINT 搜索引擎'
   - title: BinaryEdge
-    logo: https://api.iowen.cn/favicon/www.binaryedge.io.png
+    logo: https://toolb.cn/favicon/www.binaryedge.io.png
     url: https://www.binaryedge.io/
     description: '互联网资产 OSINT 搜索引擎'
   - title: Criminal IP
-    logo: https://api.iowen.cn/favicon/www.criminalip.io.png
+    logo: https://toolb.cn/favicon/www.criminalip.io.png
     url: https://www.criminalip.io
     description: '一个专门用于攻击面评估和威胁搜寻的 OSINT 搜索引擎'
   - title: Hunter Search Engine
-    logo: https://api.iowen.cn/favicon/hunter.how.png
+    logo: https://toolb.cn/favicon/hunter.how.png
     url: https://hunter.how/
     description: '互联网资产搜索引擎'
   - title: searchcode
@@ -799,15 +799,15 @@
     url: https://searchcode.com/
     description: '源代码搜索引擎，从 4000 万个项目中搜索 750 亿行代码'
   - title: grep.app
-    logo: https://api.iowen.cn/favicon/grep.app.png
+    logo: https://toolb.cn/favicon/grep.app.png
     url: https://grep.app/
     description: '源代码搜索引擎，从GitHub上超过50万个公共存储库中搜索代码'
   - title: PublicWWW
-    logo: https://api.iowen.cn/favicon/publicwww.com.png
+    logo: https://toolb.cn/favicon/publicwww.com.png
     url: https://publicwww.com/
     description: '源代码搜索引擎，在网页源码中查找特定代码片段'
   - title: Hunter (Email Hunter)
-    logo: https://api.iowen.cn/favicon/hunter.io.png
+    logo: https://toolb.cn/favicon/hunter.io.png
     url: https://hunter.io/
     description: '查找特定域名下相关的电子邮件地址'
   - title: GreyNoise
@@ -815,7 +815,7 @@
     url: https://viz.greynoise.io
     description: '可视化互联网背景噪声和恶意网络活动'
   - title: 'WiGLE: Wireless Network Mapping'
-    logo: https://api.iowen.cn/favicon/wigle.net.png
+    logo: https://toolb.cn/favicon/wigle.net.png
     url: https://wigle.net/
     description: '包含802.11无线网络的地图和数据库'
   - title: FullHunt
@@ -823,7 +823,7 @@
     url: https://fullhunt.io/
     description: '互联网攻击面管理平台'
   - title: Check-Host.net
-    logo: https://api.iowen.cn/favicon/check-host.net.png
+    logo: https://toolb.cn/favicon/check-host.net.png
     url: https://check-host.net/
     description: '用于检查网站、服务器、主机和 IP 地址的可用性'
 - taxonomy: 信息搜集
@@ -832,335 +832,335 @@
   - term: 企业信息查询
     links:
     - title: 企查查
-      logo: https://api.iowen.cn/favicon/www.qcc.com.png
+      logo: https://toolb.cn/favicon/www.qcc.com.png
       url: https://www.qcc.com/
       description: ''
     - title: 天眼查
-      logo: https://api.iowen.cn/favicon/www.tianyancha.com.png
+      logo: https://toolb.cn/favicon/www.tianyancha.com.png
       url: https://www.tianyancha.com/
       description: ''
     - title: 爱企查
-      logo: https://api.iowen.cn/favicon/aiqicha.baidu.com.png
+      logo: https://toolb.cn/favicon/aiqicha.baidu.com.png
       url: https://aiqicha.baidu.com/
       description: ''
     - title: 小蓝本
-      logo: https://api.iowen.cn/favicon/www.xiaolanben.com.png
+      logo: https://toolb.cn/favicon/www.xiaolanben.com.png
       url: https://www.xiaolanben.com/pc
       description: ''
     - title: 启信宝
-      logo: https://api.iowen.cn/favicon/www.qixin.com.png
+      logo: https://toolb.cn/favicon/www.qixin.com.png
       url: https://www.qixin.com/
       description: ''
     - title: 蓝鲸
-      logo: https://api.iowen.cn/favicon/lanjing.jd.com.png
+      logo: https://toolb.cn/favicon/lanjing.jd.com.png
       url: https://lanjing.jd.com/
       description: ''
     - title: 商商查
-      logo: https://api.iowen.cn/favicon/www.sscha.com.png
+      logo: https://toolb.cn/favicon/www.sscha.com.png
       url: https://www.sscha.com/
       description: ''
     - title: 七麦数据
-      logo: https://api.iowen.cn/favicon/www.qimai.cn.png
+      logo: https://toolb.cn/favicon/www.qimai.cn.png
       url: https://www.qimai.cn/
       description: ''
   - term: ICP备案查询
     links:
     - title: 工信部ICP备案查询
-      logo: https://api.iowen.cn/favicon/beian.miit.gov.cn.png
+      logo: https://toolb.cn/favicon/beian.miit.gov.cn.png
       url: https://beian.miit.gov.cn/#/Integrated/index
       description: ''
     - title: 站长工具 - ICP备案查询
-      logo: https://api.iowen.cn/favicon/icp.chinaz.com.png
+      logo: https://toolb.cn/favicon/icp.chinaz.com.png
       url: https://icp.chinaz.com/
       description: ''
     - title: ICP查询网
-      logo: https://api.iowen.cn/favicon/www.icplist.com.png
+      logo: https://toolb.cn/favicon/www.icplist.com.png
       url: https://www.icplist.com/
       description: ''
     - title: ICP备案查询网
-      logo: https://api.iowen.cn/favicon/www.beianx.cn.png
+      logo: https://toolb.cn/favicon/www.beianx.cn.png
       url: https://www.beianx.cn/search
       description: ''
     - title: sojson - ICP备案查询
-      logo: https://api.iowen.cn/favicon/www.sojson.com.png
+      logo: https://toolb.cn/favicon/www.sojson.com.png
       url: https://www.sojson.com/beian/
       description: ''
   - term: DNS查询
     links:
     - title: 阿里云网站运维检测平台
-      logo: https://api.iowen.cn/favicon/boce.aliyun.com.png
+      logo: https://toolb.cn/favicon/boce.aliyun.com.png
       url: https://boce.aliyun.com/detect/dns
       description: '阿里云实时DNS解析查询'
     - title: 站长工具 - Dns查询
-      logo: https://api.iowen.cn/favicon/tool.chinaz.com.png
+      logo: https://toolb.cn/favicon/tool.chinaz.com.png
       url: https://tool.chinaz.com/dns
       description: '实时DNS解析查询'
     - title: CDN Finder - CDN Planet
-      logo: https://api.iowen.cn/favicon/www.cdnplanet.com.png
+      logo: https://toolb.cn/favicon/www.cdnplanet.com.png
       url: https://www.cdnplanet.com/tools/cdnfinder/
       description: ''
     - title: DNSDB
-      logo: https://api.iowen.cn/favicon/www.dnsdb.io.png
+      logo: https://toolb.cn/favicon/www.dnsdb.io.png
       url: https://www.dnsdb.io/zh-cn/
       description: '全球最大DNS数据库'
     - title: Subdomain Finder | HackerTarget
-      logo: https://api.iowen.cn/favicon/hackertarget.com.png
+      logo: https://toolb.cn/favicon/hackertarget.com.png
       url: https://hackertarget.com/find-dns-host-records/
       description: ''
     - title: DNSdumpster
-      logo: https://api.iowen.cn/favicon/dnsdumpster.com.png
+      logo: https://toolb.cn/favicon/dnsdumpster.com.png
       url: https://dnsdumpster.com/
       description: ''
     - title: RapidDNS
-      logo: https://api.iowen.cn/favicon/rapiddns.io.png
+      logo: https://toolb.cn/favicon/rapiddns.io.png
       url: https://rapiddns.io/sameip
       description: ''
     - title: ViewDNS
-      logo: https://api.iowen.cn/favicon/viewdns.info.png
+      logo: https://toolb.cn/favicon/viewdns.info.png
       url: https://viewdns.info/
       description: '多种DNS记录查询'
     - title: DNS Lookup - WhatIsMyIP.com®
-      logo: https://api.iowen.cn/favicon/www.whatismyip.com.png
+      logo: https://toolb.cn/favicon/www.whatismyip.com.png
       url: https://www.whatismyip.com/dns-lookup/
       description: ''
     - title: DNS Checker -  KeyCDN Tools
-      logo: https://api.iowen.cn/favicon/tools.keycdn.com.png
+      logo: https://toolb.cn/favicon/tools.keycdn.com.png
       url: https://tools.keycdn.com/dig
       description: ''
     - title: DNS Checker
-      logo: https://api.iowen.cn/favicon/dnschecker.org.png
+      logo: https://toolb.cn/favicon/dnschecker.org.png
       url: https://dnschecker.org/
       description: ''
     - title: DNS Lookup - IPAddress
-      logo: https://api.iowen.cn/favicon/www.ipaddress.com.png
+      logo: https://toolb.cn/favicon/www.ipaddress.com.png
       url: https://www.ipaddress.com/dns-lookup
       description: ''
     - title: DNS Lookup
-      logo: https://api.iowen.cn/favicon/www.nslookup.io.png
+      logo: https://toolb.cn/favicon/www.nslookup.io.png
       url: https://www.nslookup.io/
       description: ''
     - title: SecurityTrails
-      logo: https://api.iowen.cn/favicon/securitytrails.com.png
+      logo: https://toolb.cn/favicon/securitytrails.com.png
       url: https://securitytrails.com/
       description: 'DNS历史记录查询'
   - term: 证书查询
     links:
     - title: Censys
-      logo: https://api.iowen.cn/favicon/search.censys.io.png
+      logo: https://toolb.cn/favicon/search.censys.io.png
       url: https://search.censys.io/certificates
       description: ''
     - title: crt.sh
-      logo: https://api.iowen.cn/favicon/crt.sh.png
+      logo: https://toolb.cn/favicon/crt.sh.png
       url: https://crt.sh/
       description: ''
     - title: SSLMate
-      logo: https://api.iowen.cn/favicon/sslmate.com.png
+      logo: https://toolb.cn/favicon/sslmate.com.png
       url: https://sslmate.com/ct_search_api/
       description: ''
   - term: IP反查域名
     links:
     - title: WebScan
-      logo: https://api.iowen.cn/favicon/webscan.cc.png
+      logo: https://toolb.cn/favicon/webscan.cc.png
       url: https://webscan.cc/
       description: ''
     - title: iP反查域名
-      logo: https://api.iowen.cn/favicon/site.ip138.com.png
+      logo: https://toolb.cn/favicon/site.ip138.com.png
       url: https://site.ip138.com/
       description: ''
     - title: IP反查域名 - Dnslytics
-      logo: https://api.iowen.cn/favicon/dnslytics.com.png
+      logo: https://toolb.cn/favicon/dnslytics.com.png
       url: https://dnslytics.com/reverse-ip
       description: ''
     - title: IP反查域名_爱站网
-      logo: https://api.iowen.cn/favicon/dns.aizhan.com.png
+      logo: https://toolb.cn/favicon/dns.aizhan.com.png
       url: https://dns.aizhan.com/
       description: ''
     - title: 同IP网站查询 - 站长工具
-      logo: https://api.iowen.cn/favicon/stool.chinaz.com.png
+      logo: https://toolb.cn/favicon/stool.chinaz.com.png
       url: https://stool.chinaz.com/same
       description: ''
     - title: Reverse IP Lookup - Find Other Web Sites Hosted on a Web Server
-      logo: https://api.iowen.cn/favicon/www.yougetsignal.com.png
+      logo: https://toolb.cn/favicon/www.yougetsignal.com.png
       url: https://www.yougetsignal.com/tools/web-sites-on-web-server/
       description: ''
     - title: RapidDNS
-      logo: https://api.iowen.cn/favicon/rapiddns.io.png
+      logo: https://toolb.cn/favicon/rapiddns.io.png
       url: https://rapiddns.io/
       description: ''
     - title: Reverse IP Lookup - Find All Hosts Sharing An IP Address
-      logo: https://api.iowen.cn/favicon/www.ipaddress.com.png
+      logo: https://toolb.cn/favicon/www.ipaddress.com.png
       url: https://www.ipaddress.com/reverse-ip-lookup
       description: ''
   - term: 子域名查询
     links:
     - title: 在线子域名爆破
-      logo: https://api.iowen.cn/favicon/z.zcjun.com.png
+      logo: https://toolb.cn/favicon/z.zcjun.com.png
       url: http://z.zcjun.com/
       description: ''
     - title: 在线子域名查询
-      logo: https://api.iowen.cn/favicon/phpinfo.me.png
+      logo: https://toolb.cn/favicon/phpinfo.me.png
       url: https://phpinfo.me/domain/
       description: ''
     - title: 子域名查询 - dnsgrep
-      logo: https://api.iowen.cn/favicon/www.dnsgrep.cn.png
+      logo: https://toolb.cn/favicon/www.dnsgrep.cn.png
       url: https://www.dnsgrep.cn/subdomain
       description: ''
     - title: 千寻域名资产在线搜索引擎
-      logo: https://api.iowen.cn/favicon/www.dnsscan.cn.png
+      logo: https://toolb.cn/favicon/www.dnsscan.cn.png
       url: https://www.dnsscan.cn/dns.html
       description: ''
     - title: 子域名查询 - 查子域
-      logo: https://api.iowen.cn/favicon/chaziyu.com.png
+      logo: https://toolb.cn/favicon/chaziyu.com.png
       url: https://chaziyu.com/
       description: ''
     - title: 子域名查询 - 站长工具
-      logo: https://api.iowen.cn/favicon/tool.chinaz.com.png
+      logo: https://toolb.cn/favicon/tool.chinaz.com.png
       url: https://tool.chinaz.com/subdomain/
       description: ''
     - title: ⚡️ ReconSage | Subdomain Scanner
-      logo: https://api.iowen.cn/favicon/www.reconsage.com.png
+      logo: https://toolb.cn/favicon/www.reconsage.com.png
       url: https://www.reconsage.com/tools/scan-subdomain
       description: ''
   - term: 端口扫描
     links:
     - title: 服务器端口开放检测 - 在线工具
-      logo: https://api.iowen.cn/favicon/www.toolhelper.cn.png
+      logo: https://toolb.cn/favicon/www.toolhelper.cn.png
       url: https://www.toolhelper.cn/Http/PortCheck
       description: ''
     - title: 在线端口扫描 - sojson
-      logo: https://api.iowen.cn/favicon/www.sojson.com.png
+      logo: https://toolb.cn/favicon/www.sojson.com.png
       url: https://www.sojson.com/zz/portscan.html
       description: ''
     - title: Online Port Scanner
-      logo: https://api.iowen.cn/favicon/portscanner.standingtech.com.png
+      logo: https://toolb.cn/favicon/portscanner.standingtech.com.png
       url: https://portscanner.standingtech.com/
       description: ''
     - title: Online Port Scan
-      logo: https://api.iowen.cn/favicon/spiderip.com.png
+      logo: https://toolb.cn/favicon/spiderip.com.png
       url: https://spiderip.com/online-port-scan.php
       description: ''
     - title: Open Port Checker
-      logo: https://api.iowen.cn/favicon/www.ipfingerprints.com.png
+      logo: https://toolb.cn/favicon/www.ipfingerprints.com.png
       url: https://www.ipfingerprints.com/portscan.php
       description: ''
     - title: Open Port Check Tool
-      logo: https://api.iowen.cn/favicon/www.yougetsignal.com.png
+      logo: https://toolb.cn/favicon/www.yougetsignal.com.png
       url: https://www.yougetsignal.com/tools/open-ports/
       description: ''
     - title: Online Port check
-      logo: https://api.iowen.cn/favicon/ping.eu.png
+      logo: https://toolb.cn/favicon/ping.eu.png
       url: https://ping.eu/port-chk/
       description: ''
     - title: 端口扫描 - 站长工具
-      logo: https://api.iowen.cn/favicon/tool.chinaz.com.png
+      logo: https://toolb.cn/favicon/tool.chinaz.com.png
       url: https://tool.chinaz.com/port/
       description: ''
     - title: 在线端口检测
-      logo: https://api.iowen.cn/favicon/coolaf.com.png
+      logo: https://toolb.cn/favicon/coolaf.com.png
       url: http://coolaf.com/tool/port
       description: ''
     - title: 在线端口扫描 - TooL.cc
-      logo: https://api.iowen.cn/favicon/tool.cc.png
+      logo: https://toolb.cn/favicon/tool.cc.png
       url: https://tool.cc/port/
       description: ''
     - title: 在线端口扫描器
-      logo: https://api.iowen.cn/favicon/duankou.wlphp.com.png
+      logo: https://toolb.cn/favicon/duankou.wlphp.com.png
       url: http://duankou.wlphp.com/
       description: ''
     - title: IP端口批量扫描在线工具
-      logo: https://api.iowen.cn/favicon/www.yunjson.com.png
+      logo: https://toolb.cn/favicon/www.yunjson.com.png
       url: http://www.yunjson.com/port/
       description: ''
     - title: 在线端口检测开放检查
-      logo: https://api.iowen.cn/favicon/www.jsons.cn.png
+      logo: https://toolb.cn/favicon/www.jsons.cn.png
       url: http://www.jsons.cn/port/
       description: ''
     - title: Nmap Online Scanner
-      logo: https://api.iowen.cn/favicon/nmap.online-domain-tools.com.png
+      logo: https://toolb.cn/favicon/nmap.online-domain-tools.com.png
       url: http://nmap.online-domain-tools.com/
       description: ''
     - title: 在线端口扫描器 - 码工具
-      logo: https://api.iowen.cn/favicon/www.matools.com.png
+      logo: https://toolb.cn/favicon/www.matools.com.png
       url: https://www.matools.com/port
       description: ''
     - title: 端口扫描 - 在线端口扫描工具
-      logo: https://api.iowen.cn/favicon/port.hwcha.com.png
+      logo: https://toolb.cn/favicon/port.hwcha.com.png
       url: https://port.hwcha.com/
       description: ''
     - title: 在线端口扫描工具-ME2在线工具
-      logo: https://api.iowen.cn/favicon/www.metools.info.png
+      logo: https://toolb.cn/favicon/www.metools.info.png
       url: http://www.metools.info/master/m38.html
       description: ''
   - term: 指纹识别
     links:
     - title: 云悉指纹识别
-      logo: https://api.iowen.cn/favicon/www.yunsee.cn.png
+      logo: https://toolb.cn/favicon/www.yunsee.cn.png
       url: https://www.yunsee.cn/
       description: ''
     - title: 潮汐指纹识别
-      logo: https://api.iowen.cn/favicon/finger.tidesec.net.png
+      logo: https://toolb.cn/favicon/finger.tidesec.net.png
       url: http://finger.tidesec.net/
       description: ''
     - title: 指纹收录平台 - 数字观星
-      logo: https://api.iowen.cn/favicon/fp.shuziguanxing.com.png
+      logo: https://toolb.cn/favicon/fp.shuziguanxing.com.png
       url: https://fp.shuziguanxing.com/#/
       description: ''
   - term: Whois查询
     links:
     - title: 域名信息查询 - 阿里云
-      logo: https://api.iowen.cn/favicon/whois.aliyun.com.png
+      logo: https://toolb.cn/favicon/whois.aliyun.com.png
       url: https://whois.aliyun.com/
       description: ''
     - title: 域名信息查询 - 腾讯云
-      logo: https://api.iowen.cn/favicon/whois.cloud.tencent.com.png
+      logo: https://toolb.cn/favicon/whois.cloud.tencent.com.png
       url: https://whois.cloud.tencent.com/domain?domain=
       description: ''
     - title: 域名whois查询 - 西部数码
-      logo: https://api.iowen.cn/favicon/whois.west.cn.png
+      logo: https://toolb.cn/favicon/whois.west.cn.png
       url: https://whois.west.cn/
       description: ''
     - title: 域名信息查询 - 新网
-      logo: https://api.iowen.cn/favicon/whois.xinnet.com.png
+      logo: https://toolb.cn/favicon/whois.xinnet.com.png
       url: https://whois.xinnet.com/
       description: ''
     - title: 纳网WHOIS查询服务
-      logo: https://api.iowen.cn/favicon/whois.nawang.cn.png
+      logo: https://toolb.cn/favicon/whois.nawang.cn.png
       url: http://whois.nawang.cn/
       description: ''
     - title: 域名Whois查询 - 站长之家
-      logo: https://api.iowen.cn/favicon/whois.chinaz.com.png
+      logo: https://toolb.cn/favicon/whois.chinaz.com.png
       url: https://whois.chinaz.com/
       description: ''
     - title: 域名Whois查询 - sojson
-      logo: https://api.iowen.cn/favicon/www.sojson.com.png
+      logo: https://toolb.cn/favicon/www.sojson.com.png
       url: https://www.sojson.com/whois/
       description: ''
     - title: 域名Whois查询 - uutools
-      logo: https://api.iowen.cn/favicon/uutool.cn.png
+      logo: https://toolb.cn/favicon/uutool.cn.png
       url: https://uutool.cn/whois/
       description: ''
     - title: whois查询 - 爱站网
-      logo: https://api.iowen.cn/favicon/whois.aizhan.com.png
+      logo: https://toolb.cn/favicon/whois.aizhan.com.png
       url: https://whois.aizhan.com/
       description: ''
     - title: Whois IP & Domain Lookup | Whois.com
-      logo: https://api.iowen.cn/favicon/www.whois.com.png
+      logo: https://toolb.cn/favicon/www.whois.com.png
       url: https://www.whois.com/whois/
       description: ''
     - title: WHO.CX - Whois查询
-      logo: https://api.iowen.cn/favicon/who.cx.png
+      logo: https://toolb.cn/favicon/who.cx.png
       url: https://who.cx/
       description: ''
     - title: 全球WHOIS查询 | WHOIS.SL
-      logo: https://api.iowen.cn/favicon/whois.sl.png
+      logo: https://toolb.cn/favicon/whois.sl.png
       url: https://whois.sl/
       description: ''
     - title: 猫咪whois全球查询
-      logo: https://api.iowen.cn/favicon/mao.cx.png
+      logo: https://toolb.cn/favicon/mao.cx.png
       url: https://mao.cx/
       description: ''
     - title: Next Whois Lookup
-      logo: https://api.iowen.cn/favicon/who.zmh.me.png
+      logo: https://toolb.cn/favicon/who.zmh.me.png
       url: https://who.zmh.me/
       description: ''
 - taxonomy: 文件查杀分析
@@ -1169,143 +1169,143 @@
   - term: WebSell查杀
     links:
     - title: 阿里云WebShell检测平台
-      logo: https://api.iowen.cn/favicon/ti.aliyun.com.png
+      logo: https://toolb.cn/favicon/ti.aliyun.com.png
       url: https://ti.aliyun.com/#/webshell
       description: ''
     - title: 河马查杀
-      logo: https://api.iowen.cn/favicon/www.shellpub.com.png
+      logo: https://toolb.cn/favicon/www.shellpub.com.png
       url: https://www.shellpub.com/
       description: ''
     - title: D盾防火墙
-      logo: https://api.iowen.cn/favicon/www.d99net.net.png
+      logo: https://toolb.cn/favicon/www.d99net.net.png
       url: https://www.d99net.net/index.asp
       description: ''
     - title: WEBDIR+
-      logo: https://api.iowen.cn/favicon/scanner.baidu.com.png
+      logo: https://toolb.cn/favicon/scanner.baidu.com.png
       url: https://scanner.baidu.com/#/pages/intro
       description: ''
     - title: CloudWalker
-      logo: https://api.iowen.cn/favicon/stack.chaitin.com.png
+      logo: https://toolb.cn/favicon/stack.chaitin.com.png
       url: https://stack.chaitin.com/security-challenge/webshell/index
       description: ''
   - term: 病毒木马分析
     links:
     - title: 可疑文件分析云
-      logo: https://api.iowen.cn/favicon/cloud.vdnel.cn.png
+      logo: https://toolb.cn/favicon/cloud.vdnel.cn.png
       url: https://cloud.vdnel.cn/
       description: ''
     - title: 阿里云恶意文件检测平台
-      logo: https://api.iowen.cn/favicon/ti.aliyun.com.png
+      logo: https://toolb.cn/favicon/ti.aliyun.com.png
       url: https://ti.aliyun.com/#/sastiFile
       description: ''
     - title: 微步在线云沙箱
-      logo: https://api.iowen.cn/favicon/s.threatbook.com.png
+      logo: https://toolb.cn/favicon/s.threatbook.com.png
       url: https://s.threatbook.com/
       description: ''
     - title: 360沙箱云
-      logo: https://api.iowen.cn/favicon/ata.360.net.png
+      logo: https://toolb.cn/favicon/ata.360.net.png
       url: https://ata.360.net/
       description: ''
     - title: 深信服云沙箱
-      logo: https://api.iowen.cn/favicon/ti.sangfor.com.cn.png
+      logo: https://toolb.cn/favicon/ti.sangfor.com.cn.png
       url: https://ti.sangfor.com.cn/sandbox-dashboard
       description: ''
     - title: 奇安信情报沙箱
-      logo: https://api.iowen.cn/favicon/sandbox.ti.qianxin.com.png
+      logo: https://toolb.cn/favicon/sandbox.ti.qianxin.com.png
       url: https://sandbox.ti.qianxin.com/sandbox/page
       description: ''
     - title: 腾讯哈勃分析系统
-      logo: https://api.iowen.cn/favicon/habo.qq.com.png
+      logo: https://toolb.cn/favicon/habo.qq.com.png
       url: https://habo.qq.com/
       description: ''
     - title: 大圣云沙箱检测系统
-      logo: https://api.iowen.cn/favicon/mac-cloud.riskivy.com.png
+      logo: https://toolb.cn/favicon/mac-cloud.riskivy.com.png
       url: https://mac-cloud.riskivy.com/detect
       description: ''
     - title: VirusTotal
-      logo: https://api.iowen.cn/favicon/www.virustotal.com.png
+      logo: https://toolb.cn/favicon/www.virustotal.com.png
       url: https://www.virustotal.com/gui/home/upload
       description: ''
     - title: VirScan
-      logo: https://api.iowen.cn/favicon/www.virscan.org.png
+      logo: https://toolb.cn/favicon/www.virscan.org.png
       url: https://www.virscan.org/
       description: ''
     - title: DynamiteLab
-      logo: https://api.iowen.cn/favicon/lab.dynamite.ai.png
+      logo: https://toolb.cn/favicon/lab.dynamite.ai.png
       url: https://lab.dynamite.ai/
       description: ''
     - title: ANY.RUN
-      logo: https://api.iowen.cn/favicon/app.any.run.png
+      logo: https://toolb.cn/favicon/app.any.run.png
       url: https://app.any.run/
       description: ''
     - title: Joe Sandbox
-      logo: https://api.iowen.cn/favicon/www.joesandbox.com.png
+      logo: https://toolb.cn/favicon/www.joesandbox.com.png
       url: https://www.joesandbox.com/analysispaged/0
       description: ''
     - title: MalwareBazaar
-      logo: https://api.iowen.cn/favicon/bazaar.abuse.ch.png
+      logo: https://toolb.cn/favicon/bazaar.abuse.ch.png
       url: https://bazaar.abuse.ch/
       description: ''
   - term: 勒索病毒解密
     links:
     - title: 360勒索病毒解密
-      logo: https://api.iowen.cn/favicon/lesuobingdu.360.cn.png
+      logo: https://toolb.cn/favicon/lesuobingdu.360.cn.png
       url: https://lesuobingdu.360.cn/
       description: ''
     - title: 奇安信勒索病毒搜索引擎
-      logo: https://api.iowen.cn/favicon/lesuobingdu.qianxin.com.png
+      logo: https://toolb.cn/favicon/lesuobingdu.qianxin.com.png
       url: https://lesuobingdu.qianxin.com/
       description: ''
     - title: 深信服勒索病毒搜索引擎
-      logo: https://api.iowen.cn/favicon/edr.sangfor.com.cn.png
+      logo: https://toolb.cn/favicon/edr.sangfor.com.cn.png
       url: https://edr.sangfor.com.cn/#/information/ransom_search
       description: ''
     - title: 电脑管家勒索病毒搜索引擎
-      logo: https://api.iowen.cn/favicon/guanjia.qq.com.png
+      logo: https://toolb.cn/favicon/guanjia.qq.com.png
       url: https://guanjia.qq.com/pr/ls/
       description: ''
     - title: 鹰眼勒索病毒检测
-      logo: https://api.iowen.cn/favicon/ti.duba.net.png
+      logo: https://toolb.cn/favicon/ti.duba.net.png
       url: https://ti.duba.net/ransom
       description: ''
     - title: VenusEye勒索病毒搜索引擎
-      logo: https://api.iowen.cn/favicon/lesuo.venuseye.com.cn.png
+      logo: https://toolb.cn/favicon/lesuo.venuseye.com.cn.png
       url: https://lesuo.venuseye.com.cn/
       description: ''
     - title: 免费的勒索软件解密器 - 卡巴斯基实验室
-      logo: https://api.iowen.cn/favicon/noransom.kaspersky.com.png
+      logo: https://toolb.cn/favicon/noransom.kaspersky.com.png
       url: https://noransom.kaspersky.com/zh/
       description: ''
     - title: The No More Ransom Project
-      logo: https://api.iowen.cn/favicon/www.nomoreransom.org.png
+      logo: https://toolb.cn/favicon/www.nomoreransom.org.png
       url: https://www.nomoreransom.org/zh/index.html
       description: ''
     - title: ID Ransomware
-      logo: https://api.iowen.cn/favicon/id-ransomware.malwarehunterteam.com.png
+      logo: https://toolb.cn/favicon/id-ransomware.malwarehunterteam.com.png
       url: https://id-ransomware.malwarehunterteam.com/
       description: ''
     - title: DECRYPTION TOOLS – Maureen Data Systems
-      logo: https://api.iowen.cn/favicon/mdsny.com.png
+      logo: https://toolb.cn/favicon/mdsny.com.png
       url: https://mdsny.com/decryption-tools/
       description: ''
     - title: Using the Trend Micro Ransomware File Decryptor Tool
-      logo: https://api.iowen.cn/favicon/success.trendmicro.com.png
+      logo: https://toolb.cn/favicon/success.trendmicro.com.png
       url: https://success.trendmicro.com/dcx/s/solution/1114221-downloading-and-using-the-trend-micro-ransomware-file-decryptor?language=en_US
       description: ''
     - title: Free Ransomware Decryption Tool
-      logo: https://api.iowen.cn/favicon/www.quickheal.com.png
+      logo: https://toolb.cn/favicon/www.quickheal.com.png
       url: https://www.quickheal.com/free-ransomware-decryption-tool/
       description: ''
     - title: 免费勒索软件解密工具 - Avast
-      logo: https://api.iowen.cn/favicon/www.avast.com.png
+      logo: https://toolb.cn/favicon/www.avast.com.png
       url: https://www.avast.com/zh-cn/ransomware-decryption-tools#pc
       description: ''
     - title: 'Emsisoft: Free Ransomware Decryption Tools'
-      logo: https://api.iowen.cn/favicon/www.emsisoft.com.png
+      logo: https://toolb.cn/favicon/www.emsisoft.com.png
       url: https://www.emsisoft.com/en/ransomware-decryption/
       description: ''
     - title: www.avg.com
-      logo: https://api.iowen.cn/favicon/www.avg.com.png
+      logo: https://toolb.cn/favicon/www.avg.com.png
       url: https://www.avg.com/zh-tw/ransomware-decryption-tools#pc
       description: ''
 - taxonomy: 在线加解密
@@ -1314,131 +1314,131 @@
   - term: Base64 编码
     links:
     - title: 在线 Base64 编码及解码工具- wetools.com微工具
-      logo: https://api.iowen.cn/favicon/www.wetools.com.png
+      logo: https://toolb.cn/favicon/www.wetools.com.png
       url: https://www.wetools.com/base64
       description: ''
     - title: Base64 编码解码工具，支持 Unicode 字符 Base64 编码 - dute.org
-      logo: https://api.iowen.cn/favicon/www.dute.org.png
+      logo: https://toolb.cn/favicon/www.dute.org.png
       url: https://www.dute.org/base64
       description: ''
     - title: Base64 编码/解码 - 在线工具
-      logo: https://api.iowen.cn/favicon/www.toolhelper.cn.png
+      logo: https://toolb.cn/favicon/www.toolhelper.cn.png
       url: https://www.toolhelper.cn/EncodeDecode/Base64EncodeDecode
       description: ''
     - title: Base64编码、解码，BASE64转图片，图片转BASE64 - 在线工具
-      logo: https://api.iowen.cn/favicon/tools.fun.png
+      logo: https://toolb.cn/favicon/tools.fun.png
       url: https://tools.fun/base64.html
       description: ''
     - title: Base64在线加密解密-在线Base64加密解密工具-Base64编码解码工具
-      logo: https://api.iowen.cn/favicon/www.jsons.cn.png
+      logo: https://toolb.cn/favicon/www.jsons.cn.png
       url: http://www.jsons.cn/base64/
       description: ''
   - term: Unicode 编码
     links:
     - title: Unicode编码解码
-      logo: https://api.iowen.cn/favicon/www.bt.cn.png
+      logo: https://toolb.cn/favicon/www.bt.cn.png
       url: https://www.bt.cn/tools/unicode.html
       description: ''
     - title: 在线 Unicode 编码转换 | 菜鸟工具
-      logo: https://api.iowen.cn/favicon/c.runoob.com.png
+      logo: https://toolb.cn/favicon/c.runoob.com.png
       url: https://c.runoob.com/front-end/3602/
       description: ''
     - title: Unicode与中文 编码/解码 - 在线工具
-      logo: https://api.iowen.cn/favicon/www.toolhelper.cn.png
+      logo: https://toolb.cn/favicon/www.toolhelper.cn.png
       url: https://www.toolhelper.cn/EncodeDecode/UnicodeChineseEncodeDecode
       description: ''
     - title: Unicode编码，Unicode解码，Unicode转换为中文 - 在线工具
-      logo: https://api.iowen.cn/favicon/tools.fun.png
+      logo: https://toolb.cn/favicon/tools.fun.png
       url: https://tools.fun/unicode.html
       description: ''
   - term: ASCII 编码
     links:
     - title: Ascii转中文字符-中文转Ascii编码-在线Ascii编码解码工具
-      logo: https://api.iowen.cn/favicon/www.jsons.cn.png
+      logo: https://toolb.cn/favicon/www.jsons.cn.png
       url: http://www.jsons.cn/ascii/
       description: ''
   - term: MD5 加密
     links:
     - title: cmd5
-      logo: https://api.iowen.cn/favicon/www.cmd5.com.png
+      logo: https://toolb.cn/favicon/www.cmd5.com.png
       url: https://www.cmd5.com/
       description: ''
     - title: somd5
-      logo: https://api.iowen.cn/favicon/www.somd5.com.png
+      logo: https://toolb.cn/favicon/www.somd5.com.png
       url: https://www.somd5.com/
       description: ''
     - title: pmd5
-      logo: https://api.iowen.cn/favicon/pmd5.com.png
+      logo: https://toolb.cn/favicon/pmd5.com.png
       url: https://pmd5.com/
       description: ''
     - title: ttmd5
-      logo: https://api.iowen.cn/favicon/www.ttmd5.com.png
+      logo: https://toolb.cn/favicon/www.ttmd5.com.png
       url: http://www.ttmd5.com/
       description: ''
     - title: md5.cc
-      logo: https://api.iowen.cn/favicon/md5.cc.png
+      logo: https://toolb.cn/favicon/md5.cc.png
       url: https://md5.cc/
       description: ''
     - title: cmd5.la
-      logo: https://api.iowen.cn/favicon/cmd5.la.png
+      logo: https://toolb.cn/favicon/cmd5.la.png
       url: https://cmd5.la/
       description: ''
     - title: md5在线加密解密
-      logo: https://api.iowen.cn/favicon/md5.cn.png
+      logo: https://toolb.cn/favicon/md5.cn.png
       url: http://md5.cn/
       description: ''
   - term: AES 加密
     links:
     - title: 在线AES加密解密 - 拉米工具
-      logo: https://api.iowen.cn/favicon/tool.lmeee.com.png
+      logo: https://toolb.cn/favicon/tool.lmeee.com.png
       url: https://tool.lmeee.com/jiami/aes
       description: ''
     - title: AES在线加密解密工具 - MKLab在线工具
-      logo: https://api.iowen.cn/favicon/www.mklab.cn.png
+      logo: https://toolb.cn/favicon/www.mklab.cn.png
       url: https://www.mklab.cn/utils/aes
       description: ''
     - title: 在线AES加密解密--查错网
-      logo: https://api.iowen.cn/favicon/tool.chacuo.net.png
+      logo: https://toolb.cn/favicon/tool.chacuo.net.png
       url: http://tool.chacuo.net/cryptaes
       description: ''
     - title: 在线AES加密、在线AES解密 – 抒写
-      logo: https://api.iowen.cn/favicon/blog.zhengxianjun.com.png
+      logo: https://toolb.cn/favicon/blog.zhengxianjun.com.png
       url: https://blog.zhengxianjun.com/online-tool/crypto/aes/
       description: ''
     - title: 在线AES加密解密
-      logo: https://api.iowen.cn/favicon/hao585.com.png
+      logo: https://toolb.cn/favicon/hao585.com.png
       url: http://hao585.com/show/?id=304
       description: ''
     - title: AES在线解密 - The X 在线工具
-      logo: https://api.iowen.cn/favicon/the-x.cn.png
+      logo: https://toolb.cn/favicon/the-x.cn.png
       url: https://the-x.cn/cryptography/Aes.aspx
       description: ''
     - title: AES加密、AES解密 - 在线工具 - OKTools
-      logo: https://api.iowen.cn/favicon/oktools.net.png
+      logo: https://toolb.cn/favicon/oktools.net.png
       url: https://oktools.net/aes
       description: ''
   - term: DES 加密
     links:
     - title: 在线DES加密解密 - 加密解密
-      logo: https://api.iowen.cn/favicon/www.txttool.com.png
+      logo: https://toolb.cn/favicon/www.txttool.com.png
       url: https://www.txttool.com/t/?id=NDI2
       description: ''
   - term: RSA 加密
     links:
     - title: RSA加密/解密 - 在线工具
-      logo: https://api.iowen.cn/favicon/try8.cn.png
+      logo: https://toolb.cn/favicon/try8.cn.png
       url: https://try8.cn/tool/cipher/rsa
       description: ''
     - title: RSA加密、RSA解密 - 在线工具 - OKTools
-      logo: https://api.iowen.cn/favicon/oktools.net.png
+      logo: https://toolb.cn/favicon/oktools.net.png
       url: https://oktools.net/rsa
       description: ''
     - title: 在线RSA加密解密
-      logo: https://api.iowen.cn/favicon/www.lddgo.net.png
+      logo: https://toolb.cn/favicon/www.lddgo.net.png
       url: https://www.lddgo.net/encrypt/rsa
       description: ''
     - title: RSA 加密 - 在线工具
-      logo: https://api.iowen.cn/favicon/www.toolhelper.cn.png
+      logo: https://toolb.cn/favicon/www.toolhelper.cn.png
       url: https://www.toolhelper.cn/AsymmetricEncryption/RsaEncrypt
       description: ''
 - taxonomy: 安全工具
@@ -1447,195 +1447,195 @@
   - term: 工具官网
     links:
     - title: Kali
-      logo: https://api.iowen.cn/favicon/www.kali.org.png
+      logo: https://toolb.cn/favicon/www.kali.org.png
       url: https://www.kali.org/
       description: ''
     - title: Nmap
-      logo: https://api.iowen.cn/favicon/nmap.org.png
+      logo: https://toolb.cn/favicon/nmap.org.png
       url: https://nmap.org/
       description: ''
     - title: sqlmap
-      logo: https://api.iowen.cn/favicon/sqlmap.org.png
+      logo: https://toolb.cn/favicon/sqlmap.org.png
       url: https://sqlmap.org/
       description: ''
     - title: Metasploit
-      logo: https://api.iowen.cn/favicon/www.metasploit.com.png
+      logo: https://toolb.cn/favicon/www.metasploit.com.png
       url: https://www.metasploit.com/
       description: ''
     - title: AWVS
-      logo: https://api.iowen.cn/favicon/www.acunetix.com.png
+      logo: https://toolb.cn/favicon/www.acunetix.com.png
       url: https://www.acunetix.com/
       description: ''
     - title: Nessus
-      logo: https://api.iowen.cn/favicon/www.tenable.com.png
+      logo: https://toolb.cn/favicon/www.tenable.com.png
       url: https://www.tenable.com/
       description: ''
     - title: Wireshark
-      logo: https://api.iowen.cn/favicon/www.wireshark.org.png
+      logo: https://toolb.cn/favicon/www.wireshark.org.png
       url: https://www.wireshark.org/
       description: ''
     - title: Fiddler
-      logo: https://api.iowen.cn/favicon/www.telerik.com.png
+      logo: https://toolb.cn/favicon/www.telerik.com.png
       url: https://www.telerik.com/fiddler
       description: ''
     - title: Charles
-      logo: https://api.iowen.cn/favicon/www.charlesproxy.com.png
+      logo: https://toolb.cn/favicon/www.charlesproxy.com.png
       url: https://www.charlesproxy.com/
       description: ''
     - title: Burp Suite
-      logo: https://api.iowen.cn/favicon/portswigger.net.png
+      logo: https://toolb.cn/favicon/portswigger.net.png
       url: https://portswigger.net/burp/releases
       description: ''
     - title: Yakit
-      logo: https://api.iowen.cn/favicon/www.yaklang.com.png
+      logo: https://toolb.cn/favicon/www.yaklang.com.png
       url: https://www.yaklang.com/
       description: ''
     - title: Goby
-      logo: https://api.iowen.cn/favicon/gobysec.net.png
+      logo: https://toolb.cn/favicon/gobysec.net.png
       url: https://gobysec.net/
       description: ''
     - title: ' 科来网络分析系统'
-      logo: https://api.iowen.cn/favicon/www.colasoft.com.cn.png
+      logo: https://toolb.cn/favicon/www.colasoft.com.cn.png
       url: https://www.colasoft.com.cn/download/capsa.php
       description: ''
   - term: 浏览器插件
     links:
     - title: Shodan
-      logo: https://api.iowen.cn/favicon/chromewebstore.google.com.png
+      logo: https://toolb.cn/favicon/chromewebstore.google.com.png
       url: https://chromewebstore.google.com/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap
       description: ''
     - title: Wappalyzer
-      logo: https://api.iowen.cn/favicon/chromewebstore.google.com.png
+      logo: https://toolb.cn/favicon/chromewebstore.google.com.png
       url: https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg
       description: ''
     - title: Hack-Tools
-      logo: https://api.iowen.cn/favicon/chromewebstore.google.com.png
+      logo: https://toolb.cn/favicon/chromewebstore.google.com.png
       url: https://chromewebstore.google.com/detail/hack-tools/cmbndhnoonmghfofefkcccljbkdpamhi
       description: ''
     - title: Vue.js devtools
-      logo: https://api.iowen.cn/favicon/chromewebstore.google.com.png
+      logo: https://toolb.cn/favicon/chromewebstore.google.com.png
       url: https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd
       description: ''
     - title: HackBar
-      logo: https://api.iowen.cn/favicon/chromewebstore.google.com.png
+      logo: https://toolb.cn/favicon/chromewebstore.google.com.png
       url: https://chromewebstore.google.com/detail/hackbar/ginpbkfigcoaokgflihfhhmglmbchinc
       description: ''
     - title: FindSomething
-      logo: https://api.iowen.cn/favicon/chromewebstore.google.com.png
+      logo: https://toolb.cn/favicon/chromewebstore.google.com.png
       url: https://chromewebstore.google.com/detail/findsomething/kfhniponecokdefffkpagipffdefeldb
       description: ''
     - title: FeHelper(前端助手)
-      logo: https://api.iowen.cn/favicon/chromewebstore.google.com.png
+      logo: https://toolb.cn/favicon/chromewebstore.google.com.png
       url: https://chromewebstore.google.com/detail/fehelper%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8B/pkgccpejnmalmdinmhkkfafefagiiiad
       description: ''
     - title: CyberChef
-      logo: https://api.iowen.cn/favicon/chromewebstore.google.com.png
+      logo: https://toolb.cn/favicon/chromewebstore.google.com.png
       url: https://chromewebstore.google.com/detail/cyberchef/nohdddnojpoohngaacepdbpajiamblfp
       description: ''
   - term: DNSLog
     links:
     - title: dnslog.cn
-      logo: https://api.iowen.cn/favicon/dnslog.cn.png
+      logo: https://toolb.cn/favicon/dnslog.cn.png
       url: http://dnslog.cn/
       description: ''
     - title: dnslog.org
-      logo: https://api.iowen.cn/favicon/dnslog.org.png
+      logo: https://toolb.cn/favicon/dnslog.org.png
       url: https://dnslog.org/
       description: ''
     - title: dig.pm
-      logo: https://api.iowen.cn/favicon/dig.pm.png
+      logo: https://toolb.cn/favicon/dig.pm.png
       url: https://dig.pm/
       description: ''
     - title: eyes.sh
-      logo: https://api.iowen.cn/favicon/eyes.sh.png
+      logo: https://toolb.cn/favicon/eyes.sh.png
       url: http://eyes.sh/login
       description: ''
     - title: dnslog.pw
-      logo: https://api.iowen.cn/favicon/dnslog.pw.png
+      logo: https://toolb.cn/favicon/dnslog.pw.png
       url: http://dnslog.pw/login
       description: ''
     - title: Hyuga
-      logo: https://api.iowen.cn/favicon/dnslog.ink.png
+      logo: https://toolb.cn/favicon/dnslog.ink.png
       url: http://dnslog.ink/
       description: ''
     - title: CEYE
-      logo: https://api.iowen.cn/favicon/ceye.io.png
+      logo: https://toolb.cn/favicon/ceye.io.png
       url: http://ceye.io/
       description: ''
     - title: Interactsh | Web Client
-      logo: https://api.iowen.cn/favicon/app.interactsh.com.png
+      logo: https://toolb.cn/favicon/app.interactsh.com.png
       url: https://app.interactsh.com/#/
       description: ''
     - title: Dashboard - requestrepo.com
-      logo: https://api.iowen.cn/favicon/requestrepo.com.png
+      logo: https://toolb.cn/favicon/requestrepo.com.png
       url: https://requestrepo.com/
       description: ''
   - term: 安全工具
     links:
     - title: 潮影在线免杀平台
-      logo: https://api.iowen.cn/favicon/bypass.tidesec.com.png
+      logo: https://toolb.cn/favicon/bypass.tidesec.com.png
       url: http://bypass.tidesec.com/
       description: ''
     - title: XSSEE 3.0 Beta
-      logo: https://api.iowen.cn/favicon/evilcos.me.png
+      logo: https://toolb.cn/favicon/evilcos.me.png
       url: https://evilcos.me/lab/xssee/
       description: ''
     - title: XSS'OR
-      logo: https://api.iowen.cn/favicon/xssor.io.png
+      logo: https://toolb.cn/favicon/xssor.io.png
       url: http://xssor.io/
       description: ''
     - title: XSS平台
-      logo: https://api.iowen.cn/favicon/xss.sb.png
+      logo: https://toolb.cn/favicon/xss.sb.png
       url: https://xss.sb/login/
       description: ''
     - title: 长亭百川云平台
-      logo: https://api.iowen.cn/favicon/rivers.chaitin.cn.png
+      logo: https://toolb.cn/favicon/rivers.chaitin.cn.png
       url: https://rivers.chaitin.cn/
       description: ''
     - title: 在线 EXIF GPS 隐写术
-      logo: https://api.iowen.cn/favicon/lucasn-dev.github.io.png
+      logo: https://toolb.cn/favicon/lucasn-dev.github.io.png
       url: https://lucasn-dev.github.io/EXIF-GPS-Steganography/
       description: ''
     - title: MetaDefender Cloud | Advanced threat prevention and detection
-      logo: https://api.iowen.cn/favicon/metadefender.opswat.com.png
+      logo: https://toolb.cn/favicon/metadefender.opswat.com.png
       url: https://metadefender.opswat.com/
       description: ''
     - title: 💀 Sploitus | Exploit & Hacktool Search Engine
-      logo: https://api.iowen.cn/favicon/sploitus.com.png
+      logo: https://toolb.cn/favicon/sploitus.com.png
       url: https://sploitus.com/
       description: ''
     - title: Projectdiscovery.io | Chaos
-      logo: https://api.iowen.cn/favicon/chaos.projectdiscovery.io.png
+      logo: https://toolb.cn/favicon/chaos.projectdiscovery.io.png
       url: https://chaos.projectdiscovery.io/#/
       description: ''
     - title: REG007
-      logo: https://api.iowen.cn/favicon/www.reg007.com.png
+      logo: https://toolb.cn/favicon/www.reg007.com.png
       url: https://www.reg007.com/
       description: ''
     - title: CTF在线工具
-      logo: https://api.iowen.cn/favicon/www.hiencode.com.png
+      logo: https://toolb.cn/favicon/www.hiencode.com.png
       url: http://www.hiencode.com/?ref=www.hackjie.com
       description: ''
     - title: JSON Web Tokens
-      logo: https://api.iowen.cn/favicon/jwt.io.png
+      logo: https://toolb.cn/favicon/jwt.io.png
       url: https://jwt.io/
       description: ''
     - title: Swagger Editor
-      logo: https://api.iowen.cn/favicon/editor.swagger.io.png
+      logo: https://toolb.cn/favicon/editor.swagger.io.png
       url: https://editor.swagger.io/
       description: ''
   - term: 提权辅助
     links:
     - title: 反弹shell
-      logo: https://api.iowen.cn/favicon/forum.ywhack.com.png
+      logo: https://toolb.cn/favicon/forum.ywhack.com.png
       url: https://forum.ywhack.com/shell.php
       description: ''
     - title: Reverse Shell Generator
-      logo: https://api.iowen.cn/favicon/www.revshells.com.png
+      logo: https://toolb.cn/favicon/www.revshells.com.png
       url: https://www.revshells.com/
       description: ''
     - title: Reverse shell cheatsheet
-      logo: https://api.iowen.cn/favicon/www.shentoushi.top.png
+      logo: https://toolb.cn/favicon/www.shentoushi.top.png
       url: https://www.shentoushi.top/tools/misc/reverse_shell.php
       description: ''
     - title: 杀软在线识别-渊龙Sec安全团队
@@ -1646,38 +1646,38 @@
   icon: fas fa-book-open
   links:
   - title: PeiQi文库
-    logo: https://api.iowen.cn/favicon/peiqi.wgpsec.org.png
+    logo: https://toolb.cn/favicon/peiqi.wgpsec.org.png
     url: https://peiqi.wgpsec.org/
     description: ''
   - title: 白阁文库
-    logo: https://api.iowen.cn/favicon/wiki.bylibrary.cn.png
+    logo: https://toolb.cn/favicon/wiki.bylibrary.cn.png
     url: https://wiki.bylibrary.cn/
     description: ''
   - title: 狼组安全团队公开知识库
-    logo: https://api.iowen.cn/favicon/wiki.wgpsec.org.png
+    logo: https://toolb.cn/favicon/wiki.wgpsec.org.png
     url: https://wiki.wgpsec.org/knowledge/
     description: ''
   - title: wy876漏洞文库
-    logo: https://api.iowen.cn/favicon/wiki.wy876.cn.png
+    logo: https://toolb.cn/favicon/wiki.wy876.cn.png
     url: https://wiki.wy876.cn/#/
     description: ''
 - taxonomy: 测试靶场
   icon: fa fa-flag
   links:
   - title: Acunetix
-    logo: https://api.iowen.cn/favicon/testphp.vulnweb.com.png
+    logo: https://toolb.cn/favicon/testphp.vulnweb.com.png
     url: http://testphp.vulnweb.com/search.php
     description: ''
   - title: BUUCTF在线评测
-    logo: https://api.iowen.cn/favicon/buuoj.cn.png
+    logo: https://toolb.cn/favicon/buuoj.cn.png
     url: https://buuoj.cn/
     description: ''
   - title: Bugku CTF
-    logo: https://api.iowen.cn/favicon/ctf.bugku.com.png
+    logo: https://toolb.cn/favicon/ctf.bugku.com.png
     url: https://ctf.bugku.com/
     description: ''
   - title: CTFHub
-    logo: https://api.iowen.cn/favicon/www.ctfhub.com.png
+    logo: https://toolb.cn/favicon/www.ctfhub.com.png
     url: https://www.ctfhub.com/#/user/login
     description: ''
   - title: WgpSec CTF
@@ -1689,27 +1689,27 @@
     url: https://ctftime.org/
     description: '国际CTF平台'
   - title: vulfocus
-    logo: https://api.iowen.cn/favicon/vulfocus.cn.png
+    logo: https://toolb.cn/favicon/vulfocus.cn.png
     url: https://vulfocus.cn/#/login?redirect=%2Fnotices%2Fall
     description: ''
   - title: Vulhub - Docker-Compose file for vulnerability environment
-    logo: https://api.iowen.cn/favicon/vulhub.org.png
+    logo: https://toolb.cn/favicon/vulhub.org.png
     url: https://vulhub.org/
     description: ''
   - title: 'Hack The Box: Hacking Training For The Best | Individuals & Companies'
-    logo: https://api.iowen.cn/favicon/www.hackthebox.com.png
+    logo: https://toolb.cn/favicon/www.hackthebox.com.png
     url: https://www.hackthebox.com/
     description: ''
   - title: XSS挑战
-    logo: https://api.iowen.cn/favicon/xssaq.com.png
+    logo: https://toolb.cn/favicon/xssaq.com.png
     url: https://xssaq.com/yx/
     description: ''
   - title: XSS平台-仅用于xss安全测试专用
-    logo: https://api.iowen.cn/favicon/xssaq.com.png
+    logo: https://toolb.cn/favicon/xssaq.com.png
     url: https://xssaq.com/login/
     description: ''
   - title: 封神台
-    logo: https://api.iowen.cn/favicon/hack.zkaq.cn.png
+    logo: https://toolb.cn/favicon/hack.zkaq.cn.png
     url: https://hack.zkaq.cn/
     description: ''
 - taxonomy: 在线工具
@@ -1718,157 +1718,157 @@
   - term: IP地址查询
     links:
     - title: iP地址查询 - ip138
-      logo: https://api.iowen.cn/favicon/www.ip138.com.png
+      logo: https://toolb.cn/favicon/www.ip138.com.png
       url: https://www.ip138.com/
       description: ''
     - title: 淘宝IP地址库
-      logo: https://api.iowen.cn/favicon/ip.taobao.com.png
+      logo: https://toolb.cn/favicon/ip.taobao.com.png
       url: https://ip.taobao.com/ipSearch
       description: ''
     - title: IP地址查询
-      logo: https://api.iowen.cn/favicon/tool.lu.png
+      logo: https://toolb.cn/favicon/tool.lu.png
       url: https://tool.lu/ip/
       description: ''
     - title: IP地址查询
-      logo: https://api.iowen.cn/favicon/www.qqzeng.com.png
+      logo: https://toolb.cn/favicon/www.qqzeng.com.png
       url: https://www.qqzeng.com/ip/
       description: ''
     - title: 警戒区
-      logo: https://api.iowen.cn/favicon/jingjiequ.com.png
+      logo: https://toolb.cn/favicon/jingjiequ.com.png
       url: https://jingjiequ.com/tools/ip
       description: ''
     - title: 埃文IP
-      logo: https://api.iowen.cn/favicon/www.ipuu.net.png
+      logo: https://toolb.cn/favicon/www.ipuu.net.png
       url: https://www.ipuu.net/Home
       description: ''
     - title: 纯真IP
-      logo: https://api.iowen.cn/favicon/www.cz88.net.png
+      logo: https://toolb.cn/favicon/www.cz88.net.png
       url: https://www.cz88.net/iplab
       description: ''
     - title: IP地址查询
-      logo: https://api.iowen.cn/favicon/www.sojson.com.png
+      logo: https://toolb.cn/favicon/www.sojson.com.png
       url: https://www.sojson.com/ip/
       description: ''
     - title: Whois - 中国互联网络信息中心
-      logo: https://api.iowen.cn/favicon/ipwhois.cnnic.cn.png
+      logo: https://toolb.cn/favicon/ipwhois.cnnic.cn.png
       url: https://ipwhois.cnnic.cn/index.jsp
       description: ''
   - term: 文本处理
     links:
     - title: CURL命令转代码 - 在线工具
-      logo: https://api.iowen.cn/favicon/tools.fun.png
+      logo: https://toolb.cn/favicon/tools.fun.png
       url: https://tools.fun/curl.html
       description: ''
     - title: JSON / YAML 转换工具 - 在线工具
-      logo: https://api.iowen.cn/favicon/tools.fun.png
+      logo: https://toolb.cn/favicon/tools.fun.png
       url: https://tools.fun/json2yaml.html
       description: ''
     - title: hex16进制字符串转换（在线）
-      logo: https://api.iowen.cn/favicon/tool.hiofd.com.png
+      logo: https://toolb.cn/favicon/tool.hiofd.com.png
       url: https://tool.hiofd.com/hex-convert-string-online/
       description: ''
     - title: hex16进制字符串转换（在线）
-      logo: https://api.iowen.cn/favicon/www.toolscat.com.png
+      logo: https://toolb.cn/favicon/www.toolscat.com.png
       url: https://www.toolscat.com/decode/hex
       description: ''
     - title: Hex转Base64
-      logo: https://api.iowen.cn/favicon/www.jpwz.vip.png
+      logo: https://toolb.cn/favicon/www.jpwz.vip.png
       url: https://www.jpwz.vip/tool/hextobase64.html
       description: ''
     - title: 字符计数器
-      logo: https://api.iowen.cn/favicon/charactercalculator.com.png
+      logo: https://toolb.cn/favicon/charactercalculator.com.png
       url: https://charactercalculator.com/zh-cn/
       description: ''
   - term: 正则测试
     links:
     - title: RegExr
-      logo: https://api.iowen.cn/favicon/regexr.com.png
+      logo: https://toolb.cn/favicon/regexr.com.png
       url: https://regexr.com/
       description: ''
     - title: RegExr中文
-      logo: https://api.iowen.cn/favicon/regexr-cn.com.png
+      logo: https://toolb.cn/favicon/regexr-cn.com.png
       url: https://regexr-cn.com/
       description: 'RegExr中文翻译版'
     - title: regex101
-      logo: https://api.iowen.cn/favicon/regex101.com.png
+      logo: https://toolb.cn/favicon/regex101.com.png
       url: https://regex101.com/
       description: ''
 - taxonomy: 临时
   icon: fas fa-shield-alt fa-lg icon-fw icon-lg mr-2
   links:
   - title: JS格式化
-    logo: https://api.iowen.cn/favicon/beautifier.io.png
+    logo: https://toolb.cn/favicon/beautifier.io.png
     url: https://beautifier.io/
     description: ''
   - title: 代码在线运行
-    logo: https://api.iowen.cn/favicon/tool.lu.png
+    logo: https://toolb.cn/favicon/tool.lu.png
     url: https://tool.lu/coderunner/
     description: ''
   - title: 在线加密/解密
-    logo: https://api.iowen.cn/favicon/www.sojson.com.png
+    logo: https://toolb.cn/favicon/www.sojson.com.png
     url: https://www.sojson.com/encrypt.html
     description: ''
   - title: Hash 类型识别
-    logo: https://api.iowen.cn/favicon/w-e-b.site.png
+    logo: https://toolb.cn/favicon/w-e-b.site.png
     url: https://w-e-b.site/?act=hashtag
     description: ''
   - title: Bug Bounty Helper
-    logo: https://api.iowen.cn/favicon/dorks.faisalahmed.me.png
+    logo: https://toolb.cn/favicon/dorks.faisalahmed.me.png
     url: https://dorks.faisalahmed.me/
     description: ''
   - title: 旁站查询
-    logo: https://api.iowen.cn/favicon/chapangzhan.com.png
+    logo: https://toolb.cn/favicon/chapangzhan.com.png
     url: https://chapangzhan.com/
     description: ''
   - title: JWT Token在线解析解码 - ToolTT在线工具箱
-    logo: https://api.iowen.cn/favicon/tooltt.com.png
+    logo: https://toolb.cn/favicon/tooltt.com.png
     url: https://tooltt.com/jwt-decode/
     description: ''
   - title: Unicode Encode JSP
-    logo: https://api.iowen.cn/favicon/www.shentoushi.top.png
+    logo: https://toolb.cn/favicon/www.shentoushi.top.png
     url: https://www.shentoushi.top/unicode-jsp.html
     description: ''
   - title: 在线域名批量反查IP工具 - UU在线工具
-    logo: https://api.iowen.cn/favicon/uutool.cn.png
+    logo: https://toolb.cn/favicon/uutool.cn.png
     url: https://uutool.cn/domain-ip/
     description: ''
   - title: LeakIX
-    logo: https://api.iowen.cn/favicon/leakix.net.png
+    logo: https://toolb.cn/favicon/leakix.net.png
     url: https://leakix.net/
     description: ''
   - title: ASCII Generator
-    logo: https://api.iowen.cn/favicon/www.network-science.de.png
+    logo: https://toolb.cn/favicon/www.network-science.de.png
     url: http://www.network-science.de/ascii/
     description: ''
   - title: Spring Boot banner在线生成
-    logo: https://api.iowen.cn/favicon/www.bootschool.net.png
+    logo: https://toolb.cn/favicon/www.bootschool.net.png
     url: https://www.bootschool.net/ascii
     description: ''
   - title: Overview - Nuclei Documentation
-    logo: https://api.iowen.cn/favicon/docs.nuclei.sh.png
+    logo: https://toolb.cn/favicon/docs.nuclei.sh.png
     url: https://docs.nuclei.sh/getting-started/overview
     description: ''
   - title: 在线ping - itdog
-    logo: https://api.iowen.cn/favicon/www.itdog.cn.png
+    logo: https://toolb.cn/favicon/www.itdog.cn.png
     url: https://www.itdog.cn/ping/
     description: ''
   - title: 百川在线工具箱
-    logo: https://api.iowen.cn/favicon/rivers.chaitin.cn.png
+    logo: https://toolb.cn/favicon/rivers.chaitin.cn.png
     url: https://rivers.chaitin.cn/tools/
     description: ''
   - title: Cross-Site Scripting (XSS) Cheat Sheet
-    logo: https://api.iowen.cn/favicon/portswigger.net.png
+    logo: https://toolb.cn/favicon/portswigger.net.png
     url: https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
     description: ''
   - title: The BBC Africa Eye /Forensics Dashboard - start.me
-    logo: https://api.iowen.cn/favicon/start.me.png
+    logo: https://toolb.cn/favicon/start.me.png
     url: https://start.me/p/m6OJgv/the-bbc-africa-eye-forensics-dashboard
     description: ''
   - title: Internet Archive | 互联网档案馆
-    logo: https://api.iowen.cn/favicon/archive.org.png
+    logo: https://toolb.cn/favicon/archive.org.png
     url: https://archive.org/
     description: ''
   - title: BugBountyHunting.com - A community-curated Resource for Bug Bounty Hunting
-    logo: https://api.iowen.cn/favicon/www.bugbountyhunting.com.png
+    logo: https://toolb.cn/favicon/www.bugbountyhunting.com.png
     url: https://www.bugbountyhunting.com/
     description: ''
