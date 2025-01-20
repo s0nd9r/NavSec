@@ -2,82 +2,82 @@
   icon: fas fa-warehouse fa-lg fa-lg icon-fw icon-lg mr-2
   links:
   - title: FreeBuf
-    logo: https://toolb.cn/favicon/www.freebuf.com.png
+    logo: https://api.akams.cn/favicon/www.freebuf.com
     url: https://www.freebuf.com/
     description: ''
   - title: 安全脉搏
-    logo: https://toolb.cn/favicon/www.secpulse.com.png
+    logo: https://api.akams.cn/favicon/www.secpulse.com
     url: https://www.secpulse.com/
     description: ''
   - title: 安全客
-    logo: https://toolb.cn/favicon/www.anquanke.com.png
+    logo: https://api.akams.cn/favicon/www.anquanke.com
     url: https://www.anquanke.com/
     description: ''
   - title: 安全牛
-    logo: https://toolb.cn/favicon/www.aqniu.com.png
+    logo: https://api.akams.cn/favicon/www.aqniu.com
     url: https://www.aqniu.com/
     description: ''
   - title: 嘶吼
-    logo: https://toolb.cn/favicon/www.4hou.com.png
+    logo: https://api.akams.cn/favicon/www.4hou.com
     url: https://www.4hou.com/
     description: ''
   - title: 看雪
-    logo: https://toolb.cn/favicon/www.kanxue.com.png
+    logo: https://api.akams.cn/favicon/www.kanxue.com
     url: https://www.kanxue.com/
     description: ''
   - title: SecWiki
-    logo: https://toolb.cn/favicon/www.sec-wiki.com.png
+    logo: https://api.akams.cn/favicon/www.sec-wiki.com
     url: https://www.sec-wiki.com/
     description: ''
 - taxonomy: 社区论坛
   icon: fas fa-comments fa-lg fa-lg icon-fw icon-lg mr-2
   links:
   - title: T00ls
-    logo: https://toolb.cn/favicon/www.t00ls.com.png
+    logo: https://api.akams.cn/favicon/www.t00ls.com
     url: https://www.t00ls.com/
     description: ''
   - title: 先知社区
-    logo: https://toolb.cn/favicon/xz.aliyun.com.png
+    logo: https://api.akams.cn/favicon/xz.aliyun.com
     url: https://xz.aliyun.com/
     description: ''
   - title: 奇安信攻防社区
-    logo: https://toolb.cn/favicon/forum.butian.net.png
+    logo: https://api.akams.cn/favicon/forum.butian.net
     url: https://forum.butian.net/
     description: ''
   - title: 火线 Zone
-    logo: https://toolb.cn/favicon/zone.huoxian.cn.png
+    logo: https://api.akams.cn/favicon/zone.huoxian.cn
     url: https://zone.huoxian.cn/
     description: ''
   - title: 跳跳糖
-    logo: https://toolb.cn/favicon/tttang.com.png
+    logo: https://api.akams.cn/favicon/tttang.com
     url: https://tttang.com/
     description: ''
   - title: 棱角社区
-    logo: https://toolb.cn/favicon/forum.ywhack.com.png
+    logo: https://api.akams.cn/favicon/forum.ywhack.com
     url: https://forum.ywhack.com/
     description: ''
   - title: SecQuan
-    logo: https://toolb.cn/favicon/secquan.org.png
+    logo: https://api.akams.cn/favicon/secquan.org
     url: https://secquan.org/
     description: ''
   - title: i春秋论坛
-    logo: https://toolb.cn/favicon/bbs.ichunqiu.com.png
+    logo: https://api.akams.cn/favicon/bbs.ichunqiu.com
     url: https://bbs.ichunqiu.com/portal.php
     description: ''
   - title: 看雪
-    logo: https://toolb.cn/favicon/bbs.kanxue.com.png
+    logo: https://api.akams.cn/favicon/bbs.kanxue.com
     url: https://bbs.kanxue.com/
     description: ''
   - title: 安全文摘
-    logo: https://toolb.cn/favicon/govuln.com.png
+    logo: https://api.akams.cn/favicon/govuln.com
     url: https://govuln.com/news/
     description: ''
   - title: SecIN信息安全技术社区
-    logo: https://toolb.cn/favicon/www.sec-in.com.png
+    logo: https://api.akams.cn/favicon/www.sec-in.com
     url: https://www.sec-in.com/
     description: ''
   - title: IOTsec-Zone物联网安全社区
-    logo: https://toolb.cn/favicon/www.iotsec-zone.com.png
+    logo: https://api.akams.cn/favicon/www.iotsec-zone.com
     url: https://www.iotsec-zone.com/
     description: ''
 - taxonomy: 漏洞情报
@@ -86,204 +86,204 @@
   - term: 国内漏洞情报
     links:
     - title: CNVD
-      logo: https://toolb.cn/favicon/www.cnvd.org.cn.png
+      logo: https://api.akams.cn/favicon/www.cnvd.org.cn
       url: https://www.cnvd.org.cn/webinfo/list?type=14
       description: ''
     - title: CNNVD
-      logo: https://toolb.cn/favicon/www.cnnvd.org.cn.png
+      logo: https://api.akams.cn/favicon/www.cnnvd.org.cn
       url: https://www.cnnvd.org.cn/home/loophole
       description: ''
     - title: CICSVD
-      logo: https://toolb.cn/favicon/www.cics-vd.org.cn.png
+      logo: https://api.akams.cn/favicon/www.cics-vd.org.cn
       url: https://www.cics-vd.org.cn/home/homePage
       description: ''
     - title: HKCERT
-      logo: https://toolb.cn/favicon/www.hkcert.org.png
+      logo: https://api.akams.cn/favicon/www.hkcert.org
       url: https://www.hkcert.org/security-bulletin
       description: ''
     - title: 绿盟科技
-      logo: https://toolb.cn/favicon/www.nsfocus.net.png
+      logo: https://api.akams.cn/favicon/www.nsfocus.net
       url: http://www.nsfocus.net/index.php?act=sec_bug
       description: ''
     - title: 奇安信
-      logo: https://toolb.cn/favicon/nox.qianxin.com.png
+      logo: https://api.akams.cn/favicon/nox.qianxin.com
       url: https://nox.qianxin.com/RealTime
       description: ''
     - title: 启明星辰
-      logo: https://toolb.cn/favicon/www.venustech.com.cn.png
+      logo: https://api.akams.cn/favicon/www.venustech.com.cn
       url: https://www.venustech.com.cn/new_type/aqtg/
       description: ''
     - title: 知道创宇
-      logo: https://toolb.cn/favicon/www.seebug.org.png
+      logo: https://api.akams.cn/favicon/www.seebug.org
       url: https://www.seebug.org/
       description: ''
     - title: 阿里云漏洞库
-      logo: https://toolb.cn/favicon/avd.aliyun.com.png
+      logo: https://api.akams.cn/favicon/avd.aliyun.com
       url: https://avd.aliyun.com/
       description: ''
     - title: 360CERT
-      logo: https://toolb.cn/favicon/cert.360.cn.png
+      logo: https://api.akams.cn/favicon/cert.360.cn
       url: https://cert.360.cn/warning
       description: ''
     - title: 斗象漏洞情报中心
-      logo: https://toolb.cn/favicon/vip.riskivy.com.png
+      logo: https://api.akams.cn/favicon/vip.riskivy.com
       url: https://vip.riskivy.com/
       description: ''
     - title: 长亭漏洞库
-      logo: https://toolb.cn/favicon/stack.chaitin.com.png
+      logo: https://api.akams.cn/favicon/stack.chaitin.com
       url: https://stack.chaitin.com/vuldb/index
       description: ''
     - title: 墨菲漏洞库
-      logo: https://toolb.cn/favicon/www.oscs1024.com.png
+      logo: https://api.akams.cn/favicon/www.oscs1024.com
       url: https://www.oscs1024.com/hl
       description: ''
     - title: 数字观星漏洞库
-      logo: https://toolb.cn/favicon/poc.shuziguanxing.com.png
+      logo: https://api.akams.cn/favicon/poc.shuziguanxing.com
       url: https://poc.shuziguanxing.com/#/issueList
       description: ''
     - title: 网安漏洞库
-      logo: https://toolb.cn/favicon/vul.wangan.com.png
+      logo: https://api.akams.cn/favicon/vul.wangan.com
       url: https://vul.wangan.com/
       description: ''
     - title: DayDayPoc
-      logo: https://toolb.cn/favicon/www.ddpoc.com.png
+      logo: https://api.akams.cn/favicon/www.ddpoc.com
       url: https://www.ddpoc.com/
       description: ''
     - title: 绿盟 M-SEC 漏洞社区
-      logo: https://toolb.cn/favicon/msec.nsfocus.com.png
+      logo: https://api.akams.cn/favicon/msec.nsfocus.com
       url: https://msec.nsfocus.com/
       description: ''
   - term: 国外漏洞情报
     links:
     - title: NVD
-      logo: https://toolb.cn/favicon/nvd.nist.gov.png
+      logo: https://api.akams.cn/favicon/nvd.nist.gov
       url: https://nvd.nist.gov/vuln/search
       description: ''
     - title: CVEs | Tenable®
-      logo: https://toolb.cn/favicon/www.tenable.com.png
+      logo: https://api.akams.cn/favicon/www.tenable.com
       url: https://www.tenable.com/cve/updated
       description: ''
     - title: Vulnerabilities - Acunetix
-      logo: https://toolb.cn/favicon/www.acunetix.com.png
+      logo: https://api.akams.cn/favicon/www.acunetix.com
       url: https://www.acunetix.com/vulnerabilities/web/
       description: ''
     - title: Aqua Security
-      logo: https://toolb.cn/favicon/avd.aquasec.com.png
+      logo: https://api.akams.cn/favicon/avd.aquasec.com
       url: https://avd.aquasec.com/
       description: ''
     - title: Vulners
-      logo: https://toolb.cn/favicon/vulners.com.png
+      logo: https://api.akams.cn/favicon/vulners.com
       url: https://vulners.com/
       description: ''
     - title: CVEdetails
-      logo: https://toolb.cn/favicon/www.cvedetails.com.png
+      logo: https://api.akams.cn/favicon/www.cvedetails.com
       url: https://www.cvedetails.com/
       description: ''
     - title: CVE.report
-      logo: https://toolb.cn/favicon/cve.report.png
+      logo: https://api.akams.cn/favicon/cve.report
       url: https://cve.report/
       description: ''
     - title: OpenCVE
-      logo: https://toolb.cn/favicon/www.opencve.io.png
+      logo: https://api.akams.cn/favicon/www.opencve.io
       url: https://www.opencve.io/cve
       description: ''
     - title: Security Database
-      logo: https://toolb.cn/favicon/www.security-database.com.png
+      logo: https://api.akams.cn/favicon/www.security-database.com
       url: https://www.security-database.com/view-all.php?date=All&sev=All&type=cve
       description: ''
     - title: Exploit Database
-      logo: https://toolb.cn/favicon/www.exploit-db.com.png
+      logo: https://api.akams.cn/favicon/www.exploit-db.com
       url: https://www.exploit-db.com/
       description: ''
     - title: Microsoft 漏洞库
-      logo: https://toolb.cn/favicon/msrc.microsoft.com.png
+      logo: https://api.akams.cn/favicon/msrc.microsoft.com
       url: https://msrc.microsoft.com/update-guide/vulnerability
       description: ''
 - taxonomy: 威胁情报
   icon: fas fa-theater-masks fa-lg fa-lg icon-fw icon-lg mr-2
   links:
   - title: 微步X情报社区
-    logo: https://toolb.cn/favicon/x.threatbook.com.png
+    logo: https://api.akams.cn/favicon/x.threatbook.com
     url: https://x.threatbook.com/
     description: ''
   - title: 奇安信威胁情报中心
-    logo: https://toolb.cn/favicon/ti.qianxin.com.png
+    logo: https://api.akams.cn/favicon/ti.qianxin.com
     url: https://ti.qianxin.com/
     description: ''
   - title: 360安全大脑
-    logo: https://toolb.cn/favicon/ti.360.cn.png
+    logo: https://api.akams.cn/favicon/ti.360.cn
     url: https://ti.360.cn/#/homepage
     description: ''
   - title: 绿盟威胁情报中心
-    logo: https://toolb.cn/favicon/ti.nsfocus.com.png
+    logo: https://api.akams.cn/favicon/ti.nsfocus.com
     url: https://ti.nsfocus.com/
     description: ''
   - title: 深信服威胁情报中心
-    logo: https://toolb.cn/favicon/ti.sangfor.com.cn.png
+    logo: https://api.akams.cn/favicon/ti.sangfor.com.cn
     url: https://ti.sangfor.com.cn/analysis-platform
     description: ''
   - title: 安恒微信情报中心
-    logo: https://toolb.cn/favicon/ti.dbappsecurity.com.cn.png
+    logo: https://api.akams.cn/favicon/ti.dbappsecurity.com.cn
     url: https://ti.dbappsecurity.com.cn/
     description: ''
   - title: 启明星辰威胁情报中心
-    logo: https://toolb.cn/favicon/www.venuseye.com.cn.png
+    logo: https://api.akams.cn/favicon/www.venuseye.com.cn
     url: https://www.venuseye.com.cn/
     description: ''
   - title: 安天威胁情报中心
-    logo: https://toolb.cn/favicon/www.antiycloud.com.png
+    logo: https://api.akams.cn/favicon/www.antiycloud.com
     url: https://www.antiycloud.com/#/antiy/index
     description: ''
   - title: 金山毒霸威胁情报
-    logo: https://toolb.cn/favicon/ti.duba.net.png
+    logo: https://api.akams.cn/favicon/ti.duba.net
     url: https://ti.duba.net/
     description: ''
   - title: 华为安全中心平台
-    logo: https://toolb.cn/favicon/isecurity.huawei.com.png
+    logo: https://api.akams.cn/favicon/isecurity.huawei.com
     url: https://isecurity.huawei.com/sec/web/intelligencePortal.do
     description: ''
   - title: 漏洞盒子情报星球
-    logo: https://toolb.cn/favicon/planet.vulbox.com.png
+    logo: https://api.akams.cn/favicon/planet.vulbox.com
     url: https://planet.vulbox.com/
     description: ''
   - title: 山石云瞻威胁情报中心
-    logo: https://toolb.cn/favicon/ti.hillstonenet.com.cn.png
+    logo: https://api.akams.cn/favicon/ti.hillstonenet.com.cn
     url: https://ti.hillstonenet.com.cn/main
     description: ''
   - title: 创宇安全智脑
-    logo: https://toolb.cn/favicon/gac.yunaq.com.png
+    logo: https://api.akams.cn/favicon/gac.yunaq.com
     url: https://gac.yunaq.com/login?next=%2F
     description: ''
   - title: ThreatMiner
-    logo: https://toolb.cn/favicon/www.threatminer.org.png
+    logo: https://api.akams.cn/favicon/www.threatminer.org
     url: https://www.threatminer.org/
     description: ''
   - title: IBM X-Force
-    logo: https://toolb.cn/favicon/exchange.xforce.ibmcloud.com.png
+    logo: https://api.akams.cn/favicon/exchange.xforce.ibmcloud.com
     url: https://exchange.xforce.ibmcloud.com/
     description: ''
   - title: SANS
-    logo: https://toolb.cn/favicon/isc.sans.edu.png
+    logo: https://api.akams.cn/favicon/isc.sans.edu
     url: https://isc.sans.edu/
     description: ''
   - title: CNTD网络安全威胁情报共享平台
-    logo: https://toolb.cn/favicon/www.cntd.org.cn.png
+    logo: https://api.akams.cn/favicon/www.cntd.org.cn
     url: http://www.cntd.org.cn/
     description: ''
   - title: 天际友盟威胁情报中心-RedQueen
-    logo: https://toolb.cn/favicon/redqueen.tj-un.com.png
+    logo: https://api.akams.cn/favicon/redqueen.tj-un.com
     url: https://redqueen.tj-un.com/home/index
     description: ''
   - title: 瑞星威胁情报中心
-    logo: https://toolb.cn/favicon/ti.rising.com.cn.png
+    logo: https://api.akams.cn/favicon/ti.rising.com.cn
     url: https://ti.rising.com.cn/home
     description: ''
   - title: 腾讯安全威胁情报中心
-    logo: https://toolb.cn/favicon/tix.qq.com.png
+    logo: https://api.akams.cn/favicon/tix.qq.com
     url: https://tix.qq.com/
     description: ''
   - title: 华为安全威胁情报
-    logo: https://toolb.cn/favicon/isecurity.huawei.com.png
+    logo: https://api.akams.cn/favicon/isecurity.huawei.com
     url: https://isecurity.huawei.com/security/service/intelligence
     description: ''
 - taxonomy: 漏洞平台
@@ -292,27 +292,27 @@
   - term: 国内漏洞平台
     links:
     - title: 补天
-      logo: https://toolb.cn/favicon/www.butian.net.png
+      logo: https://api.akams.cn/favicon/www.butian.net
       url: https://www.butian.net/
       description: ''
     - title: 火线
-      logo: https://toolb.cn/favicon/www.huoxian.cn.png
+      logo: https://api.akams.cn/favicon/www.huoxian.cn
       url: https://www.huoxian.cn/
       description: ''
     - title: 漏洞盒子
-      logo: https://toolb.cn/favicon/www.vulbox.com.png
+      logo: https://api.akams.cn/favicon/www.vulbox.com
       url: https://www.vulbox.com/
       description: ''
     - title: 漏洞银行
-      logo: https://toolb.cn/favicon/www.bugbank.cn.png
+      logo: https://api.akams.cn/favicon/www.bugbank.cn
       url: https://www.bugbank.cn/
       description: ''
     - title: 360众测平台
-      logo: https://toolb.cn/favicon/zhongce.360.net.png
+      logo: https://api.akams.cn/favicon/zhongce.360.net
       url: https://zhongce.360.net/
       description: ''
     - title: 雷神众测 - BountyTeam
-      logo: https://toolb.cn/favicon/www.bountyteam.com.png
+      logo: https://api.akams.cn/favicon/www.bountyteam.com
       url: https://www.bountyteam.com/
       description: ''
     - title: 教育漏洞报告平台
@@ -322,73 +322,73 @@
   - term: 国外漏洞平台
     links:
     - title: HackerOne
-      logo: https://toolb.cn/favicon/www.hackerone.com.png
+      logo: https://api.akams.cn/favicon/www.hackerone.com
       url: https://www.hackerone.com/
       description: ''
     - title: Bugcrowd
-      logo: https://toolb.cn/favicon/www.bugcrowd.com.png
+      logo: https://api.akams.cn/favicon/www.bugcrowd.com
       url: https://www.bugcrowd.com/bug-bounty-list/
       description: ''
     - title: Open Bug Bounty
-      logo: https://toolb.cn/favicon/www.openbugbounty.org.png
+      logo: https://api.akams.cn/favicon/www.openbugbounty.org
       url: https://www.openbugbounty.org/
       description: ''
     - title: Microsoft Security Response Center
-      logo: https://toolb.cn/favicon/www.microsoft.com.png
+      logo: https://api.akams.cn/favicon/www.microsoft.com
       url: https://www.microsoft.com/en-us/msrc?rtc=2
       description: ''
     - title: Google Bug Hunters
-      logo: https://toolb.cn/favicon/bughunters.google.com.png
+      logo: https://api.akams.cn/favicon/bughunters.google.com
       url: https://bughunters.google.com/
       description: ''
     - title: Apple Security Research
-      logo: https://toolb.cn/favicon/security.apple.com.png
+      logo: https://api.akams.cn/favicon/security.apple.com
       url: https://security.apple.com/
       description: ''
   - term: 国内SRC平台
     links:
     - title: 百度安全应急响应中心
-      logo: https://toolb.cn/favicon/bsrc.baidu.com.png
+      logo: https://api.akams.cn/favicon/bsrc.baidu.com
       url: https://bsrc.baidu.com/v2/#/home
       description: ''
     - title: 阿里安全响应中心
-      logo: https://toolb.cn/favicon/security.alibaba.com.png
+      logo: https://api.akams.cn/favicon/security.alibaba.com
       url: https://security.alibaba.com/
       description: ''
     - title: 腾讯安全应急响应中心
-      logo: https://toolb.cn/favicon/security.tencent.com.png
+      logo: https://api.akams.cn/favicon/security.tencent.com
       url: https://security.tencent.com/
       description: ''
     - title: 360安全应急响应中心
-      logo: https://toolb.cn/favicon/security.360.cn.png
+      logo: https://api.akams.cn/favicon/security.360.cn
       url: https://security.360.cn/
       description: ''
     - title: 58安全应急响应中心
-      logo: https://toolb.cn/favicon/security.58.com.png
+      logo: https://api.akams.cn/favicon/security.58.com
       url: https://security.58.com/
       description: ''
     - title: 爱奇艺安全应急响应中心
-      logo: https://toolb.cn/favicon/security.iqiyi.com.png
+      logo: https://api.akams.cn/favicon/security.iqiyi.com
       url: https://security.iqiyi.com/
       description: ''
     - title: 苏宁安全应急响应中心
-      logo: https://toolb.cn/favicon/security.suning.com.png
+      logo: https://api.akams.cn/favicon/security.suning.com
       url: https://security.suning.com/ssrc-web/index.jsp
       description: ''
     - title: 贝壳安全应急响应中心
-      logo: https://toolb.cn/favicon/security.ke.com.png
+      logo: https://api.akams.cn/favicon/security.ke.com
       url: https://security.ke.com/
       description: ''
     - title: 哔哩哔哩安全应急响应中心
-      logo: https://toolb.cn/favicon/security.bilibili.com.png
+      logo: https://api.akams.cn/favicon/security.bilibili.com
       url: https://security.bilibili.com/
       description: ''
     - title: 大疆安全应急响应中心
-      logo: https://toolb.cn/favicon/security.dji.com.png
+      logo: https://api.akams.cn/favicon/security.dji.com
       url: https://security.dji.com/
       description: ''
     - title: 东方财富安全应急响应中心
-      logo: https://toolb.cn/favicon/security.eastmoney.com.png
+      logo: https://api.akams.cn/favicon/security.eastmoney.com
       url: https://security.eastmoney.com/
       description: ''
     - title: 斗鱼安全应急响应中心
@@ -396,402 +396,402 @@
       url: https://security.douyu.com/#/welcome
       description: ''
     - title: 多点安全应急响应中心
-      logo: https://toolb.cn/favicon/src.dmall.com.png
+      logo: https://api.akams.cn/favicon/src.dmall.com
       url: https://src.dmall.com/
       description: ''
     - title: 富友安全应急响应中心
-      logo: https://toolb.cn/favicon/fsrc.fuiou.com.png
+      logo: https://api.akams.cn/favicon/fsrc.fuiou.com
       url: https://fsrc.fuiou.com/
       description: ''
     - title: 瓜子安全应急响应中心
-      logo: https://toolb.cn/favicon/security.guazi.com.png
+      logo: https://api.akams.cn/favicon/security.guazi.com
       url: https://security.guazi.com/home
       description: ''
     - title: 虎牙安全应急响应中心
-      logo: https://toolb.cn/favicon/security.huya.com.png
+      logo: https://api.akams.cn/favicon/security.huya.com
       url: https://security.huya.com/#/home
       description: ''
     - title: 华为安全奖励计划
-      logo: https://toolb.cn/favicon/bugbounty.huawei.com.png
+      logo: https://api.akams.cn/favicon/bugbounty.huawei.com
       url: https://bugbounty.huawei.com/hbp/#/home
       description: ''
     - title: 华住安全响应中心
-      logo: https://toolb.cn/favicon/sec.huazhu.com.png
+      logo: https://api.akams.cn/favicon/sec.huazhu.com
       url: https://sec.huazhu.com/index.php?m=&c=index&a=index
       description: ''
     - title: 货拉拉安全应急响应中心
-      logo: https://toolb.cn/favicon/llsrc.huolala.cn.png
+      logo: https://api.akams.cn/favicon/llsrc.huolala.cn
       url: https://llsrc.huolala.cn/#/home
       description: ''
     - title: 金山办公安全应急响应中心
-      logo: https://toolb.cn/favicon/security.wps.cn.png
+      logo: https://api.akams.cn/favicon/security.wps.cn
       url: https://security.wps.cn/
       description: ''
     - title: 京东安全应急响应中心
-      logo: https://toolb.cn/favicon/security.jd.com.png
+      logo: https://api.akams.cn/favicon/security.jd.com
       url: https://security.jd.com/#/
       description: ''
     - title: 快手安全应急响应中心
-      logo: https://toolb.cn/favicon/security.kuaishou.com.png
+      logo: https://api.akams.cn/favicon/security.kuaishou.com
       url: https://security.kuaishou.com/
       description: ''
     - title: 蚂蚁集团安全应急响应中心
-      logo: https://toolb.cn/favicon/security.alipay.com.png
+      logo: https://api.akams.cn/favicon/security.alipay.com
       url: https://security.alipay.com/
       description: ''
     - title: 美团安全应急响应中心
-      logo: https://toolb.cn/favicon/security.meituan.com.png
+      logo: https://api.akams.cn/favicon/security.meituan.com
       url: https://security.meituan.com/#/home
       description: ''
     - title: 陌陌安全应急响应中心
-      logo: https://toolb.cn/favicon/security.immomo.com.png
+      logo: https://api.akams.cn/favicon/security.immomo.com
       url: https://security.immomo.com/
       description: ''
     - title: 平安安全应急响应中心
-      logo: https://toolb.cn/favicon/security.pingan.com.png
+      logo: https://api.akams.cn/favicon/security.pingan.com
       url: https://security.pingan.com/homePage/index
       description: ''
     - title: 荣耀安全应急响应中心
-      logo: https://toolb.cn/favicon/security.hihonor.com.png
+      logo: https://api.akams.cn/favicon/security.hihonor.com
       url: https://security.hihonor.com/src/#/home
       description: ''
     - title: 深信服安全应急响应中心
-      logo: https://toolb.cn/favicon/security.sangfor.com.cn.png
+      logo: https://api.akams.cn/favicon/security.sangfor.com.cn
       url: https://security.sangfor.com.cn/
       description: ''
     - title: 天融信安全漏洞响应中心
-      logo: https://toolb.cn/favicon/src.topsec.com.cn.png
+      logo: https://api.akams.cn/favicon/src.topsec.com.cn
       url: https://src.topsec.com.cn/index.php?m=&c=index&a=index
       description: ''
     - title: 安恒安全响应中心
-      logo: https://toolb.cn/favicon/security.dbappsecurity.com.cn.png
+      logo: https://api.akams.cn/favicon/security.dbappsecurity.com.cn
       url: https://security.dbappsecurity.com.cn/index
       description: ''
     - title: 同程旅行安全应急响应中心
-      logo: https://toolb.cn/favicon/sec.ly.com.png
+      logo: https://api.akams.cn/favicon/sec.ly.com
       url: https://sec.ly.com/
       description: ''
     - title: 统信安全应急响应中心
-      logo: https://toolb.cn/favicon/src.uniontech.com.png
+      logo: https://api.akams.cn/favicon/src.uniontech.com
       url: https://src.uniontech.com/
       description: ''
     - title: 途牛安全应急响应中心
-      logo: https://toolb.cn/favicon/sec.tuniu.com.png
+      logo: https://api.akams.cn/favicon/sec.tuniu.com
       url: http://sec.tuniu.com/
       description: ''
     - title: 完美安全应急响应中心
-      logo: https://toolb.cn/favicon/security.wanmei.com.png
+      logo: https://api.akams.cn/favicon/security.wanmei.com
       url: http://security.wanmei.com/
       description: ''
     - title: 网易安全中心
-      logo: https://toolb.cn/favicon/aq.163.com.png
+      logo: https://api.akams.cn/favicon/aq.163.com
       url: https://aq.163.com/
       description: ''
     - title: 微博安全应急响应中心
-      logo: https://toolb.cn/favicon/wsrc.weibo.com.png
+      logo: https://api.akams.cn/favicon/wsrc.weibo.com
       url: https://wsrc.weibo.com/
       description: ''
     - title: 唯品会信息安全中心
-      logo: https://toolb.cn/favicon/sec.vip.com.png
+      logo: https://api.akams.cn/favicon/sec.vip.com
       url: https://sec.vip.com/
       description: ''
     - title: 喜马拉雅安全应急响应中心
-      logo: https://toolb.cn/favicon/security.ximalaya.com.png
+      logo: https://api.akams.cn/favicon/security.ximalaya.com
       url: https://security.ximalaya.com/
       description: ''
     - title: 小红书安全响应中心
-      logo: https://toolb.cn/favicon/security.xiaohongshu.com.png
+      logo: https://api.akams.cn/favicon/security.xiaohongshu.com
       url: https://security.xiaohongshu.com/
       description: ''
     - title: 小米安全中心
-      logo: https://toolb.cn/favicon/sec.xiaomi.com.png
+      logo: https://api.akams.cn/favicon/sec.xiaomi.com
       url: https://sec.xiaomi.com/#/
       description: ''
     - title: 小赢安全应急响应中心
-      logo: https://toolb.cn/favicon/security.xiaoying.com.png
+      logo: https://api.akams.cn/favicon/security.xiaoying.com
       url: https://security.xiaoying.com/
       description: ''
     - title: 携程安全应急响应中心
-      logo: https://toolb.cn/favicon/sec.ctrip.com.png
+      logo: https://api.akams.cn/favicon/sec.ctrip.com
       url: https://sec.ctrip.com/
       description: ''
     - title: 讯飞安全响应中心
-      logo: https://toolb.cn/favicon/security.iflytek.com.png
+      logo: https://api.akams.cn/favicon/security.iflytek.com
       url: https://security.iflytek.com/index.php
       description: ''
     - title: 迅雷安全应急响应中心
-      logo: https://toolb.cn/favicon/security.xunlei.com.png
+      logo: https://api.akams.cn/favicon/security.xunlei.com
       url: https://security.xunlei.com/
       description: ''
     - title: 银联安全应急响应中心
-      logo: https://toolb.cn/favicon/security.unionpay.com.png
+      logo: https://api.akams.cn/favicon/security.unionpay.com
       url: https://security.unionpay.com/
       description: ''
     - title: 萤石应急响应中心
-      logo: https://toolb.cn/favicon/ysrc.ys7.com.png
+      logo: https://api.akams.cn/favicon/ysrc.ys7.com
       url: https://ysrc.ys7.com/#/home
       description: ''
     - title: 有赞安全应急响应中心
-      logo: https://toolb.cn/favicon/src.youzan.com.png
+      logo: https://api.akams.cn/favicon/src.youzan.com
       url: https://src.youzan.com/
       description: ''
     - title: 知识星球安全应急响应中心
-      logo: https://toolb.cn/favicon/security.zsxq.com.png
+      logo: https://api.akams.cn/favicon/security.zsxq.com
       url: https://security.zsxq.com/
       description: ''
     - title: 智联招聘安全应急响应中心
-      logo: https://toolb.cn/favicon/src.zhaopin.com.png
+      logo: https://api.akams.cn/favicon/src.zhaopin.com
       url: https://src.zhaopin.com/
       description: ''
     - title: 顺丰安全应急响应中心
-      logo: https://toolb.cn/favicon/sfsrc.sf-express.com.png
+      logo: https://api.akams.cn/favicon/sfsrc.sf-express.com
       url: https://sfsrc.sf-express.com/home
       description: ''
     - title: 中通安全应急响应中心
-      logo: https://toolb.cn/favicon/sec.zto.com.png
+      logo: https://api.akams.cn/favicon/sec.zto.com
       url: https://sec.zto.com/home
       description: ''
     - title: 众安安全应急响应中心
-      logo: https://toolb.cn/favicon/security.zhongan.com.png
+      logo: https://api.akams.cn/favicon/security.zhongan.com
       url: https://security.zhongan.com/#/
       description: ''
     - title: 字节跳动安全响应中心
-      logo: https://toolb.cn/favicon/src.bytedance.com.png
+      logo: https://api.akams.cn/favicon/src.bytedance.com
       url: https://src.bytedance.com/home
       description: ''
     - title: 自如安全应急响应中心
-      logo: https://toolb.cn/favicon/zrsecurity.ziroom.com.png
+      logo: https://api.akams.cn/favicon/zrsecurity.ziroom.com
       url: https://zrsecurity.ziroom.com/
       description: ''
     - title: BIGO 安全响应中心
-      logo: https://toolb.cn/favicon/security.bigo.sg.png
+      logo: https://api.akams.cn/favicon/security.bigo.sg
       url: https://security.bigo.sg/#/
       description: ''
     - title: BOSS直聘安全应急响应中心
-      logo: https://toolb.cn/favicon/security.zhipin.com.png
+      logo: https://api.akams.cn/favicon/security.zhipin.com
       url: https://security.zhipin.com/
       description: ''
     - title: OPPO安全应急响应中心
-      logo: https://toolb.cn/favicon/security.oppo.com.png
+      logo: https://api.akams.cn/favicon/security.oppo.com
       url: https://security.oppo.com/cn/
       description: ''
     - title: vivo 安全应急响应平台
-      logo: https://toolb.cn/favicon/security.vivo.com.cn.png
+      logo: https://api.akams.cn/favicon/security.vivo.com.cn
       url: https://security.vivo.com.cn/#/home
       description: ''
     - title: 滴滴出行安全应急响应中心
-      logo: https://toolb.cn/favicon/sec.didichuxing.com.png
+      logo: https://api.akams.cn/favicon/sec.didichuxing.com
       url: http://sec.didichuxing.com/
       description: ''
     - title: 享道出行SRC
-      logo: https://toolb.cn/favicon/src.saicmobility.com.png
+      logo: https://api.akams.cn/favicon/src.saicmobility.com
       url: https://src.saicmobility.com/
       description: ''
     - title: T3出行安全应急响应中心
-      logo: https://toolb.cn/favicon/security.t3go.cn.png
+      logo: https://api.akams.cn/favicon/security.t3go.cn
       url: https://security.t3go.cn/#/home
       description: ''
     - title: TCL安全应急响应中心
-      logo: https://toolb.cn/favicon/src.tcl.com.png
+      logo: https://api.akams.cn/favicon/src.tcl.com
       url: https://src.tcl.com/zh/index
       description: ''
     - title: UCloud安全应急响应中心
-      logo: https://toolb.cn/favicon/src.ucloud.cn.png
+      logo: https://api.akams.cn/favicon/src.ucloud.cn
       url: https://src.ucloud.cn/
       description: ''
     - title: 焦点安全应急响应中心
-      logo: https://toolb.cn/favicon/security.focuschina.com.png
+      logo: https://api.akams.cn/favicon/security.focuschina.com
       url: https://security.focuschina.com/
       description: ''
     - title: NIO蔚来安全应急响应中心
-      logo: https://toolb.cn/favicon/niosrc.bugbank.cn.png
+      logo: https://api.akams.cn/favicon/niosrc.bugbank.cn
       url: https://niosrc.bugbank.cn/
       description: ''
     - title: 小鹏安全应急响应中心
-      logo: https://toolb.cn/favicon/security.xiaopeng.com.png
+      logo: https://api.akams.cn/favicon/security.xiaopeng.com
       url: https://security.xiaopeng.com/
       description: ''
     - title: 理想安全应急响应中心
-      logo: https://toolb.cn/favicon/security.lixiang.com.png
+      logo: https://api.akams.cn/favicon/security.lixiang.com
       url: https://security.lixiang.com/index
       description: ''
     - title: 极氪安全应急响应中心
-      logo: https://toolb.cn/favicon/security.zeekrlife.com.png
+      logo: https://api.akams.cn/favicon/security.zeekrlife.com
       url: https://security.zeekrlife.com/
       description: ''
     - title: 吉利汽车安全应急响应中心
-      logo: https://toolb.cn/favicon/security.geely.com.png
+      logo: https://api.akams.cn/favicon/security.geely.com
       url: https://security.geely.com/
       description: ''
     - title: 快看安全应急响应中心
-      logo: https://toolb.cn/favicon/security.kuaikanmanhua.com.png
+      logo: https://api.akams.cn/favicon/security.kuaikanmanhua.com
       url: https://security.kuaikanmanhua.com/
       description: ''
     - title: 看云安全应急响应中心
-      logo: https://toolb.cn/favicon/security.kanyun.com.png
+      logo: https://api.akams.cn/favicon/security.kanyun.com
       url: https://security.kanyun.com/
       description: ''
     - title: 麦当劳中国安全应急响应中心
-      logo: https://toolb.cn/favicon/security.mcd.cn.png
+      logo: https://api.akams.cn/favicon/security.mcd.cn
       url: https://security.mcd.cn/index.php?m=&c=index&a=index
       description: ''
     - title: HashKey安全应急响应中心
-      logo: https://toolb.cn/favicon/src.hashkey.com.png
+      logo: https://api.akams.cn/favicon/src.hashkey.com
       url: https://src.hashkey.com/
       description: ''
     - title: 猎聘安全应急响应中心
-      logo: https://toolb.cn/favicon/security.liepin.com.png
+      logo: https://api.akams.cn/favicon/security.liepin.com
       url: https://security.liepin.com/
       description: ''
     - title: 新东方安全应急响应中心
-      logo: https://toolb.cn/favicon/src.xdf.cn.png
+      logo: https://api.akams.cn/favicon/src.xdf.cn
       url: https://src.xdf.cn/
       description: ''
     - title: 东航网络安全应急响应中心
-      logo: https://toolb.cn/favicon/src.ceair.com.png
+      logo: https://api.akams.cn/favicon/src.ceair.com
       url: https://src.ceair.com/
       description: ''
     - title: 易安联安全应急响应中心
-      logo: https://toolb.cn/favicon/security.enlink.top.png
+      logo: https://api.akams.cn/favicon/security.enlink.top
       url: https://security.enlink.top/
       description: ''
     - title: 老虎国际安全应急响应中心
-      logo: https://toolb.cn/favicon/security.itigerup.com.png
+      logo: https://api.akams.cn/favicon/security.itigerup.com
       url: https://security.itigerup.com/
       description: ''
     - title: Tuya SRC
-      logo: https://toolb.cn/favicon/src.tuya.com.png
+      logo: https://api.akams.cn/favicon/src.tuya.com
       url: https://src.tuya.com/
       description: ''
     - title: 魅族安全中心
-      logo: https://toolb.cn/favicon/sec.meizu.com.png
+      logo: https://api.akams.cn/favicon/sec.meizu.com
       url: https://sec.meizu.com/
       description: ''
     - title: 斗米安全应急响应中心
-      logo: https://toolb.cn/favicon/security.doumi.com.png
+      logo: https://api.akams.cn/favicon/security.doumi.com
       url: https://security.doumi.com/
       description: ''
     - title: 悟空租车安全应急响应中心
-      logo: https://toolb.cn/favicon/security.wkzuche.com.png
+      logo: https://api.akams.cn/favicon/security.wkzuche.com
       url: https://security.wkzuche.com/
       description: ''
     - title: YY安全应急响应中心
-      logo: https://toolb.cn/favicon/security.yy.com.png
+      logo: https://api.akams.cn/favicon/security.yy.com
       url: https://security.yy.com/index.jsp
       description: ''
     - title: 去哪儿安全应急响应中心
-      logo: https://toolb.cn/favicon/security.qunar.com.png
+      logo: https://api.akams.cn/favicon/security.qunar.com
       url: https://security.qunar.com/
       description: ''
     - title: 竞技世界安全应急响应中心
-      logo: https://toolb.cn/favicon/security.jj.cn.png
+      logo: https://api.akams.cn/favicon/security.jj.cn
       url: https://security.jj.cn/
       description: ''
     - title: 好未来安全应急响应中心
-      logo: https://toolb.cn/favicon/src.100tal.com.png
+      logo: https://api.akams.cn/favicon/src.100tal.com
       url: https://src.100tal.com/
       description: ''
     - title: 微众银行安全响应中心
-      logo: https://toolb.cn/favicon/security.webank.com.png
+      logo: https://api.akams.cn/favicon/security.webank.com
       url: https://security.webank.com/
       description: ''
     - title: 你我贷安全响应中心
-      logo: https://toolb.cn/favicon/www.niwodai.com.png
+      logo: https://api.akams.cn/favicon/www.niwodai.com
       url: https://www.niwodai.com/sec/index.do
       description: ''
     - title: 挖财安全应急响应中心
-      logo: https://toolb.cn/favicon/sec.wacai.com.png
+      logo: https://api.akams.cn/favicon/sec.wacai.com
       url: https://sec.wacai.com/
       description: ''
     - title: 法大大安全应急响应中心
-      logo: https://toolb.cn/favicon/sec.fadada.com.png
+      logo: https://api.akams.cn/favicon/sec.fadada.com
       url: https://sec.fadada.com/#/index
       description: ''
     - title: 途虎安全应急响应中心
-      logo: https://toolb.cn/favicon/security.tuhu.cn.png
+      logo: https://api.akams.cn/favicon/security.tuhu.cn
       url: https://security.tuhu.cn/
       description: ''
     - title: 贝锐安全应急响应中心
-      logo: https://toolb.cn/favicon/security.oray.com.png
+      logo: https://api.akams.cn/favicon/security.oray.com
       url: https://security.oray.com/
       description: ''
     - title: Soul安全应急响应中心
-      logo: https://toolb.cn/favicon/security.soulapp.cn.png
+      logo: https://api.akams.cn/favicon/security.soulapp.cn
       url: https://security.soulapp.cn/
       description: ''
     - title: 掌门教育安全应急响应中心
-      logo: https://toolb.cn/favicon/security.zhangmen.com.png
+      logo: https://api.akams.cn/favicon/security.zhangmen.com
       url: https://security.zhangmen.com/#/
       description: ''
     - title: 度小满安全应急响应中心
-      logo: https://toolb.cn/favicon/security.duxiaoman.com.png
+      logo: https://api.akams.cn/favicon/security.duxiaoman.com
       url: https://security.duxiaoman.com/index.html#/main
       description: ''
 - taxonomy: 搜索引擎
   icon: fab fa-searchengin
   links:
   - title: FOFA
-    logo: https://toolb.cn/favicon/fofa.info.png
+    logo: https://api.akams.cn/favicon/fofa.info
     url: https://fofa.info/
     description: '华顺信安网络空间资产搜索引擎'
   - title: Quake
-    logo: https://toolb.cn/favicon/quake.360.net.png
+    logo: https://api.akams.cn/favicon/quake.360.net
     url: https://quake.360.net/quake/#/index
     description: '360网络空间测绘'
   - title: Hunter
-    logo: https://toolb.cn/favicon/hunter.qianxin.com.png
+    logo: https://api.akams.cn/favicon/hunter.qianxin.com
     url: https://hunter.qianxin.com/
     description: '奇安信全球鹰全球互联网资产搜集平台'
   - title: ZoomEye
-    logo: https://toolb.cn/favicon/www.zoomeye.org.png
+    logo: https://api.akams.cn/favicon/www.zoomeye.org
     url: https://www.zoomeye.org/
     description: '知道创宇网络空间搜索引擎'
   - title: 谛听
-    logo: https://toolb.cn/favicon/www.ditecting.com.png
+    logo: https://api.akams.cn/favicon/www.ditecting.com
     url: https://www.ditecting.com/
     description: '专注工控安全的搜索引擎'
   - title: 知风
-    logo: https://toolb.cn/favicon/zhifeng.io.png
+    logo: https://api.akams.cn/favicon/zhifeng.io
     url: https://zhifeng.io/web/new/
     description: '互联网联网工控资产与企业分析系统'
   - title: 零零信安
-    logo: https://toolb.cn/favicon/0.zone.png
+    logo: https://api.akams.cn/favicon/0.zone
     url: https://0.zone/
     description: '零零信安攻击面管理平台'
   - title: sumap
-    logo: https://toolb.cn/favicon/sumap.dbappsecurity.com.cn.png
+    logo: https://api.akams.cn/favicon/sumap.dbappsecurity.com.cn
     url: https://sumap.dbappsecurity.com.cn/
     description: '安恒全球网络空间超级雷达'
   - title: DayDayMap
-    logo: https://toolb.cn/favicon/www.daydaymap.com.png
+    logo: https://api.akams.cn/favicon/www.daydaymap.com
     url: https://www.daydaymap.com/home
     description: '盛邦安全全球网络空间资产测绘平台'
   - title: Shodan
-    logo: https://toolb.cn/favicon/www.shodan.io.png
+    logo: https://api.akams.cn/favicon/www.shodan.io
     url: https://www.shodan.io/
     description: '互联网资产 OSINT 搜索引擎'
   - title: RiskIQ
-    logo: https://toolb.cn/favicon/community.riskiq.com.png
+    logo: https://api.akams.cn/favicon/community.riskiq.com
     url: https://community.riskiq.com/home
     description: '互联网资产 OSINT 搜索引擎'
   - title: ONYPHE
-    logo: https://toolb.cn/favicon/www.onyphe.io.png
+    logo: https://api.akams.cn/favicon/www.onyphe.io
     url: https://www.onyphe.io/
     description: '互联网资产 OSINT 搜索引擎'
   - title: Netlas.io
-    logo: https://toolb.cn/favicon/app.netlas.io.png
+    logo: https://api.akams.cn/favicon/app.netlas.io
     url: https://app.netlas.io/host/
     description: '互联网资产 OSINT 搜索引擎'
   - title: BinaryEdge
-    logo: https://toolb.cn/favicon/www.binaryedge.io.png
+    logo: https://api.akams.cn/favicon/www.binaryedge.io
     url: https://www.binaryedge.io/
     description: '互联网资产 OSINT 搜索引擎'
   - title: Criminal IP
-    logo: https://toolb.cn/favicon/www.criminalip.io.png
+    logo: https://api.akams.cn/favicon/www.criminalip.io
     url: https://www.criminalip.io
     description: '一个专门用于攻击面评估和威胁搜寻的 OSINT 搜索引擎'
   - title: Hunter Search Engine
-    logo: https://toolb.cn/favicon/hunter.how.png
+    logo: https://api.akams.cn/favicon/hunter.how
     url: https://hunter.how/
     description: '互联网资产搜索引擎'
   - title: searchcode
@@ -799,15 +799,15 @@
     url: https://searchcode.com/
     description: '源代码搜索引擎，从 4000 万个项目中搜索 750 亿行代码'
   - title: grep.app
-    logo: https://toolb.cn/favicon/grep.app.png
+    logo: https://api.akams.cn/favicon/grep.app
     url: https://grep.app/
     description: '源代码搜索引擎，从GitHub上超过50万个公共存储库中搜索代码'
   - title: PublicWWW
-    logo: https://toolb.cn/favicon/publicwww.com.png
+    logo: https://api.akams.cn/favicon/publicwww.com
     url: https://publicwww.com/
     description: '源代码搜索引擎，在网页源码中查找特定代码片段'
   - title: Hunter (Email Hunter)
-    logo: https://toolb.cn/favicon/hunter.io.png
+    logo: https://api.akams.cn/favicon/hunter.io
     url: https://hunter.io/
     description: '查找特定域名下相关的电子邮件地址'
   - title: GreyNoise
@@ -815,7 +815,7 @@
     url: https://viz.greynoise.io
     description: '可视化互联网背景噪声和恶意网络活动'
   - title: 'WiGLE: Wireless Network Mapping'
-    logo: https://toolb.cn/favicon/wigle.net.png
+    logo: https://api.akams.cn/favicon/wigle.net
     url: https://wigle.net/
     description: '包含802.11无线网络的地图和数据库'
   - title: FullHunt
@@ -823,7 +823,7 @@
     url: https://fullhunt.io/
     description: '互联网攻击面管理平台'
   - title: Check-Host.net
-    logo: https://toolb.cn/favicon/check-host.net.png
+    logo: https://api.akams.cn/favicon/check-host.net
     url: https://check-host.net/
     description: '用于检查网站、服务器、主机和 IP 地址的可用性'
 - taxonomy: 信息搜集
@@ -832,335 +832,335 @@
   - term: 企业信息查询
     links:
     - title: 企查查
-      logo: https://toolb.cn/favicon/www.qcc.com.png
+      logo: https://api.akams.cn/favicon/www.qcc.com
       url: https://www.qcc.com/
       description: ''
     - title: 天眼查
-      logo: https://toolb.cn/favicon/www.tianyancha.com.png
+      logo: https://api.akams.cn/favicon/www.tianyancha.com
       url: https://www.tianyancha.com/
       description: ''
     - title: 爱企查
-      logo: https://toolb.cn/favicon/aiqicha.baidu.com.png
+      logo: https://api.akams.cn/favicon/aiqicha.baidu.com
       url: https://aiqicha.baidu.com/
       description: ''
     - title: 小蓝本
-      logo: https://toolb.cn/favicon/www.xiaolanben.com.png
+      logo: https://api.akams.cn/favicon/www.xiaolanben.com
       url: https://www.xiaolanben.com/pc
       description: ''
     - title: 启信宝
-      logo: https://toolb.cn/favicon/www.qixin.com.png
+      logo: https://api.akams.cn/favicon/www.qixin.com
       url: https://www.qixin.com/
       description: ''
     - title: 蓝鲸
-      logo: https://toolb.cn/favicon/lanjing.jd.com.png
+      logo: https://api.akams.cn/favicon/lanjing.jd.com
       url: https://lanjing.jd.com/
       description: ''
     - title: 商商查
-      logo: https://toolb.cn/favicon/www.sscha.com.png
+      logo: https://api.akams.cn/favicon/www.sscha.com
       url: https://www.sscha.com/
       description: ''
     - title: 七麦数据
-      logo: https://toolb.cn/favicon/www.qimai.cn.png
+      logo: https://api.akams.cn/favicon/www.qimai.cn
       url: https://www.qimai.cn/
       description: ''
   - term: ICP备案查询
     links:
     - title: 工信部ICP备案查询
-      logo: https://toolb.cn/favicon/beian.miit.gov.cn.png
+      logo: https://api.akams.cn/favicon/beian.miit.gov.cn
       url: https://beian.miit.gov.cn/#/Integrated/index
       description: ''
     - title: 站长工具 - ICP备案查询
-      logo: https://toolb.cn/favicon/icp.chinaz.com.png
+      logo: https://api.akams.cn/favicon/icp.chinaz.com
       url: https://icp.chinaz.com/
       description: ''
     - title: ICP查询网
-      logo: https://toolb.cn/favicon/www.icplist.com.png
+      logo: https://api.akams.cn/favicon/www.icplist.com
       url: https://www.icplist.com/
       description: ''
     - title: ICP备案查询网
-      logo: https://toolb.cn/favicon/www.beianx.cn.png
+      logo: https://api.akams.cn/favicon/www.beianx.cn
       url: https://www.beianx.cn/search
       description: ''
     - title: sojson - ICP备案查询
-      logo: https://toolb.cn/favicon/www.sojson.com.png
+      logo: https://api.akams.cn/favicon/www.sojson.com
       url: https://www.sojson.com/beian/
       description: ''
   - term: DNS查询
     links:
     - title: 阿里云网站运维检测平台
-      logo: https://toolb.cn/favicon/boce.aliyun.com.png
+      logo: https://api.akams.cn/favicon/boce.aliyun.com
       url: https://boce.aliyun.com/detect/dns
       description: '阿里云实时DNS解析查询'
     - title: 站长工具 - Dns查询
-      logo: https://toolb.cn/favicon/tool.chinaz.com.png
+      logo: https://api.akams.cn/favicon/tool.chinaz.com
       url: https://tool.chinaz.com/dns
       description: '实时DNS解析查询'
     - title: CDN Finder - CDN Planet
-      logo: https://toolb.cn/favicon/www.cdnplanet.com.png
+      logo: https://api.akams.cn/favicon/www.cdnplanet.com
       url: https://www.cdnplanet.com/tools/cdnfinder/
       description: ''
     - title: DNSDB
-      logo: https://toolb.cn/favicon/www.dnsdb.io.png
+      logo: https://api.akams.cn/favicon/www.dnsdb.io
       url: https://www.dnsdb.io/zh-cn/
       description: '全球最大DNS数据库'
     - title: Subdomain Finder | HackerTarget
-      logo: https://toolb.cn/favicon/hackertarget.com.png
+      logo: https://api.akams.cn/favicon/hackertarget.com
       url: https://hackertarget.com/find-dns-host-records/
       description: ''
     - title: DNSdumpster
-      logo: https://toolb.cn/favicon/dnsdumpster.com.png
+      logo: https://api.akams.cn/favicon/dnsdumpster.com
       url: https://dnsdumpster.com/
       description: ''
     - title: RapidDNS
-      logo: https://toolb.cn/favicon/rapiddns.io.png
+      logo: https://api.akams.cn/favicon/rapiddns.io
       url: https://rapiddns.io/sameip
       description: ''
     - title: ViewDNS
-      logo: https://toolb.cn/favicon/viewdns.info.png
+      logo: https://api.akams.cn/favicon/viewdns.info
       url: https://viewdns.info/
       description: '多种DNS记录查询'
     - title: DNS Lookup - WhatIsMyIP.com®
-      logo: https://toolb.cn/favicon/www.whatismyip.com.png
+      logo: https://api.akams.cn/favicon/www.whatismyip.com
       url: https://www.whatismyip.com/dns-lookup/
       description: ''
     - title: DNS Checker -  KeyCDN Tools
-      logo: https://toolb.cn/favicon/tools.keycdn.com.png
+      logo: https://api.akams.cn/favicon/tools.keycdn.com
       url: https://tools.keycdn.com/dig
       description: ''
     - title: DNS Checker
-      logo: https://toolb.cn/favicon/dnschecker.org.png
+      logo: https://api.akams.cn/favicon/dnschecker.org
       url: https://dnschecker.org/
       description: ''
     - title: DNS Lookup - IPAddress
-      logo: https://toolb.cn/favicon/www.ipaddress.com.png
+      logo: https://api.akams.cn/favicon/www.ipaddress.com
       url: https://www.ipaddress.com/dns-lookup
       description: ''
     - title: DNS Lookup
-      logo: https://toolb.cn/favicon/www.nslookup.io.png
+      logo: https://api.akams.cn/favicon/www.nslookup.io
       url: https://www.nslookup.io/
       description: ''
     - title: SecurityTrails
-      logo: https://toolb.cn/favicon/securitytrails.com.png
+      logo: https://api.akams.cn/favicon/securitytrails.com
       url: https://securitytrails.com/
       description: 'DNS历史记录查询'
   - term: 证书查询
     links:
     - title: Censys
-      logo: https://toolb.cn/favicon/search.censys.io.png
+      logo: https://api.akams.cn/favicon/search.censys.io
       url: https://search.censys.io/certificates
       description: ''
     - title: crt.sh
-      logo: https://toolb.cn/favicon/crt.sh.png
+      logo: https://api.akams.cn/favicon/crt.sh
       url: https://crt.sh/
       description: ''
     - title: SSLMate
-      logo: https://toolb.cn/favicon/sslmate.com.png
+      logo: https://api.akams.cn/favicon/sslmate.com
       url: https://sslmate.com/ct_search_api/
       description: ''
   - term: IP反查域名
     links:
     - title: WebScan
-      logo: https://toolb.cn/favicon/webscan.cc.png
+      logo: https://api.akams.cn/favicon/webscan.cc
       url: https://webscan.cc/
       description: ''
     - title: iP反查域名
-      logo: https://toolb.cn/favicon/site.ip138.com.png
+      logo: https://api.akams.cn/favicon/site.ip138.com
       url: https://site.ip138.com/
       description: ''
     - title: IP反查域名 - Dnslytics
-      logo: https://toolb.cn/favicon/dnslytics.com.png
+      logo: https://api.akams.cn/favicon/dnslytics.com
       url: https://dnslytics.com/reverse-ip
       description: ''
     - title: IP反查域名_爱站网
-      logo: https://toolb.cn/favicon/dns.aizhan.com.png
+      logo: https://api.akams.cn/favicon/dns.aizhan.com
       url: https://dns.aizhan.com/
       description: ''
     - title: 同IP网站查询 - 站长工具
-      logo: https://toolb.cn/favicon/stool.chinaz.com.png
+      logo: https://api.akams.cn/favicon/stool.chinaz.com
       url: https://stool.chinaz.com/same
       description: ''
     - title: Reverse IP Lookup - Find Other Web Sites Hosted on a Web Server
-      logo: https://toolb.cn/favicon/www.yougetsignal.com.png
+      logo: https://api.akams.cn/favicon/www.yougetsignal.com
       url: https://www.yougetsignal.com/tools/web-sites-on-web-server/
       description: ''
     - title: RapidDNS
-      logo: https://toolb.cn/favicon/rapiddns.io.png
+      logo: https://api.akams.cn/favicon/rapiddns.io
       url: https://rapiddns.io/
       description: ''
     - title: Reverse IP Lookup - Find All Hosts Sharing An IP Address
-      logo: https://toolb.cn/favicon/www.ipaddress.com.png
+      logo: https://api.akams.cn/favicon/www.ipaddress.com
       url: https://www.ipaddress.com/reverse-ip-lookup
       description: ''
   - term: 子域名查询
     links:
     - title: 在线子域名爆破
-      logo: https://toolb.cn/favicon/z.zcjun.com.png
+      logo: https://api.akams.cn/favicon/z.zcjun.com
       url: http://z.zcjun.com/
       description: ''
     - title: 在线子域名查询
-      logo: https://toolb.cn/favicon/phpinfo.me.png
+      logo: https://api.akams.cn/favicon/phpinfo.me
       url: https://phpinfo.me/domain/
       description: ''
     - title: 子域名查询 - dnsgrep
-      logo: https://toolb.cn/favicon/www.dnsgrep.cn.png
+      logo: https://api.akams.cn/favicon/www.dnsgrep.cn
       url: https://www.dnsgrep.cn/subdomain
       description: ''
     - title: 千寻域名资产在线搜索引擎
-      logo: https://toolb.cn/favicon/www.dnsscan.cn.png
+      logo: https://api.akams.cn/favicon/www.dnsscan.cn
       url: https://www.dnsscan.cn/dns.html
       description: ''
     - title: 子域名查询 - 查子域
-      logo: https://toolb.cn/favicon/chaziyu.com.png
+      logo: https://api.akams.cn/favicon/chaziyu.com
       url: https://chaziyu.com/
       description: ''
     - title: 子域名查询 - 站长工具
-      logo: https://toolb.cn/favicon/tool.chinaz.com.png
+      logo: https://api.akams.cn/favicon/tool.chinaz.com
       url: https://tool.chinaz.com/subdomain/
       description: ''
     - title: ⚡️ ReconSage | Subdomain Scanner
-      logo: https://toolb.cn/favicon/www.reconsage.com.png
+      logo: https://api.akams.cn/favicon/www.reconsage.com
       url: https://www.reconsage.com/tools/scan-subdomain
       description: ''
   - term: 端口扫描
     links:
     - title: 服务器端口开放检测 - 在线工具
-      logo: https://toolb.cn/favicon/www.toolhelper.cn.png
+      logo: https://api.akams.cn/favicon/www.toolhelper.cn
       url: https://www.toolhelper.cn/Http/PortCheck
       description: ''
     - title: 在线端口扫描 - sojson
-      logo: https://toolb.cn/favicon/www.sojson.com.png
+      logo: https://api.akams.cn/favicon/www.sojson.com
       url: https://www.sojson.com/zz/portscan.html
       description: ''
     - title: Online Port Scanner
-      logo: https://toolb.cn/favicon/portscanner.standingtech.com.png
+      logo: https://api.akams.cn/favicon/portscanner.standingtech.com
       url: https://portscanner.standingtech.com/
       description: ''
     - title: Online Port Scan
-      logo: https://toolb.cn/favicon/spiderip.com.png
+      logo: https://api.akams.cn/favicon/spiderip.com
       url: https://spiderip.com/online-port-scan.php
       description: ''
     - title: Open Port Checker
-      logo: https://toolb.cn/favicon/www.ipfingerprints.com.png
+      logo: https://api.akams.cn/favicon/www.ipfingerprints.com
       url: https://www.ipfingerprints.com/portscan.php
       description: ''
     - title: Open Port Check Tool
-      logo: https://toolb.cn/favicon/www.yougetsignal.com.png
+      logo: https://api.akams.cn/favicon/www.yougetsignal.com
       url: https://www.yougetsignal.com/tools/open-ports/
       description: ''
     - title: Online Port check
-      logo: https://toolb.cn/favicon/ping.eu.png
+      logo: https://api.akams.cn/favicon/ping.eu
       url: https://ping.eu/port-chk/
       description: ''
     - title: 端口扫描 - 站长工具
-      logo: https://toolb.cn/favicon/tool.chinaz.com.png
+      logo: https://api.akams.cn/favicon/tool.chinaz.com
       url: https://tool.chinaz.com/port/
       description: ''
     - title: 在线端口检测
-      logo: https://toolb.cn/favicon/coolaf.com.png
+      logo: https://api.akams.cn/favicon/coolaf.com
       url: http://coolaf.com/tool/port
       description: ''
     - title: 在线端口扫描 - TooL.cc
-      logo: https://toolb.cn/favicon/tool.cc.png
+      logo: https://api.akams.cn/favicon/tool.cc
       url: https://tool.cc/port/
       description: ''
     - title: 在线端口扫描器
-      logo: https://toolb.cn/favicon/duankou.wlphp.com.png
+      logo: https://api.akams.cn/favicon/duankou.wlphp.com
       url: http://duankou.wlphp.com/
       description: ''
     - title: IP端口批量扫描在线工具
-      logo: https://toolb.cn/favicon/www.yunjson.com.png
+      logo: https://api.akams.cn/favicon/www.yunjson.com
       url: http://www.yunjson.com/port/
       description: ''
     - title: 在线端口检测开放检查
-      logo: https://toolb.cn/favicon/www.jsons.cn.png
+      logo: https://api.akams.cn/favicon/www.jsons.cn
       url: http://www.jsons.cn/port/
       description: ''
     - title: Nmap Online Scanner
-      logo: https://toolb.cn/favicon/nmap.online-domain-tools.com.png
+      logo: https://api.akams.cn/favicon/nmap.online-domain-tools.com
       url: http://nmap.online-domain-tools.com/
       description: ''
     - title: 在线端口扫描器 - 码工具
-      logo: https://toolb.cn/favicon/www.matools.com.png
+      logo: https://api.akams.cn/favicon/www.matools.com
       url: https://www.matools.com/port
       description: ''
     - title: 端口扫描 - 在线端口扫描工具
-      logo: https://toolb.cn/favicon/port.hwcha.com.png
+      logo: https://api.akams.cn/favicon/port.hwcha.com
       url: https://port.hwcha.com/
       description: ''
     - title: 在线端口扫描工具-ME2在线工具
-      logo: https://toolb.cn/favicon/www.metools.info.png
+      logo: https://api.akams.cn/favicon/www.metools.info
       url: http://www.metools.info/master/m38.html
       description: ''
   - term: 指纹识别
     links:
     - title: 云悉指纹识别
-      logo: https://toolb.cn/favicon/www.yunsee.cn.png
+      logo: https://api.akams.cn/favicon/www.yunsee.cn
       url: https://www.yunsee.cn/
       description: ''
     - title: 潮汐指纹识别
-      logo: https://toolb.cn/favicon/finger.tidesec.net.png
+      logo: https://api.akams.cn/favicon/finger.tidesec.net
       url: http://finger.tidesec.net/
       description: ''
     - title: 指纹收录平台 - 数字观星
-      logo: https://toolb.cn/favicon/fp.shuziguanxing.com.png
+      logo: https://api.akams.cn/favicon/fp.shuziguanxing.com
       url: https://fp.shuziguanxing.com/#/
       description: ''
   - term: Whois查询
     links:
     - title: 域名信息查询 - 阿里云
-      logo: https://toolb.cn/favicon/whois.aliyun.com.png
+      logo: https://api.akams.cn/favicon/whois.aliyun.com
       url: https://whois.aliyun.com/
       description: ''
     - title: 域名信息查询 - 腾讯云
-      logo: https://toolb.cn/favicon/whois.cloud.tencent.com.png
+      logo: https://api.akams.cn/favicon/whois.cloud.tencent.com
       url: https://whois.cloud.tencent.com/domain?domain=
       description: ''
     - title: 域名whois查询 - 西部数码
-      logo: https://toolb.cn/favicon/whois.west.cn.png
+      logo: https://api.akams.cn/favicon/whois.west.cn
       url: https://whois.west.cn/
       description: ''
     - title: 域名信息查询 - 新网
-      logo: https://toolb.cn/favicon/whois.xinnet.com.png
+      logo: https://api.akams.cn/favicon/whois.xinnet.com
       url: https://whois.xinnet.com/
       description: ''
     - title: 纳网WHOIS查询服务
-      logo: https://toolb.cn/favicon/whois.nawang.cn.png
+      logo: https://api.akams.cn/favicon/whois.nawang.cn
       url: http://whois.nawang.cn/
       description: ''
     - title: 域名Whois查询 - 站长之家
-      logo: https://toolb.cn/favicon/whois.chinaz.com.png
+      logo: https://api.akams.cn/favicon/whois.chinaz.com
       url: https://whois.chinaz.com/
       description: ''
     - title: 域名Whois查询 - sojson
-      logo: https://toolb.cn/favicon/www.sojson.com.png
+      logo: https://api.akams.cn/favicon/www.sojson.com
       url: https://www.sojson.com/whois/
       description: ''
     - title: 域名Whois查询 - uutools
-      logo: https://toolb.cn/favicon/uutool.cn.png
+      logo: https://api.akams.cn/favicon/uutool.cn
       url: https://uutool.cn/whois/
       description: ''
     - title: whois查询 - 爱站网
-      logo: https://toolb.cn/favicon/whois.aizhan.com.png
+      logo: https://api.akams.cn/favicon/whois.aizhan.com
       url: https://whois.aizhan.com/
       description: ''
     - title: Whois IP & Domain Lookup | Whois.com
-      logo: https://toolb.cn/favicon/www.whois.com.png
+      logo: https://api.akams.cn/favicon/www.whois.com
       url: https://www.whois.com/whois/
       description: ''
     - title: WHO.CX - Whois查询
-      logo: https://toolb.cn/favicon/who.cx.png
+      logo: https://api.akams.cn/favicon/who.cx
       url: https://who.cx/
       description: ''
     - title: 全球WHOIS查询 | WHOIS.SL
-      logo: https://toolb.cn/favicon/whois.sl.png
+      logo: https://api.akams.cn/favicon/whois.sl
       url: https://whois.sl/
       description: ''
     - title: 猫咪whois全球查询
-      logo: https://toolb.cn/favicon/mao.cx.png
+      logo: https://api.akams.cn/favicon/mao.cx
       url: https://mao.cx/
       description: ''
     - title: Next Whois Lookup
-      logo: https://toolb.cn/favicon/who.zmh.me.png
+      logo: https://api.akams.cn/favicon/who.zmh.me
       url: https://who.zmh.me/
       description: ''
 - taxonomy: 文件查杀分析
@@ -1169,143 +1169,143 @@
   - term: WebSell查杀
     links:
     - title: 阿里云WebShell检测平台
-      logo: https://toolb.cn/favicon/ti.aliyun.com.png
+      logo: https://api.akams.cn/favicon/ti.aliyun.com
       url: https://ti.aliyun.com/#/webshell
       description: ''
     - title: 河马查杀
-      logo: https://toolb.cn/favicon/www.shellpub.com.png
+      logo: https://api.akams.cn/favicon/www.shellpub.com
       url: https://www.shellpub.com/
       description: ''
     - title: D盾防火墙
-      logo: https://toolb.cn/favicon/www.d99net.net.png
+      logo: https://api.akams.cn/favicon/www.d99net.net
       url: https://www.d99net.net/index.asp
       description: ''
     - title: WEBDIR+
-      logo: https://toolb.cn/favicon/scanner.baidu.com.png
+      logo: https://api.akams.cn/favicon/scanner.baidu.com
       url: https://scanner.baidu.com/#/pages/intro
       description: ''
     - title: CloudWalker
-      logo: https://toolb.cn/favicon/stack.chaitin.com.png
+      logo: https://api.akams.cn/favicon/stack.chaitin.com
       url: https://stack.chaitin.com/security-challenge/webshell/index
       description: ''
   - term: 病毒木马分析
     links:
     - title: 可疑文件分析云
-      logo: https://toolb.cn/favicon/cloud.vdnel.cn.png
+      logo: https://api.akams.cn/favicon/cloud.vdnel.cn
       url: https://cloud.vdnel.cn/
       description: ''
     - title: 阿里云恶意文件检测平台
-      logo: https://toolb.cn/favicon/ti.aliyun.com.png
+      logo: https://api.akams.cn/favicon/ti.aliyun.com
       url: https://ti.aliyun.com/#/sastiFile
       description: ''
     - title: 微步在线云沙箱
-      logo: https://toolb.cn/favicon/s.threatbook.com.png
+      logo: https://api.akams.cn/favicon/s.threatbook.com
       url: https://s.threatbook.com/
       description: ''
     - title: 360沙箱云
-      logo: https://toolb.cn/favicon/ata.360.net.png
+      logo: https://api.akams.cn/favicon/ata.360.net
       url: https://ata.360.net/
       description: ''
     - title: 深信服云沙箱
-      logo: https://toolb.cn/favicon/ti.sangfor.com.cn.png
+      logo: https://api.akams.cn/favicon/ti.sangfor.com.cn
       url: https://ti.sangfor.com.cn/sandbox-dashboard
       description: ''
     - title: 奇安信情报沙箱
-      logo: https://toolb.cn/favicon/sandbox.ti.qianxin.com.png
+      logo: https://api.akams.cn/favicon/sandbox.ti.qianxin.com
       url: https://sandbox.ti.qianxin.com/sandbox/page
       description: ''
     - title: 腾讯哈勃分析系统
-      logo: https://toolb.cn/favicon/habo.qq.com.png
+      logo: https://api.akams.cn/favicon/habo.qq.com
       url: https://habo.qq.com/
       description: ''
     - title: 大圣云沙箱检测系统
-      logo: https://toolb.cn/favicon/mac-cloud.riskivy.com.png
+      logo: https://api.akams.cn/favicon/mac-cloud.riskivy.com
       url: https://mac-cloud.riskivy.com/detect
       description: ''
     - title: VirusTotal
-      logo: https://toolb.cn/favicon/www.virustotal.com.png
+      logo: https://api.akams.cn/favicon/www.virustotal.com
       url: https://www.virustotal.com/gui/home/upload
       description: ''
     - title: VirScan
-      logo: https://toolb.cn/favicon/www.virscan.org.png
+      logo: https://api.akams.cn/favicon/www.virscan.org
       url: https://www.virscan.org/
       description: ''
     - title: DynamiteLab
-      logo: https://toolb.cn/favicon/lab.dynamite.ai.png
+      logo: https://api.akams.cn/favicon/lab.dynamite.ai
       url: https://lab.dynamite.ai/
       description: ''
     - title: ANY.RUN
-      logo: https://toolb.cn/favicon/app.any.run.png
+      logo: https://api.akams.cn/favicon/app.any.run
       url: https://app.any.run/
       description: ''
     - title: Joe Sandbox
-      logo: https://toolb.cn/favicon/www.joesandbox.com.png
+      logo: https://api.akams.cn/favicon/www.joesandbox.com
       url: https://www.joesandbox.com/analysispaged/0
       description: ''
     - title: MalwareBazaar
-      logo: https://toolb.cn/favicon/bazaar.abuse.ch.png
+      logo: https://api.akams.cn/favicon/bazaar.abuse.ch
       url: https://bazaar.abuse.ch/
       description: ''
   - term: 勒索病毒解密
     links:
     - title: 360勒索病毒解密
-      logo: https://toolb.cn/favicon/lesuobingdu.360.cn.png
+      logo: https://api.akams.cn/favicon/lesuobingdu.360.cn
       url: https://lesuobingdu.360.cn/
       description: ''
     - title: 奇安信勒索病毒搜索引擎
-      logo: https://toolb.cn/favicon/lesuobingdu.qianxin.com.png
+      logo: https://api.akams.cn/favicon/lesuobingdu.qianxin.com
       url: https://lesuobingdu.qianxin.com/
       description: ''
     - title: 深信服勒索病毒搜索引擎
-      logo: https://toolb.cn/favicon/edr.sangfor.com.cn.png
+      logo: https://api.akams.cn/favicon/edr.sangfor.com.cn
       url: https://edr.sangfor.com.cn/#/information/ransom_search
       description: ''
     - title: 电脑管家勒索病毒搜索引擎
-      logo: https://toolb.cn/favicon/guanjia.qq.com.png
+      logo: https://api.akams.cn/favicon/guanjia.qq.com
       url: https://guanjia.qq.com/pr/ls/
       description: ''
     - title: 鹰眼勒索病毒检测
-      logo: https://toolb.cn/favicon/ti.duba.net.png
+      logo: https://api.akams.cn/favicon/ti.duba.net
       url: https://ti.duba.net/ransom
       description: ''
     - title: VenusEye勒索病毒搜索引擎
-      logo: https://toolb.cn/favicon/lesuo.venuseye.com.cn.png
+      logo: https://api.akams.cn/favicon/lesuo.venuseye.com.cn
       url: https://lesuo.venuseye.com.cn/
       description: ''
     - title: 免费的勒索软件解密器 - 卡巴斯基实验室
-      logo: https://toolb.cn/favicon/noransom.kaspersky.com.png
+      logo: https://api.akams.cn/favicon/noransom.kaspersky.com
       url: https://noransom.kaspersky.com/zh/
       description: ''
     - title: The No More Ransom Project
-      logo: https://toolb.cn/favicon/www.nomoreransom.org.png
+      logo: https://api.akams.cn/favicon/www.nomoreransom.org
       url: https://www.nomoreransom.org/zh/index.html
       description: ''
     - title: ID Ransomware
-      logo: https://toolb.cn/favicon/id-ransomware.malwarehunterteam.com.png
+      logo: https://api.akams.cn/favicon/id-ransomware.malwarehunterteam.com
       url: https://id-ransomware.malwarehunterteam.com/
       description: ''
     - title: DECRYPTION TOOLS – Maureen Data Systems
-      logo: https://toolb.cn/favicon/mdsny.com.png
+      logo: https://api.akams.cn/favicon/mdsny.com
       url: https://mdsny.com/decryption-tools/
       description: ''
     - title: Using the Trend Micro Ransomware File Decryptor Tool
-      logo: https://toolb.cn/favicon/success.trendmicro.com.png
+      logo: https://api.akams.cn/favicon/success.trendmicro.com
       url: https://success.trendmicro.com/dcx/s/solution/1114221-downloading-and-using-the-trend-micro-ransomware-file-decryptor?language=en_US
       description: ''
     - title: Free Ransomware Decryption Tool
-      logo: https://toolb.cn/favicon/www.quickheal.com.png
+      logo: https://api.akams.cn/favicon/www.quickheal.com
       url: https://www.quickheal.com/free-ransomware-decryption-tool/
       description: ''
     - title: 免费勒索软件解密工具 - Avast
-      logo: https://toolb.cn/favicon/www.avast.com.png
+      logo: https://api.akams.cn/favicon/www.avast.com
       url: https://www.avast.com/zh-cn/ransomware-decryption-tools#pc
       description: ''
     - title: 'Emsisoft: Free Ransomware Decryption Tools'
-      logo: https://toolb.cn/favicon/www.emsisoft.com.png
+      logo: https://api.akams.cn/favicon/www.emsisoft.com
       url: https://www.emsisoft.com/en/ransomware-decryption/
       description: ''
     - title: www.avg.com
-      logo: https://toolb.cn/favicon/www.avg.com.png
+      logo: https://api.akams.cn/favicon/www.avg.com
       url: https://www.avg.com/zh-tw/ransomware-decryption-tools#pc
       description: ''
 - taxonomy: 在线加解密
@@ -1314,131 +1314,131 @@
   - term: Base64 编码
     links:
     - title: 在线 Base64 编码及解码工具- wetools.com微工具
-      logo: https://toolb.cn/favicon/www.wetools.com.png
+      logo: https://api.akams.cn/favicon/www.wetools.com
       url: https://www.wetools.com/base64
       description: ''
     - title: Base64 编码解码工具，支持 Unicode 字符 Base64 编码 - dute.org
-      logo: https://toolb.cn/favicon/www.dute.org.png
+      logo: https://api.akams.cn/favicon/www.dute.org
       url: https://www.dute.org/base64
       description: ''
     - title: Base64 编码/解码 - 在线工具
-      logo: https://toolb.cn/favicon/www.toolhelper.cn.png
+      logo: https://api.akams.cn/favicon/www.toolhelper.cn
       url: https://www.toolhelper.cn/EncodeDecode/Base64EncodeDecode
       description: ''
     - title: Base64编码、解码，BASE64转图片，图片转BASE64 - 在线工具
-      logo: https://toolb.cn/favicon/tools.fun.png
+      logo: https://api.akams.cn/favicon/tools.fun
       url: https://tools.fun/base64.html
       description: ''
     - title: Base64在线加密解密-在线Base64加密解密工具-Base64编码解码工具
-      logo: https://toolb.cn/favicon/www.jsons.cn.png
+      logo: https://api.akams.cn/favicon/www.jsons.cn
       url: http://www.jsons.cn/base64/
       description: ''
   - term: Unicode 编码
     links:
     - title: Unicode编码解码
-      logo: https://toolb.cn/favicon/www.bt.cn.png
+      logo: https://api.akams.cn/favicon/www.bt.cn
       url: https://www.bt.cn/tools/unicode.html
       description: ''
     - title: 在线 Unicode 编码转换 | 菜鸟工具
-      logo: https://toolb.cn/favicon/c.runoob.com.png
+      logo: https://api.akams.cn/favicon/c.runoob.com
       url: https://c.runoob.com/front-end/3602/
       description: ''
     - title: Unicode与中文 编码/解码 - 在线工具
-      logo: https://toolb.cn/favicon/www.toolhelper.cn.png
+      logo: https://api.akams.cn/favicon/www.toolhelper.cn
       url: https://www.toolhelper.cn/EncodeDecode/UnicodeChineseEncodeDecode
       description: ''
     - title: Unicode编码，Unicode解码，Unicode转换为中文 - 在线工具
-      logo: https://toolb.cn/favicon/tools.fun.png
+      logo: https://api.akams.cn/favicon/tools.fun
       url: https://tools.fun/unicode.html
       description: ''
   - term: ASCII 编码
     links:
     - title: Ascii转中文字符-中文转Ascii编码-在线Ascii编码解码工具
-      logo: https://toolb.cn/favicon/www.jsons.cn.png
+      logo: https://api.akams.cn/favicon/www.jsons.cn
       url: http://www.jsons.cn/ascii/
       description: ''
   - term: MD5 加密
     links:
     - title: cmd5
-      logo: https://toolb.cn/favicon/www.cmd5.com.png
+      logo: https://api.akams.cn/favicon/www.cmd5.com
       url: https://www.cmd5.com/
       description: ''
     - title: somd5
-      logo: https://toolb.cn/favicon/www.somd5.com.png
+      logo: https://api.akams.cn/favicon/www.somd5.com
       url: https://www.somd5.com/
       description: ''
     - title: pmd5
-      logo: https://toolb.cn/favicon/pmd5.com.png
+      logo: https://api.akams.cn/favicon/pmd5.com
       url: https://pmd5.com/
       description: ''
     - title: ttmd5
-      logo: https://toolb.cn/favicon/www.ttmd5.com.png
+      logo: https://api.akams.cn/favicon/www.ttmd5.com
       url: http://www.ttmd5.com/
       description: ''
     - title: md5.cc
-      logo: https://toolb.cn/favicon/md5.cc.png
+      logo: https://api.akams.cn/favicon/md5.cc
       url: https://md5.cc/
       description: ''
     - title: cmd5.la
-      logo: https://toolb.cn/favicon/cmd5.la.png
+      logo: https://api.akams.cn/favicon/cmd5.la
       url: https://cmd5.la/
       description: ''
     - title: md5在线加密解密
-      logo: https://toolb.cn/favicon/md5.cn.png
+      logo: https://api.akams.cn/favicon/md5.cn
       url: http://md5.cn/
       description: ''
   - term: AES 加密
     links:
     - title: 在线AES加密解密 - 拉米工具
-      logo: https://toolb.cn/favicon/tool.lmeee.com.png
+      logo: https://api.akams.cn/favicon/tool.lmeee.com
       url: https://tool.lmeee.com/jiami/aes
       description: ''
     - title: AES在线加密解密工具 - MKLab在线工具
-      logo: https://toolb.cn/favicon/www.mklab.cn.png
+      logo: https://api.akams.cn/favicon/www.mklab.cn
       url: https://www.mklab.cn/utils/aes
       description: ''
     - title: 在线AES加密解密--查错网
-      logo: https://toolb.cn/favicon/tool.chacuo.net.png
+      logo: https://api.akams.cn/favicon/tool.chacuo.net
       url: http://tool.chacuo.net/cryptaes
       description: ''
     - title: 在线AES加密、在线AES解密 – 抒写
-      logo: https://toolb.cn/favicon/blog.zhengxianjun.com.png
+      logo: https://api.akams.cn/favicon/blog.zhengxianjun.com
       url: https://blog.zhengxianjun.com/online-tool/crypto/aes/
       description: ''
     - title: 在线AES加密解密
-      logo: https://toolb.cn/favicon/hao585.com.png
+      logo: https://api.akams.cn/favicon/hao585.com
       url: http://hao585.com/show/?id=304
       description: ''
     - title: AES在线解密 - The X 在线工具
-      logo: https://toolb.cn/favicon/the-x.cn.png
+      logo: https://api.akams.cn/favicon/the-x.cn
       url: https://the-x.cn/cryptography/Aes.aspx
       description: ''
     - title: AES加密、AES解密 - 在线工具 - OKTools
-      logo: https://toolb.cn/favicon/oktools.net.png
+      logo: https://api.akams.cn/favicon/oktools.net
       url: https://oktools.net/aes
       description: ''
   - term: DES 加密
     links:
     - title: 在线DES加密解密 - 加密解密
-      logo: https://toolb.cn/favicon/www.txttool.com.png
+      logo: https://api.akams.cn/favicon/www.txttool.com
       url: https://www.txttool.com/t/?id=NDI2
       description: ''
   - term: RSA 加密
     links:
     - title: RSA加密/解密 - 在线工具
-      logo: https://toolb.cn/favicon/try8.cn.png
+      logo: https://api.akams.cn/favicon/try8.cn
       url: https://try8.cn/tool/cipher/rsa
       description: ''
     - title: RSA加密、RSA解密 - 在线工具 - OKTools
-      logo: https://toolb.cn/favicon/oktools.net.png
+      logo: https://api.akams.cn/favicon/oktools.net
       url: https://oktools.net/rsa
       description: ''
     - title: 在线RSA加密解密
-      logo: https://toolb.cn/favicon/www.lddgo.net.png
+      logo: https://api.akams.cn/favicon/www.lddgo.net
       url: https://www.lddgo.net/encrypt/rsa
       description: ''
     - title: RSA 加密 - 在线工具
-      logo: https://toolb.cn/favicon/www.toolhelper.cn.png
+      logo: https://api.akams.cn/favicon/www.toolhelper.cn
       url: https://www.toolhelper.cn/AsymmetricEncryption/RsaEncrypt
       description: ''
 - taxonomy: 安全工具
@@ -1447,195 +1447,195 @@
   - term: 工具官网
     links:
     - title: Kali
-      logo: https://toolb.cn/favicon/www.kali.org.png
+      logo: https://api.akams.cn/favicon/www.kali.org
       url: https://www.kali.org/
       description: ''
     - title: Nmap
-      logo: https://toolb.cn/favicon/nmap.org.png
+      logo: https://api.akams.cn/favicon/nmap.org
       url: https://nmap.org/
       description: ''
     - title: sqlmap
-      logo: https://toolb.cn/favicon/sqlmap.org.png
+      logo: https://api.akams.cn/favicon/sqlmap.org
       url: https://sqlmap.org/
       description: ''
     - title: Metasploit
-      logo: https://toolb.cn/favicon/www.metasploit.com.png
+      logo: https://api.akams.cn/favicon/www.metasploit.com
       url: https://www.metasploit.com/
       description: ''
     - title: AWVS
-      logo: https://toolb.cn/favicon/www.acunetix.com.png
+      logo: https://api.akams.cn/favicon/www.acunetix.com
       url: https://www.acunetix.com/
       description: ''
     - title: Nessus
-      logo: https://toolb.cn/favicon/www.tenable.com.png
+      logo: https://api.akams.cn/favicon/www.tenable.com
       url: https://www.tenable.com/
       description: ''
     - title: Wireshark
-      logo: https://toolb.cn/favicon/www.wireshark.org.png
+      logo: https://api.akams.cn/favicon/www.wireshark.org
       url: https://www.wireshark.org/
       description: ''
     - title: Fiddler
-      logo: https://toolb.cn/favicon/www.telerik.com.png
+      logo: https://api.akams.cn/favicon/www.telerik.com
       url: https://www.telerik.com/fiddler
       description: ''
     - title: Charles
-      logo: https://toolb.cn/favicon/www.charlesproxy.com.png
+      logo: https://api.akams.cn/favicon/www.charlesproxy.com
       url: https://www.charlesproxy.com/
       description: ''
     - title: Burp Suite
-      logo: https://toolb.cn/favicon/portswigger.net.png
+      logo: https://api.akams.cn/favicon/portswigger.net
       url: https://portswigger.net/burp/releases
       description: ''
     - title: Yakit
-      logo: https://toolb.cn/favicon/www.yaklang.com.png
+      logo: https://api.akams.cn/favicon/www.yaklang.com
       url: https://www.yaklang.com/
       description: ''
     - title: Goby
-      logo: https://toolb.cn/favicon/gobysec.net.png
+      logo: https://api.akams.cn/favicon/gobysec.net
       url: https://gobysec.net/
       description: ''
     - title: ' 科来网络分析系统'
-      logo: https://toolb.cn/favicon/www.colasoft.com.cn.png
+      logo: https://api.akams.cn/favicon/www.colasoft.com.cn
       url: https://www.colasoft.com.cn/download/capsa.php
       description: ''
   - term: 浏览器插件
     links:
     - title: Shodan
-      logo: https://toolb.cn/favicon/chromewebstore.google.com.png
+      logo: https://api.akams.cn/favicon/chromewebstore.google.com
       url: https://chromewebstore.google.com/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap
       description: ''
     - title: Wappalyzer
-      logo: https://toolb.cn/favicon/chromewebstore.google.com.png
+      logo: https://api.akams.cn/favicon/chromewebstore.google.com
       url: https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg
       description: ''
     - title: Hack-Tools
-      logo: https://toolb.cn/favicon/chromewebstore.google.com.png
+      logo: https://api.akams.cn/favicon/chromewebstore.google.com
       url: https://chromewebstore.google.com/detail/hack-tools/cmbndhnoonmghfofefkcccljbkdpamhi
       description: ''
     - title: Vue.js devtools
-      logo: https://toolb.cn/favicon/chromewebstore.google.com.png
+      logo: https://api.akams.cn/favicon/chromewebstore.google.com
       url: https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd
       description: ''
     - title: HackBar
-      logo: https://toolb.cn/favicon/chromewebstore.google.com.png
+      logo: https://api.akams.cn/favicon/chromewebstore.google.com
       url: https://chromewebstore.google.com/detail/hackbar/ginpbkfigcoaokgflihfhhmglmbchinc
       description: ''
     - title: FindSomething
-      logo: https://toolb.cn/favicon/chromewebstore.google.com.png
+      logo: https://api.akams.cn/favicon/chromewebstore.google.com
       url: https://chromewebstore.google.com/detail/findsomething/kfhniponecokdefffkpagipffdefeldb
       description: ''
     - title: FeHelper(前端助手)
-      logo: https://toolb.cn/favicon/chromewebstore.google.com.png
+      logo: https://api.akams.cn/favicon/chromewebstore.google.com
       url: https://chromewebstore.google.com/detail/fehelper%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8B/pkgccpejnmalmdinmhkkfafefagiiiad
       description: ''
     - title: CyberChef
-      logo: https://toolb.cn/favicon/chromewebstore.google.com.png
+      logo: https://api.akams.cn/favicon/chromewebstore.google.com
       url: https://chromewebstore.google.com/detail/cyberchef/nohdddnojpoohngaacepdbpajiamblfp
       description: ''
   - term: DNSLog
     links:
     - title: dnslog.cn
-      logo: https://toolb.cn/favicon/dnslog.cn.png
+      logo: https://api.akams.cn/favicon/dnslog.cn
       url: http://dnslog.cn/
       description: ''
     - title: dnslog.org
-      logo: https://toolb.cn/favicon/dnslog.org.png
+      logo: https://api.akams.cn/favicon/dnslog.org
       url: https://dnslog.org/
       description: ''
     - title: dig.pm
-      logo: https://toolb.cn/favicon/dig.pm.png
+      logo: https://api.akams.cn/favicon/dig.pm
       url: https://dig.pm/
       description: ''
     - title: eyes.sh
-      logo: https://toolb.cn/favicon/eyes.sh.png
+      logo: https://api.akams.cn/favicon/eyes.sh
       url: http://eyes.sh/login
       description: ''
     - title: dnslog.pw
-      logo: https://toolb.cn/favicon/dnslog.pw.png
+      logo: https://api.akams.cn/favicon/dnslog.pw
       url: http://dnslog.pw/login
       description: ''
     - title: Hyuga
-      logo: https://toolb.cn/favicon/dnslog.ink.png
+      logo: https://api.akams.cn/favicon/dnslog.ink
       url: http://dnslog.ink/
       description: ''
     - title: CEYE
-      logo: https://toolb.cn/favicon/ceye.io.png
+      logo: https://api.akams.cn/favicon/ceye.io
       url: http://ceye.io/
       description: ''
     - title: Interactsh | Web Client
-      logo: https://toolb.cn/favicon/app.interactsh.com.png
+      logo: https://api.akams.cn/favicon/app.interactsh.com
       url: https://app.interactsh.com/#/
       description: ''
     - title: Dashboard - requestrepo.com
-      logo: https://toolb.cn/favicon/requestrepo.com.png
+      logo: https://api.akams.cn/favicon/requestrepo.com
       url: https://requestrepo.com/
       description: ''
   - term: 安全工具
     links:
     - title: 潮影在线免杀平台
-      logo: https://toolb.cn/favicon/bypass.tidesec.com.png
+      logo: https://api.akams.cn/favicon/bypass.tidesec.com
       url: http://bypass.tidesec.com/
       description: ''
     - title: XSSEE 3.0 Beta
-      logo: https://toolb.cn/favicon/evilcos.me.png
+      logo: https://api.akams.cn/favicon/evilcos.me
       url: https://evilcos.me/lab/xssee/
       description: ''
     - title: XSS'OR
-      logo: https://toolb.cn/favicon/xssor.io.png
+      logo: https://api.akams.cn/favicon/xssor.io
       url: http://xssor.io/
       description: ''
     - title: XSS平台
-      logo: https://toolb.cn/favicon/xss.sb.png
+      logo: https://api.akams.cn/favicon/xss.sb
       url: https://xss.sb/login/
       description: ''
     - title: 长亭百川云平台
-      logo: https://toolb.cn/favicon/rivers.chaitin.cn.png
+      logo: https://api.akams.cn/favicon/rivers.chaitin.cn
       url: https://rivers.chaitin.cn/
       description: ''
     - title: 在线 EXIF GPS 隐写术
-      logo: https://toolb.cn/favicon/lucasn-dev.github.io.png
+      logo: https://api.akams.cn/favicon/lucasn-dev.github.io
       url: https://lucasn-dev.github.io/EXIF-GPS-Steganography/
       description: ''
     - title: MetaDefender Cloud | Advanced threat prevention and detection
-      logo: https://toolb.cn/favicon/metadefender.opswat.com.png
+      logo: https://api.akams.cn/favicon/metadefender.opswat.com
       url: https://metadefender.opswat.com/
       description: ''
     - title: 💀 Sploitus | Exploit & Hacktool Search Engine
-      logo: https://toolb.cn/favicon/sploitus.com.png
+      logo: https://api.akams.cn/favicon/sploitus.com
       url: https://sploitus.com/
       description: ''
     - title: Projectdiscovery.io | Chaos
-      logo: https://toolb.cn/favicon/chaos.projectdiscovery.io.png
+      logo: https://api.akams.cn/favicon/chaos.projectdiscovery.io
       url: https://chaos.projectdiscovery.io/#/
       description: ''
     - title: REG007
-      logo: https://toolb.cn/favicon/www.reg007.com.png
+      logo: https://api.akams.cn/favicon/www.reg007.com
       url: https://www.reg007.com/
       description: ''
     - title: CTF在线工具
-      logo: https://toolb.cn/favicon/www.hiencode.com.png
+      logo: https://api.akams.cn/favicon/www.hiencode.com
       url: http://www.hiencode.com/?ref=www.hackjie.com
       description: ''
     - title: JSON Web Tokens
-      logo: https://toolb.cn/favicon/jwt.io.png
+      logo: https://api.akams.cn/favicon/jwt.io
       url: https://jwt.io/
       description: ''
     - title: Swagger Editor
-      logo: https://toolb.cn/favicon/editor.swagger.io.png
+      logo: https://api.akams.cn/favicon/editor.swagger.io
       url: https://editor.swagger.io/
       description: ''
   - term: 提权辅助
     links:
     - title: 反弹shell
-      logo: https://toolb.cn/favicon/forum.ywhack.com.png
+      logo: https://api.akams.cn/favicon/forum.ywhack.com
       url: https://forum.ywhack.com/shell.php
       description: ''
     - title: Reverse Shell Generator
-      logo: https://toolb.cn/favicon/www.revshells.com.png
+      logo: https://api.akams.cn/favicon/www.revshells.com
       url: https://www.revshells.com/
       description: ''
     - title: Reverse shell cheatsheet
-      logo: https://toolb.cn/favicon/www.shentoushi.top.png
+      logo: https://api.akams.cn/favicon/www.shentoushi.top
       url: https://www.shentoushi.top/tools/misc/reverse_shell.php
       description: ''
     - title: 杀软在线识别-渊龙Sec安全团队
@@ -1646,38 +1646,38 @@
   icon: fas fa-book-open
   links:
   - title: PeiQi文库
-    logo: https://toolb.cn/favicon/peiqi.wgpsec.org.png
+    logo: https://api.akams.cn/favicon/peiqi.wgpsec.org
     url: https://peiqi.wgpsec.org/
     description: ''
   - title: 白阁文库
-    logo: https://toolb.cn/favicon/wiki.bylibrary.cn.png
+    logo: https://api.akams.cn/favicon/wiki.bylibrary.cn
     url: https://wiki.bylibrary.cn/
     description: ''
   - title: 狼组安全团队公开知识库
-    logo: https://toolb.cn/favicon/wiki.wgpsec.org.png
+    logo: https://api.akams.cn/favicon/wiki.wgpsec.org
     url: https://wiki.wgpsec.org/knowledge/
     description: ''
   - title: wy876漏洞文库
-    logo: https://toolb.cn/favicon/wiki.wy876.cn.png
+    logo: https://api.akams.cn/favicon/wiki.wy876.cn
     url: https://wiki.wy876.cn/#/
     description: ''
 - taxonomy: 测试靶场
   icon: fa fa-flag
   links:
   - title: Acunetix
-    logo: https://toolb.cn/favicon/testphp.vulnweb.com.png
+    logo: https://api.akams.cn/favicon/testphp.vulnweb.com
     url: http://testphp.vulnweb.com/search.php
     description: ''
   - title: BUUCTF在线评测
-    logo: https://toolb.cn/favicon/buuoj.cn.png
+    logo: https://api.akams.cn/favicon/buuoj.cn
     url: https://buuoj.cn/
     description: ''
   - title: Bugku CTF
-    logo: https://toolb.cn/favicon/ctf.bugku.com.png
+    logo: https://api.akams.cn/favicon/ctf.bugku.com
     url: https://ctf.bugku.com/
     description: ''
   - title: CTFHub
-    logo: https://toolb.cn/favicon/www.ctfhub.com.png
+    logo: https://api.akams.cn/favicon/www.ctfhub.com
     url: https://www.ctfhub.com/#/user/login
     description: ''
   - title: WgpSec CTF
@@ -1685,31 +1685,31 @@
     url: https://ctf.wgpsec.org/
     description: ''
   - title: CTFtime
-    logo: https://ctftime.org/favicon.png
+    logo: https://ctftime.org/favicon
     url: https://ctftime.org/
     description: '国际CTF平台'
   - title: vulfocus
-    logo: https://toolb.cn/favicon/vulfocus.cn.png
+    logo: https://api.akams.cn/favicon/vulfocus.cn
     url: https://vulfocus.cn/#/login?redirect=%2Fnotices%2Fall
     description: ''
   - title: Vulhub - Docker-Compose file for vulnerability environment
-    logo: https://toolb.cn/favicon/vulhub.org.png
+    logo: https://api.akams.cn/favicon/vulhub.org
     url: https://vulhub.org/
     description: ''
   - title: 'Hack The Box: Hacking Training For The Best | Individuals & Companies'
-    logo: https://toolb.cn/favicon/www.hackthebox.com.png
+    logo: https://api.akams.cn/favicon/www.hackthebox.com
     url: https://www.hackthebox.com/
     description: ''
   - title: XSS挑战
-    logo: https://toolb.cn/favicon/xssaq.com.png
+    logo: https://api.akams.cn/favicon/xssaq.com
     url: https://xssaq.com/yx/
     description: ''
   - title: XSS平台-仅用于xss安全测试专用
-    logo: https://toolb.cn/favicon/xssaq.com.png
+    logo: https://api.akams.cn/favicon/xssaq.com
     url: https://xssaq.com/login/
     description: ''
   - title: 封神台
-    logo: https://toolb.cn/favicon/hack.zkaq.cn.png
+    logo: https://api.akams.cn/favicon/hack.zkaq.cn
     url: https://hack.zkaq.cn/
     description: ''
 - taxonomy: 在线工具
@@ -1718,157 +1718,157 @@
   - term: IP地址查询
     links:
     - title: iP地址查询 - ip138
-      logo: https://toolb.cn/favicon/www.ip138.com.png
+      logo: https://api.akams.cn/favicon/www.ip138.com
       url: https://www.ip138.com/
       description: ''
     - title: 淘宝IP地址库
-      logo: https://toolb.cn/favicon/ip.taobao.com.png
+      logo: https://api.akams.cn/favicon/ip.taobao.com
       url: https://ip.taobao.com/ipSearch
       description: ''
     - title: IP地址查询
-      logo: https://toolb.cn/favicon/tool.lu.png
+      logo: https://api.akams.cn/favicon/tool.lu
       url: https://tool.lu/ip/
       description: ''
     - title: IP地址查询
-      logo: https://toolb.cn/favicon/www.qqzeng.com.png
+      logo: https://api.akams.cn/favicon/www.qqzeng.com
       url: https://www.qqzeng.com/ip/
       description: ''
     - title: 警戒区
-      logo: https://toolb.cn/favicon/jingjiequ.com.png
+      logo: https://api.akams.cn/favicon/jingjiequ.com
       url: https://jingjiequ.com/tools/ip
       description: ''
     - title: 埃文IP
-      logo: https://toolb.cn/favicon/www.ipuu.net.png
+      logo: https://api.akams.cn/favicon/www.ipuu.net
       url: https://www.ipuu.net/Home
       description: ''
     - title: 纯真IP
-      logo: https://toolb.cn/favicon/www.cz88.net.png
+      logo: https://api.akams.cn/favicon/www.cz88.net
       url: https://www.cz88.net/iplab
       description: ''
     - title: IP地址查询
-      logo: https://toolb.cn/favicon/www.sojson.com.png
+      logo: https://api.akams.cn/favicon/www.sojson.com
       url: https://www.sojson.com/ip/
       description: ''
     - title: Whois - 中国互联网络信息中心
-      logo: https://toolb.cn/favicon/ipwhois.cnnic.cn.png
+      logo: https://api.akams.cn/favicon/ipwhois.cnnic.cn
       url: https://ipwhois.cnnic.cn/index.jsp
       description: ''
   - term: 文本处理
     links:
     - title: CURL命令转代码 - 在线工具
-      logo: https://toolb.cn/favicon/tools.fun.png
+      logo: https://api.akams.cn/favicon/tools.fun
       url: https://tools.fun/curl.html
       description: ''
     - title: JSON / YAML 转换工具 - 在线工具
-      logo: https://toolb.cn/favicon/tools.fun.png
+      logo: https://api.akams.cn/favicon/tools.fun
       url: https://tools.fun/json2yaml.html
       description: ''
     - title: hex16进制字符串转换（在线）
-      logo: https://toolb.cn/favicon/tool.hiofd.com.png
+      logo: https://api.akams.cn/favicon/tool.hiofd.com
       url: https://tool.hiofd.com/hex-convert-string-online/
       description: ''
     - title: hex16进制字符串转换（在线）
-      logo: https://toolb.cn/favicon/www.toolscat.com.png
+      logo: https://api.akams.cn/favicon/www.toolscat.com
       url: https://www.toolscat.com/decode/hex
       description: ''
     - title: Hex转Base64
-      logo: https://toolb.cn/favicon/www.jpwz.vip.png
+      logo: https://api.akams.cn/favicon/www.jpwz.vip
       url: https://www.jpwz.vip/tool/hextobase64.html
       description: ''
     - title: 字符计数器
-      logo: https://toolb.cn/favicon/charactercalculator.com.png
+      logo: https://api.akams.cn/favicon/charactercalculator.com
       url: https://charactercalculator.com/zh-cn/
       description: ''
   - term: 正则测试
     links:
     - title: RegExr
-      logo: https://toolb.cn/favicon/regexr.com.png
+      logo: https://api.akams.cn/favicon/regexr.com
       url: https://regexr.com/
       description: ''
     - title: RegExr中文
-      logo: https://toolb.cn/favicon/regexr-cn.com.png
+      logo: https://api.akams.cn/favicon/regexr-cn.com
       url: https://regexr-cn.com/
       description: 'RegExr中文翻译版'
     - title: regex101
-      logo: https://toolb.cn/favicon/regex101.com.png
+      logo: https://api.akams.cn/favicon/regex101.com
       url: https://regex101.com/
       description: ''
 - taxonomy: 临时
   icon: fas fa-shield-alt fa-lg icon-fw icon-lg mr-2
   links:
   - title: JS格式化
-    logo: https://toolb.cn/favicon/beautifier.io.png
+    logo: https://api.akams.cn/favicon/beautifier.io
     url: https://beautifier.io/
     description: ''
   - title: 代码在线运行
-    logo: https://toolb.cn/favicon/tool.lu.png
+    logo: https://api.akams.cn/favicon/tool.lu
     url: https://tool.lu/coderunner/
     description: ''
   - title: 在线加密/解密
-    logo: https://toolb.cn/favicon/www.sojson.com.png
+    logo: https://api.akams.cn/favicon/www.sojson.com
     url: https://www.sojson.com/encrypt.html
     description: ''
   - title: Hash 类型识别
-    logo: https://toolb.cn/favicon/w-e-b.site.png
+    logo: https://api.akams.cn/favicon/w-e-b.site
     url: https://w-e-b.site/?act=hashtag
     description: ''
   - title: Bug Bounty Helper
-    logo: https://toolb.cn/favicon/dorks.faisalahmed.me.png
+    logo: https://api.akams.cn/favicon/dorks.faisalahmed.me
     url: https://dorks.faisalahmed.me/
     description: ''
   - title: 旁站查询
-    logo: https://toolb.cn/favicon/chapangzhan.com.png
+    logo: https://api.akams.cn/favicon/chapangzhan.com
     url: https://chapangzhan.com/
     description: ''
   - title: JWT Token在线解析解码 - ToolTT在线工具箱
-    logo: https://toolb.cn/favicon/tooltt.com.png
+    logo: https://api.akams.cn/favicon/tooltt.com
     url: https://tooltt.com/jwt-decode/
     description: ''
   - title: Unicode Encode JSP
-    logo: https://toolb.cn/favicon/www.shentoushi.top.png
+    logo: https://api.akams.cn/favicon/www.shentoushi.top
     url: https://www.shentoushi.top/unicode-jsp.html
     description: ''
   - title: 在线域名批量反查IP工具 - UU在线工具
-    logo: https://toolb.cn/favicon/uutool.cn.png
+    logo: https://api.akams.cn/favicon/uutool.cn
     url: https://uutool.cn/domain-ip/
     description: ''
   - title: LeakIX
-    logo: https://toolb.cn/favicon/leakix.net.png
+    logo: https://api.akams.cn/favicon/leakix.net
     url: https://leakix.net/
     description: ''
   - title: ASCII Generator
-    logo: https://toolb.cn/favicon/www.network-science.de.png
+    logo: https://api.akams.cn/favicon/www.network-science.de
     url: http://www.network-science.de/ascii/
     description: ''
   - title: Spring Boot banner在线生成
-    logo: https://toolb.cn/favicon/www.bootschool.net.png
+    logo: https://api.akams.cn/favicon/www.bootschool.net
     url: https://www.bootschool.net/ascii
     description: ''
   - title: Overview - Nuclei Documentation
-    logo: https://toolb.cn/favicon/docs.nuclei.sh.png
+    logo: https://api.akams.cn/favicon/docs.nuclei.sh
     url: https://docs.nuclei.sh/getting-started/overview
     description: ''
   - title: 在线ping - itdog
-    logo: https://toolb.cn/favicon/www.itdog.cn.png
+    logo: https://api.akams.cn/favicon/www.itdog.cn
     url: https://www.itdog.cn/ping/
     description: ''
   - title: 百川在线工具箱
-    logo: https://toolb.cn/favicon/rivers.chaitin.cn.png
+    logo: https://api.akams.cn/favicon/rivers.chaitin.cn
     url: https://rivers.chaitin.cn/tools/
     description: ''
   - title: Cross-Site Scripting (XSS) Cheat Sheet
-    logo: https://toolb.cn/favicon/portswigger.net.png
+    logo: https://api.akams.cn/favicon/portswigger.net
     url: https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
     description: ''
   - title: The BBC Africa Eye /Forensics Dashboard - start.me
-    logo: https://toolb.cn/favicon/start.me.png
+    logo: https://api.akams.cn/favicon/start.me
     url: https://start.me/p/m6OJgv/the-bbc-africa-eye-forensics-dashboard
     description: ''
   - title: Internet Archive | 互联网档案馆
-    logo: https://toolb.cn/favicon/archive.org.png
+    logo: https://api.akams.cn/favicon/archive.org
     url: https://archive.org/
     description: ''
   - title: BugBountyHunting.com - A community-curated Resource for Bug Bounty Hunting
-    logo: https://toolb.cn/favicon/www.bugbountyhunting.com.png
+    logo: https://api.akams.cn/favicon/www.bugbountyhunting.com
     url: https://www.bugbountyhunting.com/
     description: ''
